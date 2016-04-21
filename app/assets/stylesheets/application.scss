@@ -76,6 +76,7 @@ body{
 						position: $absolute;
 						padding: 5px 0 5px 0;
 						margin-top: 6px;
+						z-index: 1;
 						li{
 							display: none;
 							list-style-type: none;
@@ -132,9 +133,12 @@ body{
 							li{
 								display: block;
 								list-style-type: none;
-							}
-							a{
-								font: normal 14px Arial;
+								a{
+									font: normal 14px Arial;
+									&:hover{
+										text-decoration: underline;
+									}
+								}
 							}
 						}
 					}

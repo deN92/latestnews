@@ -32,13 +32,13 @@
 					<ul id = "ul_bl_other">
 						<% Category.order("id").each do |c| %>
 							<li class = "all_categories" id = <%= c.category_link%>><%= link_to c.category_name %>
-									<ul>
-										<% c.subcategories.each do |sc| %>
-											<li class= <%= "c#{sc.category_id}"%>>
-												<%= link_to sc.subcategory_name %>
-											</li>
-										<%end%>
-									</ul>
+								<ul>
+									<% c.subcategories.each do |sc| %>
+										<li class= <%= "c#{sc.category_id}"%>>
+											<%= link_to sc.subcategory_name, category_subcategory_path(c.category_link, sc.subcategory_link) %>
+										</li>
+									<%end%>
+								</ul>
 							</li>
 						<% end %>
 					<ul>

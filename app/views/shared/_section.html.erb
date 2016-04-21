@@ -1,0 +1,15 @@
+<%= render :partial => "./shared/slider" %>
+<div id = "block_articles">
+	<table>
+		<% @articles.each do |a| %>
+			<tr>
+				<td class = "data_times">
+					<span class = "times"><%= a.created_at.strftime("%k:%M") %></span>
+					<span class = "data"><%= a.created_at.strftime("%d/%m") %></span>
+				</td>
+				<% category_link = a.subcategory.category.category_link %>
+				<td class = "article_name"><%= link_to a.tittle, category_article_path(category_link, a.article_link) %></td>
+			</tr>
+		<%end%>
+	</table>
+</div>

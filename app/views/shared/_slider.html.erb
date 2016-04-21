@@ -1,0 +1,17 @@
+<div id="slider_main_images">
+	<div class = "main_images">
+		<% @articles.select{|a|a.main_article == true}.each do |a| %>
+			<div id = <%= "a#{a.id}"%> class = "main_image">
+				<% category_link = a.subcategory.category.category_link %>
+				<p class="pimg">
+					<%= link_to image_tag(a.main_image), category_article_path(category_link, a.article_link) %>
+				</p>
+				<p class="ptittle">
+					<%= link_to a.tittle, category_article_path(category_link, a.article_link) %>
+				</p>
+			</div>
+		<% end %>
+	</div>
+	<div id = "main_image_back"></div>
+	<div id = "main_image_next"></div>
+</div>
