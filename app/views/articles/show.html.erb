@@ -1,4 +1,27 @@
 <article>
 	<h1><%= @article.tittle%></h1>
-	<div><%= @article.body%></div>
+	<div id="article_body"><%= @article.body%></div>
 </article>
+
+<div id = "block_comments">
+	<h3>Коментарі</h3>
+	<div id = "comments_show">
+		<% @article.comments.each do |c| %>
+			<div class = "comment" >
+				<p class = "comment_info">
+					<span class = "comment_user"><%= c.user.email %></span>
+					<span class = "comment_time"><%= c.created_at.strftime("%k:%M | %d/%m") %></span>
+				</p>
+				<p class = "comment_body"><%= c.body %></p>
+			</div>
+		<% end %>
+	</div>
+	<h4>Додати коментар: </h4>
+	<div id = "comment_add">
+		<%= form_for [@article, @comment_new] do |f| %>
+			<%= f.hidden_field :article_id, value: "#{@article.id}" %>
+			<p id = "create_comment_body"><%= f.text_area :body %></p>
+			<p><%= f.button "Create"%></p>
+		<%end%>
+	</div>
+</div>

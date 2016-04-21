@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 gem 'jquery-turbolinks', '~> 2.1.0'
 gem 'friendly_id', '~> 5.1.0'
 gem 'rails', '4.2.4'

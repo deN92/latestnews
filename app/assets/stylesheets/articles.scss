@@ -1,3 +1,59 @@
-// Place all the styles related to the articles controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+main{
+	article{
+		outline: 1px solid #ccc;
+		background-color: #fff;
+		width: 78%;
+		h1{
+			color: #333;
+			font: Bold 20px Tahoma, sans-serif;
+			margin-bottom: 5px;
+			text-align: center;
+		}
+		#article_body{
+		}
+	}
+
+	#block_comments{
+		outline: 1px solid #ccc;
+		background-color: #fff;
+		width: 78%;
+		#comments_show{
+			border-top: 3px solid orange;
+			border-bottom: 3px solid orange;
+			.comment{
+				// padding: 1px 5px;
+				padding: 1px 6px;
+				margin: 10px;
+				outline: 1px solid #ccc;
+				.comment_info{
+					.comment_user{
+						font: Bold 14px Garamond, sans-serif;
+						color: #032782;
+					}
+					.comment_time{
+						float: right;
+						padding-right: 5px;
+						font: Bold 10px Arial, sans-serif;
+						color: #444;
+					}
+				}
+				.comment_body{
+					width: 450px;
+					padding: 5px;
+					overflow: hidden;
+					font: 15px Calibri, sans-serif;
+				}
+			}
+		}
+
+		#comment_add{
+			width: 50%;
+			// outline: 1px solid #ccc;
+			#comment_body{
+				width: 80%;
+				max-height: 100px;
+				min-height: 50px;
+			}
+		}
+	}
+}
