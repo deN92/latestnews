@@ -1,39 +1,47 @@
-<h2>Edit <%= resource_name.to_s.humanize %></h2>
+<div id = "blAcc_edit">
+  <h1>Edit <%= resource_name.to_s.humanize %></h1>
 
-<%= form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }) do |f| %>
-  <%= devise_error_messages! %>
+  <%= simple_form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }) do |f| %>
+    <%= devise_error_messages! %>
 
-  <div class="field">
-    <%= f.label :email %><br />
-    <%= f.email_field :email, autofocus: true %>
-  </div>
+    <div id = "blEmail">
+      <%= f.input :email, :autofocus => true, placeholder: "Email", label: "<i id = \"icon_email\" class=\"fa fa-envelope-o fa-fw\"></i>".html_safe %>
+    </div>
 
-  <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
-    <div>Currently waiting confirmation for: <%= resource.unconfirmed_email %></div>
+    <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
+      <div>Currently waiting confirmation for: <%= resource.unconfirmed_email %></div>
+    <% end %>
+
+    <div class = "blPass">
+      <%= f.input :current_password, placeholder: "Поточний пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
+    </div>
+
+    <div id = "form_acc_edit">
+      <form>
+          <input type="radio" name="acc_edit" value="pass_edit" checked> Змінити пароль<br>
+          <input type="radio" name="acc_edit" value="acc_delete"> Видалити аккаунт<br>
+      </form>
+    </div>
+
+    <div class = "bl_checked" id = "pass_edit">
+      <h3> Зміна паролю </h3>
+      <div class = "blPass">
+        <%= f.input :password, placeholder: "Новий пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
+      </div>
+
+      <div class = "blPass">
+        <%= f.input :password_confirmation, placeholder: "Повторіть пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
+      </div>
+      <div id = "bl_submit">
+        <%= f.button :submit, "Оновити" %>
+      </div>
+    </div>
+    <div class = "bl_checked" id = "acc_delete">
+      <h3>Видалення аккаунту</h3>
+      <%= button_to "Видалити аккаунт?", registration_path(resource_name), data: { confirm: "Ви впевнені?" }, method: :delete %></p>
+    </div>
   <% end %>
-
-  <div class="field">
-    <%= f.label :password %> <i>(leave blank if you don't want to change it)</i><br />
-    <%= f.password_field :password, autocomplete: "off" %>
+  <div id="other_links">
+    <%= link_to "Back", :back %>
   </div>
-
-  <div class="field">
-    <%= f.label :password_confirmation %><br />
-    <%= f.password_field :password_confirmation, autocomplete: "off" %>
-  </div>
-
-  <div class="field">
-    <%= f.label :current_password %> <i>(we need your current password to confirm your changes)</i><br />
-    <%= f.password_field :current_password, autocomplete: "off" %>
-  </div>
-
-  <div class="actions">
-    <%= f.submit "Update" %>
-  </div>
-<% end %>
-
-<h3>Cancel my account</h3>
-
-<p>Unhappy? <%= button_to "Cancel my account", registration_path(resource_name), data: { confirm: "Are you sure?" }, method: :delete %></p>
-
-<%= link_to "Back", :back %>
+</div>

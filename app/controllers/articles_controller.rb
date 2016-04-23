@@ -1,6 +1,11 @@
 class ArticlesController < ApplicationController
 	def show
-		@article = Article.friendly.find(params[:id])
-		@comment_new = Comment.new
+		begin
+			@article = Article.friendly.find(params[:id])
+			render text: "404" if @article.subcategory.category.category_link != params[:category_id]
+			@comment_new = Comment.new
+		rescue
+			render text: "404"
+		end
 	end
 end

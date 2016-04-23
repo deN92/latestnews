@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'devise'
+gem 'devise-i18n-views'
+gem 'font-awesome-rails'
+gem 'simple_form'
+gem 'kaminari', '~> 0.16.3'
+gem 'devise', '~> 4.0.0'
 gem 'jquery-turbolinks', '~> 2.1.0'
 gem 'friendly_id', '~> 5.1.0'
 gem 'rails', '4.2.4'

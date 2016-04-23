@@ -136,5 +136,54 @@ main{
 				}
 			}
 		}
+		#nPage{
+			width: 100%;
+			text-align: $center;
+			margin: 40px auto;
+			margin-bottom: 10px;
+
+			.pagination
+			{
+				padding: 1px;
+				// outline: 1px solid #ccc;
+				span
+				{	
+					// margin-right: -2px;
+
+					
+					a
+					{
+						outline: 1px solid #216D9C;
+						padding-top: 2px;
+						padding-bottom: 2px;
+						font: Bold 18px Garamond, sans-serif;
+						text-decoration: none;
+						background-color: $white;
+						padding-right: 10px;
+						padding-left: 10px;
+						color: #216D9C;
+
+					}
+				}
+
+				span.first, span.last{
+					a{
+						outline: 1px solid #7F7F7F;
+						background-color: #7F7F7F;
+						color: #ccc;
+					}
+				}
+
+				.page.current
+				{
+					margin-right: 4px;
+					padding: 2px 4px 2px 8px;
+					outline: 1px solid #216D9C;
+					font: Bold 18px Garamond, sans-serif;
+					background-color: #216D9C;
+					color: $white;
+				}
+			}
+		}
 	}
 }

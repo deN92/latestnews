@@ -1,6 +1,6 @@
 class CategoriesController < ApplicationController
 	def index
-		@articles = Article.all
+		@articles = Article.order(:id).page(params[:page]).per(5)
 		@articles_last = []
 		Category.order(:id).each do |c|
 			c.subcategories.last(1).each do |s|
