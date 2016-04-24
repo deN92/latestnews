@@ -12,12 +12,7 @@
       <%= f.input :password, placeholder: "Пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
     </div>
 
-    <% if devise_mapping.rememberable? -%>
-      <div id = "blremember_me2">
-        <%= f.check_box :remember_me%>
-        <%= f.label :remember_me %>
-      </div>
-    <% end %>
+
 
     <div id="other_links">
       <%= render "devise/shared/links" %>

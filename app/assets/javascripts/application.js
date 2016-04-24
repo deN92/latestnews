@@ -14,6 +14,29 @@ $(document).ready(function(){
 		$("nav ul#menu_categories li ul ." + c_id).hide();
 	});
 
+	$("#authentication ul li#in").click(function(eventObject){
+		eventObject.preventDefault();
+		if ($('#outsidePopup').css("display") === "none"){
+			$('#outsidePopup').show();}
+		else{
+			$('#outsidePopup').hide();}
+	});
+
+	$('#blClose').click(function(eventObject){
+		$('#outsidePopup').hide();})
+
+
+	$("#authentication #blCurrentUser").mouseover(function(eventObject){
+		$("#authentication #menu_curr_user").show();
+		$("#authentication #blCurrentUser a").css("color","black");
+	});
+
+	$("#authentication #blCurrentUser").mouseout(function(eventObject){
+		$("#authentication #menu_curr_user").hide();
+		$("#authentication #blCurrentUser a").css("color","white");
+	});
+
+
 	var main_menu_width = $("nav ul#menu_categories").width();
 	var li_length = $("nav ul#menu_categories .categories").length;
 	var li_width = 0;

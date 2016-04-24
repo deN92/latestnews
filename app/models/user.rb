@@ -5,6 +5,7 @@ class User < ActiveRecord::Base
 
 	has_many :comments
 
-	validates :email, :password, :password_confirmation, :current_password, presence: true
-	validates :email, uniqueness: true
+	validates :email, presence: true, length: { in: 6..30 }
+	validates :password, :password_confirmation, presence: true, on: :create
+	validates :password, length: { maximum: 30 }
 end

@@ -2,6 +2,8 @@ en:
   activerecord:
     errors:
       messages:
+        too_long: "кількість символів завелика (максимум %{count})"
+        too_short: "кількість символів замала (мінімум %{count})"
         taken: "Така пошта вже існує"
         confirmation: "Пароль не співпадає"
       models:
@@ -11,9 +13,12 @@ en:
               blank: "Поле не може бути порожнім"
             email:
               blank: "Поле не може бути порожнім"
-              invalid: "Не дійсний"
+              invalid: "email не дійсний"
             password:
-              too_short: "Пароль є закороткий (мінімум 6 символів)"
+              too_short: "Пароль є закороткий (мінімум %{count} символів)"
+              invalid: "Пароль не дійсний"
+            current_password:
+              invalid: "Пароль не дійсний"
     attributes:
       user:
         current_password: "Поточний пароль"
@@ -119,6 +124,7 @@ en:
         resend_unlock_instructions: "Вислати підтвердження заново"
   errors:
     messages:
+      blank: "поле не може бути порожнім"
       already_confirmed: "Уже підтвердили, будь ласка, спробуйте увійти в"
       confirmation_period_expired: "Повинно бути підтверджено протягом періоду %{period}, будь ласка, запитайте новий"
       expired: "минув, будь ласка, запитайте новий"

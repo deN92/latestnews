@@ -1,0 +1,22 @@
+<div id ="outsidePopup">
+<div id = "blPopup">
+<div id = "blClose", title = "Закрити"></div>
+  <h1>Вхід</h1>
+<%= form_for(User.new, :url => session_path(:user)) do |f| %>
+  <div id ="blEmail"><%= f.label :'email:' %><br />
+  <%= f.email_field :email, :autofocus => true %></div>
+
+  <div id ="blPass"><%= f.label :'Пароль:' %><br />
+  <%= f.password_field :password %></div>
+
+  <% if devise_mapping.rememberable? -%>
+    <div id ="remember_me"><%= f.check_box :remember_me, checked: true%>
+      <%= f.label :'Запам\'ятати' %></div>
+  <% end %>
+  <%= render "devise/shared/links" %>
+  <div id = "sign_in"><%= f.submit "Увійти" %></div>
+<% end %>
+  
+
+</div>
+</div>

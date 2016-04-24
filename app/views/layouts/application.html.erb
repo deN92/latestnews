@@ -9,13 +9,28 @@
 	<body>
 		<div id ="wrapper">
 			<header>
-				<%= link_to "Sign out", destroy_user_session_path, :method => :delete if user_signed_in?%>
-				<%= current_user.email if user_signed_in? %>
-				<%= link_to "Sign", user_session_path unless user_signed_in?%>	
 				<%= link_to	'<div id="blLogo"><img src="/assets/application/logo.png"></div>'.html_safe, categories_path %>
 				<%= link_to '<p id="name">	<span id="txtwhite">Останні</span><span id="txtblack"> Новини</span></br>
 												<span id="subtext">Завжди правдиві новини</span></p>'.html_safe %>
-				<%= link_to "Редагувати акканут", edit_registration_path(:user)%>
+				<div id="authentication">
+					<ul>
+						<% if user_signed_in? %>
+							<li id = "blCurrentUser"><%= link_to current_user.email, root_path %>
+								<ul id = "menu_curr_user">
+									<li class = "item_menu"><%= link_to "Редагувати", root_path, id: "accEdit"%></li>
+									<li class = "item_menu"><%= link_to "Вихід", destroy_user_session_path, :method => :delete%></li>
+									<li class = "item_menu"><%= link_to "Редагувати", root_path, id: "accEdit"%></li>
+								</ul>
+							</li>
+						<% end %>
+						<% unless user_signed_in? %>
+							<li id = "up"><%= link_to "Реєстрація", new_user_registration_path%></li>
+							<li id = "sep"><%= "|".html_safe %></li>
+							<li id = "in"><%= link_to "Вхід", new_user_session_path %></li>
+						<%end%>
+					</ul>
+					<%= render :partial => "devise/sessions/new"%>
+				</div> 
 			</header>
 			<nav id = "main_menu">
 				<ul id = "menu_categories">
