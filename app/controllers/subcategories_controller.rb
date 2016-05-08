@@ -7,11 +7,11 @@ class SubcategoriesController < ApplicationController
 				@articles = []
 				@articles_last = []
 				@categories.each do |c|
+					c.articles.each do |a|
+						@articles << a
+					end
+					@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(10)
 					c.subcategories.each do |sc|
-						sc.articles.each do |a|
-							@articles << a
-						end
-						@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(10)
 						sc.articles.last(1).each do |a|
 							@articles_last << a
 						end

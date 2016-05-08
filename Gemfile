@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'babosa', '~> 1.0.2'
+gem 'fastimage', '~> 1.9.0'
+gem 'carrierwave', '~> 0.10.0'
+gem 'activeadmin', github: 'activeadmin'
 gem 'devise-i18n-views'
 gem 'font-awesome-rails'
 gem 'simple_form'

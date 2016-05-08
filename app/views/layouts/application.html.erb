@@ -17,9 +17,8 @@
 						<% if user_signed_in? %>
 							<li id = "blCurrentUser"><%= link_to current_user.email, root_path %>
 								<ul id = "menu_curr_user">
-									<li class = "item_menu"><%= link_to "Редагувати", root_path, id: "accEdit"%></li>
+									<li class = "item_menu"><%= link_to "Редагувати", edit_registration_path(:user) %></li>
 									<li class = "item_menu"><%= link_to "Вихід", destroy_user_session_path, :method => :delete%></li>
-									<li class = "item_menu"><%= link_to "Редагувати", root_path, id: "accEdit"%></li>
 								</ul>
 							</li>
 						<% end %>
@@ -38,8 +37,8 @@
 						<li id = <%= c.category_link%> class = "categories">
 							<%= link_to c.category_name, category_path(c.category_link) %>
 							<ul class = "menu_subcategories">
-								<% c.subcategories.where(menu_show: true).each do |sc| %>
-									<li class = <%=c.category_link%>><%= link_to sc.subcategory_name, category_subcategory_path(c.category_link, sc.subcategory_link) %></li>
+								<% c.catsubcategories.where(category_id: c.id).where(menu_show: true).each do |csc| %>
+										<li class = <%=c.category_link%>><%= link_to csc.subcategory.subcategory_name, category_subcategory_path(c.category_link, csc.subcategory.subcategory_link) %></li>
 								<%end%>
 							</ul>
 						</li>
@@ -52,9 +51,9 @@
 						<% Category.order("id").each do |c| %>
 							<li class = "all_categories" id = <%= c.category_link%>><%= link_to c.category_name %>
 								<ul>
-									<% c.subcategories.each do |sc| %>
+									<% c.catsubcategories.where(category_id: c.id).where(menu_show: true).each do |sc| %>
 										<li class= <%= "c#{sc.category_id}"%>>
-											<%= link_to sc.subcategory_name, category_subcategory_path(c.category_link, sc.subcategory_link) %>
+											<%= link_to sc.subcategory.subcategory_name, category_subcategory_path(c.category_link, sc.subcategory.subcategory_link) %>
 										</li>
 									<%end%>
 								</ul>

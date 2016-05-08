@@ -10,6 +10,7 @@ main{
 		display: inline-block;
 		height: auto;
 		width: 17%;
+		overflow:hidden;
 	}
 
 	aside#left{
@@ -28,6 +29,7 @@ main{
 				max-width: 100%;
 			}
 		}
+
 	}
 
 	section{
