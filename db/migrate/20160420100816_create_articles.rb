@@ -9,6 +9,7 @@ class CreateArticles < ActiveRecord::Migration
 			t.string   :body,              limit: 150, null: false
 			t.string   :main_image,        limit: 150
 			t.boolean  :enable_comments,   default: true
+			t.integer  :count_comments,    limit: 6
 			t.boolean  :main_article,      default: false
 			t.timestamps null: false
 		end

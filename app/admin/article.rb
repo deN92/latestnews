@@ -4,6 +4,11 @@ ActiveAdmin.register Article do
 			categories_ids: [:id],
 		subcategories_ids: [:id]
 
+	action_item :edit do
+		"<%= asset_path 'application.css' %>".html_safe
+		"<script src=\"//cdn.tinymce.com/4/tinymce.min.js\"></script>".html_safe
+	end
+
 	before_filter :only => [:edit, :update, :show] do
 		@article = Article.friendly.find(params[:id])
 	end
@@ -36,14 +41,13 @@ ActiveAdmin.register Article do
 
 	form do |f|
 
-		div do f.label :category 
-			f.input :category, collection: Category.all.map{|c| [c.category_name, c.id]}, :include_blank => false
+		div do f.label :category
+		end
+		div do 
+			f.select :category_id, Category.all.map{|c| [c.category_name, c.id]}, :include_blank => false, label: false
 		end
 		div do
-			# f.input :category, option_groups_from_collection_for_select(Category.all, :subcategories, :category_name, :id, :subcategory_name)
-			# f.input :category, :as => :select, collection: Category.all.map{|c| c.category_name, c.id})
 			f.select :subcategory_id, option_groups_from_collection_for_select(Category.all, :subcategories, :category_name, :id, :subcategory_name, f.object.subcategory_id)
-			# f.select :category_id, Category.joins(:articles).where(:articles => {:subcategory_id => 1})
 		end
 		div do f.label :main_article 
 		end
@@ -61,7 +65,8 @@ ActiveAdmin.register Article do
 		end
 		div do f.label :body 
 		end
-		div do f.text_field :body 
+		div do 
+			f.text_area :body, :class => "tinymce"
 		end
 
 		div do
@@ -90,5 +95,21 @@ ActiveAdmin.register Article do
 		end
 		f.button :ok
 	end
+
+	index do
+		selectable_column
+		column :id do |c|
+			link_to c.id, admin_article_path(c)
+		end
+		column :tittle
+		column :article_link
+		column :main_image do |n|
+			image_tag(n.main_image, style: "max-height: 50px; max-width: 200px;")
+		end
+		column :enable_comments
+		column :main_article
+		actions
+	end
+
 
 end

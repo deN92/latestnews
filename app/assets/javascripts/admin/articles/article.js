@@ -1,4 +1,5 @@
 //= require ../shared/admin_new_edit.js
+//= require tinymce
 
 YOUR_APP.articles = {
 	// index: function() { },

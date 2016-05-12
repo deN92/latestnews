@@ -1,8 +1,9 @@
 main{
 	article{
-		outline: 1px solid #ccc;
+		display: inline-block;
 		background-color: #fff;
 		width: 78%;
+		border-right: 1px solid #ccc;
 		h1{
 			color: #333;
 			font: Bold 20px Tahoma, sans-serif;
@@ -10,6 +11,14 @@ main{
 			text-align: center;
 		}
 		#article_body{
+
+			line-height: 1.75;
+			text-align: justify;
+			margin-right: 2%;
+			margin-left: 2%;
+			p{
+				text-indent: 20px;
+			}
 		}
 	}
 

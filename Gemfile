@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'tinymce-rails', '4.3.8'
 gem 'babosa', '~> 1.0.2'
 gem 'fastimage', '~> 1.9.0'
 gem 'carrierwave', '~> 0.10.0'

@@ -15,3 +15,75 @@
 // For example, to change the default status-tag color:
 //
 //   .status_tag { background: #6090DB; }
+#main_content #edit_article > label, #main_content #new_article > label
+{
+	display: block;
+	margin: 20px 0 5px 0;
+	font: 18px Times;
+}
+
+#article_category_ids{
+	visibility: hidden;
+}
+
+#article_subcategory_ids{
+	height: 210px;
+}
+
+#main_content #edit_article #mceu_39
+{
+	margin-bottom: 10px;
+}
+
+form fieldset:first-of-type ol > li label{
+	visibility: hidden;
+	position: absolute;
+}
+
+form fieldset:first-of-type > ol > li p{
+	text-align: left;
+}
+
+form fieldset:first-of-type > ol > li p.inline-hints{
+	margin-left: 0px;
+}
+
+form fieldset:last-of-type > ol{
+	padding: 10px;
+}
+
+#main_content #edit_article, #main_content #new_article{
+	margin-top: -10px;
+}
+
+#edit_article button, #new_article button{
+	margin-top: 10px;
+}
+
+#article_article_images_article_imgs{
+	display: block;
+	margin-bottom: 10px;
+}
+
+#main_content .inputs ol > img{
+	display: inline-block;
+	max-height: 120px;
+	margin-bottom: 10px;
+}
+
+#main_content #edit_article, #main_content #new_article{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.tinymce{
+	font-size: 14px !important;
+}
+
+body.mce-content-body {
+    font-size: 14px;
+}
+
+#edit_article select{
+	background: #F0F0F0;
+}

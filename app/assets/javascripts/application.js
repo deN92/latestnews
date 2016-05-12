@@ -3,7 +3,13 @@
 //= require jquery_ujs
 //= require jquery.turbolinks
 //= require turbolinks
-//= require_tree .
+//= require categories
+//= require subcategories
+//= require articles
+//= require comments
+
+
+
 $(document).ready(function(){
 	$("nav ul#menu_categories li").mouseover(function(){
 		var c_id = $(this).attr("id");

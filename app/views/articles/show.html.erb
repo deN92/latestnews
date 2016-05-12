@@ -1,7 +1,14 @@
 <article>
 	<h1><%= @article.tittle%></h1>
-	<div id="article_body"><%= @article.body%></div>
+	<div id="article_body"><%= @article.body.html_safe%><p style = "font-weight: Bold"> DW.COM</p></div>
 </article>
+
+<aside id="right">
+	<% @articles_last.each do |a| %>
+		<%= render :partial => "./shared/aside", locals: { a: a } %>
+	<%end%>
+</aside>
+
 
 <div id = "block_comments">
 	<h3>Коментарі</h3>

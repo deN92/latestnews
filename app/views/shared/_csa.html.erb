@@ -1,0 +1,15 @@
+<aside id="left">
+	<% @articles_last.each do |a| %>
+		<%= render :partial => "./shared/aside", locals: { a: a } %>
+	<%end%>
+</aside>
+
+<section>
+	<%= render :partial => "./shared/section" %>
+</section>
+
+<aside id="right">
+	<% @articles_comments.each do |a| %>
+		<%= render :partial => "./shared/aside", locals: { a: a } %>
+	<%end%>
+</aside>
