@@ -87,3 +87,20 @@ body.mce-content-body {
 #edit_article select{
 	background: #F0F0F0;
 }
+
+.bbc_news{
+	outline: 1px solid #ccc;
+	margin-bottom: 5px;
+	cursor: pointer;
+
+	.bbc_title{
+		p{
+			font: Bold 14px Times;
+		}
+	}
+	.bbc_desc{
+		p{
+			font: 12px Times;
+		}
+	}
+}

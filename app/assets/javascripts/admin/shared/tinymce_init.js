@@ -1,7 +1,18 @@
 //= require active_admin/base 
 //= require tinymce
 
+
+
+
+
 $(document).ready(function() {
+
+	var news_content;
+	$(".bbc_news").click(function(eventObject){
+		news_content = $(this) + $('.bbc_link p').text();
+	});	
+
+
 	tinymce.init({
 		selector: "textarea",
 		plugins: [
@@ -12,7 +23,7 @@ $(document).ready(function() {
 
 		toolbar1: "fontselect fontsizeselect styleselect formatselect | forecolor backcolor | newdocument | removeformat",
 		toolbar2: "bold italic underline strikethrough | alignleft aligncenter alignright alignjustify | outdent indent | bullist numlist | table | template pagebreak",
-		toolbar3: "preview searchreplace fullscreen | blockquote hr | subscript superscript | charmap emoticons | link unlink anchor | image media | code insertdatetime", 
+		toolbar3: "InsertButton | preview searchreplace fullscreen | blockquote hr | subscript superscript | charmap emoticons | link unlink anchor | image media | code insertdatetime", 
 		menubar: false,
 		toolbar_items_size: 'small',
 
@@ -29,6 +40,18 @@ $(document).ready(function() {
 		templates: [
 			{title: 'Test template 1', content: 'Test 1'},
 			{title: 'Test template 2', content: 'Test 2'}
-		]
+		],
+
+		setup: function(ed) {
+			ed.addButton('InsertButton',{
+				title: 'Вставка текста',
+				image: 'http://icons.iconarchive.com/icons/hopstarter/soft-scraps/24/Button-Download-icon.png',
+				onclick: function() {
+					tinyMCE.execCommand('mceInsertContent', false, news_content);
+				}
+			});
+		},
 	});
+
+		
 });

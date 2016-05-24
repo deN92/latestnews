@@ -29,21 +29,28 @@ main{
 		#comments_show{
 			border-top: 3px solid orange;
 			border-bottom: 3px solid orange;
+			overflow: hidden;
 			.comment{
 				// padding: 1px 5px;
 				padding: 1px 6px;
 				margin: 10px;
 				outline: 1px solid #ccc;
+
 				.comment_info{
 					.comment_user{
 						font: Bold 14px Garamond, sans-serif;
 						color: #032782;
 					}
 					.comment_time{
-						float: right;
 						padding-right: 5px;
 						font: Bold 10px Arial, sans-serif;
 						color: #444;
+					}
+					.bl_vote{
+						float: right;
+						.btn-like, .btn-dislike{
+							cursor: pointer;
+						}
 					}
 				}
 				.comment_body{

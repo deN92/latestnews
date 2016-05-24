@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
-
-gem 'tinymce-rails', '4.3.8'
+gem 'acts_as_votable', '~> 0.10.0'
+gem 'bootstrap-datepicker-rails', '~> 1.6.1.1'
+gem 'groupdate', '~> 2.5.3'
+gem 'chartkick', '~> 1.5.2'
+gem 'nokogiri', '~> 1.6.7.2'
+gem 'tinymce-rails', '~> 4.3.8'
 gem 'babosa', '~> 1.0.2'
 gem 'fastimage', '~> 1.9.0'
 gem 'carrierwave', '~> 0.10.0'

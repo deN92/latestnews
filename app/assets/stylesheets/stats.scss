@@ -1,0 +1,112 @@
+@import "_variables.scss";
+/*
+ *= require bootstrap-datepicker
+*/
+main{
+	#valexchange_all
+	{	
+		margin: 0px 0.75% 10px 1.5%;
+		vertical-align: middle;
+		outline: 3px solid #000;
+		display: inline-block;
+		width: 16%;
+		padding: 10px;
+
+		.size, .char3, .rate
+		{
+			padding-top: 2.5px;
+			padding-bottom: 2.5px;
+		}
+
+		.size
+		{
+			float: $left;
+			width: 30px;
+			text-align: right;
+		}
+
+		.char3
+		{	
+			float: $left;
+			width: 40px;
+			margin-left: 10px;
+			color: #EC001E;
+		}
+
+		.rate
+		{
+			text-align: $right;
+			margin-left: 85px;
+		}
+	}
+	#aaa{
+		margin: 0px 0.75% 10px 1.5%;
+		display: inline-block;
+		vertical-align: top;
+		width: 70%;
+		#valexchange_calc{
+			padding: 10px 0 10px 0;
+			margin: 20px auto;
+			width: 70%;
+			outline: 1px solid #000;
+			background-color: #EEEEEE;
+			td{
+				text-align: center;
+				padding-top: 8px;
+				padding-bottom: 8px;
+				h2{
+					color: #FA5E00;
+					font: 24px Times;
+				}
+				p{
+					margin: 0 auto;
+					text-align: left;
+					width: 85%;
+					label{
+						font: 16px Times;
+					}
+					.field_par{
+						width: 100%;
+					}
+				}
+			}
+		}
+
+		#date_exchange{
+			padding: 10px 0 10px 0;
+			margin: 20px auto;
+			width: 70%;
+			outline: 1px solid #000;
+			background-color: #EEEEEE;
+			td{
+				width: 50%;
+				text-align: center;
+				padding-top: 8px;
+				padding-bottom: 8px;
+				h2{
+					text-align: center;
+					color: #FA5E00;
+					font: 24px Times;
+					padding-top: 8px;
+					padding-bottom: 8px;
+				}
+				p{
+					margin: 0 auto;
+					text-align: center;
+					// width: 85%;
+					label{
+						font: 16px Times;
+					}
+					.calendar_data{
+						width: 50%;
+						padding: 0 5px;
+					}
+				}
+			}
+		}
+
+		#chart-1{
+			outline: 2px solid #000;
+		}
+	}
+}

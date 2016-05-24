@@ -5,6 +5,15 @@ Rails.application.routes.draw do
   devise_for :users
   root 'categories#index'
 
+  resources :comments do 
+    member do 
+      put "like" => "comments#upvote"
+      put "dislike" => "comments#downvote"
+    end
+  end
+  # resources :stats
+  get 'stats/exchange', to: 'stats#exchange'
+
   resources :categories, :path => '' do
     resources :subcategories, :path => ''
   end

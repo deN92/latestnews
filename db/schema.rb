@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160426161921) do
+ActiveRecord::Schema.define(version: 20160523072014) do
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string   "namespace",     limit: 255
@@ -53,16 +53,17 @@ ActiveRecord::Schema.define(version: 20160426161921) do
   end
 
   create_table "articles", force: :cascade do |t|
-    t.integer  "category_id",     limit: 3,                   null: false
-    t.integer  "subcategory_id",  limit: 3,                   null: false
-    t.string   "tittle",          limit: 150,                 null: false
-    t.string   "article_link",    limit: 150,                 null: false
-    t.string   "body",            limit: 150,                 null: false
+    t.integer  "category_id",     limit: 3,                        null: false
+    t.integer  "subcategory_id",  limit: 3,                        null: false
+    t.string   "tittle",          limit: 150,                      null: false
+    t.string   "article_link",    limit: 150,                      null: false
+    t.text     "body",            limit: 16777215,                 null: false
     t.string   "main_image",      limit: 150
-    t.boolean  "enable_comments",             default: true
-    t.boolean  "main_article",                default: false
-    t.datetime "created_at",                                  null: false
-    t.datetime "updated_at",                                  null: false
+    t.boolean  "enable_comments",                  default: true
+    t.boolean  "main_article",                     default: false
+    t.datetime "created_at",                                       null: false
+    t.datetime "updated_at",                                       null: false
+    t.integer  "count_comments",  limit: 4,        default: 0,     null: false
   end
 
   add_index "articles", ["article_link"], name: "index_articles_on_article_link", using: :btree
@@ -94,12 +95,10 @@ ActiveRecord::Schema.define(version: 20160426161921) do
   end
 
   create_table "subcategories", force: :cascade do |t|
-    t.string   "subcategory_name", limit: 50,                null: false
-    t.string   "subcategory_link", limit: 20,                null: false
-    t.integer  "priority",         limit: 2,                 null: false
-    t.boolean  "menu_show",                   default: true
-    t.datetime "created_at",                                 null: false
-    t.datetime "updated_at",                                 null: false
+    t.string   "subcategory_name", limit: 50, null: false
+    t.string   "subcategory_link", limit: 20, null: false
+    t.datetime "created_at",                  null: false
+    t.datetime "updated_at",                  null: false
   end
 
   create_table "users", force: :cascade do |t|
@@ -121,5 +120,20 @@ ActiveRecord::Schema.define(version: 20160426161921) do
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree
   add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true, using: :btree
+
+  create_table "votes", force: :cascade do |t|
+    t.integer  "votable_id",   limit: 4
+    t.string   "votable_type", limit: 255
+    t.integer  "voter_id",     limit: 4
+    t.string   "voter_type",   limit: 255
+    t.boolean  "vote_flag"
+    t.string   "vote_scope",   limit: 255
+    t.integer  "vote_weight",  limit: 4
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "votes", ["votable_id", "votable_type", "vote_scope"], name: "index_votes_on_votable_id_and_votable_type_and_vote_scope", using: :btree
+  add_index "votes", ["voter_id", "voter_type", "vote_scope"], name: "index_votes_on_voter_id_and_voter_type_and_vote_scope", using: :btree
 
 end

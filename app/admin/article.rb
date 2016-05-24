@@ -1,8 +1,7 @@
 ActiveAdmin.register Article do
 
 	permit_params :id, :category_id, :subcategory_id, :article_link, :tittle, :body, :main_article, :main_image, :enable_comments,             
-			categories_ids: [:id],
-		subcategories_ids: [:id]
+		categories_ids: [:id], subcategories_ids: [:id]
 
 	action_item :edit do
 		"<%= asset_path 'application.css' %>".html_safe
@@ -18,8 +17,8 @@ ActiveAdmin.register Article do
 	end
 
 	before_filter :only => [:create] do
-		#params[:article][:article_link] = params[:article][:tittle].to_s.to_slug.normalize(transliterations: :ukrainian).to_s
-		render text: "#{params}"
+		params[:article][:article_link] = params[:article][:tittle].to_s.to_slug.normalize(transliterations: :ukrainian).to_s
+		# render text: "#{params}"
 		
 		# sbc = Subcategory.friendly.find(params[:article][:subcategory_id])
 		# sbc_subcategory_name = sbc.subcategory_name
@@ -63,6 +62,50 @@ ActiveAdmin.register Article do
 		end
 		div do f.hidden_field :article_link 
 		end
+
+		# div do
+		# 	xml = Nokogiri::XML(open('http://bank-ua.com/export/currrate.xml'))
+		# 	xml = xml.xpath('//item[code=840]', '//item[code=978]','//item[code=643]', '//item[code=985]')
+		# 	(0..3).to_a.each do |i|
+		# 		div do
+		# 			span do xml[i].at('size').text end
+		# 			span do xml[i].at('char3').text end
+		# 			span do xml[i].at('rate').text end
+		# 		end
+		# 	end
+		# end
+
+
+		div do
+			xml = Nokogiri::XML(open('http://feeds.bbci.co.uk/ukrainian/topics/world_news/rss.xml'))
+			xml = xml.xpath('//item')
+			a = xml.size - 1
+			(0..a).to_a.each do |i|
+				if(i == 0)
+					div(id: "bbc_#{i}",  class: "bbc_news_head") do
+						div(class: "bbc_title") do para xml[i].at('title').text end
+						div(class: "bbc_desc") do para xml[i].at('description').text end
+						div(class: "bbc_link", style: "display: none") do 
+							doc = Nokogiri::HTML(open(xml[i].at('link').text))
+							doc = doc.css('.story-body__inner')
+						end						
+					end
+				else
+					div(id: "bbc_#{i}" , class: "bbc_news") do
+						div(class: "bbc_title") do para xml[i].at('title').text end 
+						div(class: "bbc_desc") do para xml[i].at('description').text end
+						div(class: "bbc_link", style: "display: none") do 
+							doc = Nokogiri::HTML(open(xml[i].at('link').text))
+							para doc.css('.story-body__inner')
+						end
+					end
+				end
+			end
+		end
+
+
+
+
 		div do f.label :body 
 		end
 		div do 

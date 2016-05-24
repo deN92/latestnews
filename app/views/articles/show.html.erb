@@ -9,20 +9,31 @@
 	<%end%>
 </aside>
 
-
 <div id = "block_comments">
 	<h3>Коментарі</h3>
 	<div id = "comments_show">
 		<% @article.comments.each do |c| %>
 			<div class = "comment" >
-				<p class = "comment_info">
+				<div class = "comment_info">
 					<span class = "comment_user"><%= c.user.email %></span>
 					<span class = "comment_time"><%= c.created_at.strftime("%k:%M | %d/%m") %></span>
-				</p>
+					<p class = "bl_vote" id="vote-count bind-<%= c.id %>">
+						<button types="button" class="btn-like" data-vote_id="<%= c.id %>">
+							<i class="fa fa-thumbs-o-up"></i>
+							<span id="like_count-<%= c.id %>"><%= c.get_upvotes.size %></span>
+						</button>
+
+						<button types="button" class="btn-dislike" data-vote_id="<%= c.id %>">
+							<i class="fa fa-thumbs-o-down"></i>
+							<span id="dislike_count-<%= c.id %>"><%= c.get_downvotes.size %></span>
+						</button>			
+					</p>
+				</div>
 				<p class = "comment_body"><%= c.body %></p>
 			</div>
 		<% end %>
 	</div>
+
 	<h4>Додати коментар: </h4>
 	<div id = "comment_add">
 		<%= form_for [@article, @comment_new] do |f| %>

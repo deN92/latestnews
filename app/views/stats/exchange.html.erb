@@ -1,0 +1,100 @@
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
+
+<div id= "valexchange_all">
+	<% begin %>
+		<% @xml.each do |valute| %>
+			<% %w[size char3 rate].each do |i|%>
+				<div class = <%= i%>><%= valute.at(i).text%></div>
+			<%end%>
+		<%end%>
+	<%rescue%>
+	<%end%>
+</div>
+<div id = "aaa">
+	<table id = "valexchange_calc" border="1">
+		<tr>
+			<td colspan="2"><h2>Конвертер валют: </h2></td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<label>Введіть суму: </label>
+					<input class = "field_par" id = "exchange_param" type="text">
+				</p>
+			</td>
+			<td>
+				<p>
+					<label>Результат: </label>
+					<input class = "field_par" id = "exchange_total" type="text" readonly="readonly">
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<label>Виберіть валюту: </label>
+					<select id = "select1">
+						<option id = "UAH" value = "1">гривня</option>
+						<% @xml.each do |valute| %>
+							<% %w[char3].each do |i| %>
+								<% rate = valute.at('rate').text.to_f/valute.at('size').text.to_f%>
+								<option id = <%= valute.at(i).text %> value = <%= rate %>><%= valute.at('name').text%></option>
+							<% end %>
+						<%end%>
+					</select>
+				</p>
+			</td>
+			<td>
+				<p>
+					<label>Конвертувати в: </label>
+					<select id = "select2">
+						<option id = "UAH" value = "1">гривня</option>
+						<% @xml.each do |valute| %>
+							<% %w[char3].each do |i| %>
+								<% rate = valute.at('rate').text.to_f/valute.at('size').text.to_f%>
+								<option id = <%= valute.at(i).text %> value = <%= rate %>><%= valute.at('name').text%></option>
+							<% end %>
+						<%end%>
+					</select>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><button id = "total">Розрахувати</button></td>
+		</tr>
+	 </table>
+
+	<table id = "date_exchange">
+		<tr>
+			<td colspan="2"><h2>Графік зміни курсу валют: </h2></td>
+		</tr>
+		<tr id= "calendar_data_form">
+			<td>
+				<p>
+					<label for="calendar_data_from">з:</label>
+					
+					<input type="text" class= "calendar_data" id="calendar_data_from" name="calendar_data_from" value = <%= @data_from %> readonly="readonly">
+				</p>
+			</td>
+			<td>
+				<p>
+					<label for="calendar_data_to">до: </label>
+					
+					<input type="text" class= "calendar_data" id="calendar_data_to" name="calendar_data_to" value = <%= @data_to %> readonly="readonly">
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2"><%= link_to "<button>Виконати</button>".html_safe, {url: ""}, :id => "build_chart_exchange" %></td>
+		</tr>
+	</table>
+
+	<%= line_chart(@stats_exchange_usd, discrete: true) %>
+	</div>
+
+
+

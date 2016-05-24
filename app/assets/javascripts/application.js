@@ -7,6 +7,7 @@
 //= require subcategories
 //= require articles
 //= require comments
+//= require stats
 
 
 

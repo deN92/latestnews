@@ -12,6 +12,19 @@
 				<%= link_to	'<div id="blLogo"><img src="/assets/application/logo.png"></div>'.html_safe, categories_path %>
 				<%= link_to '<p id="name">	<span id="txtwhite">Останні</span><span id="txtblack"> Новини</span></br>
 												<span id="subtext">Завжди правдиві новини</span></p>'.html_safe %>
+				
+				<div id= "valcurs">
+					<% appcont = ApplicationController.new %>
+					<% begin %>
+						<% appcont.valcurs.each do |valute| %>
+							<% %w[size char3 rate].each do |i|%>
+								<div class = <%= i%>><%= valute.at(i).text%></div>
+							<%end%>
+						<%end%>
+					<%rescue%>
+					<%end%>
+				</div>
+
 				<div id="authentication">
 					<ul>
 						<% if user_signed_in? %>

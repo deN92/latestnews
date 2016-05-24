@@ -203,6 +203,42 @@ body{
 			}
 		}
 
+		#valcurs
+		{
+			position: $absolute;
+			width: 160px;
+			top: 50px;
+			left: 650px;
+
+			.size, .char3, .rate
+			{
+				padding-top: 2.5px;
+				padding-bottom: 2.5px;
+			}
+
+			.size
+			{
+				float: $left;
+				width: 30px;
+				text-align: right;
+			}
+
+			.char3
+			{	
+				float: $left;
+				width: 40px;
+				margin-left: 10px;
+				color: #EC001E;
+			}
+
+			.rate
+			{
+				text-align: $right;
+				margin-left: 85px;
+			}
+		}
+
+
 		nav#main_menu{
 			display: block;
 			width: 100%;
