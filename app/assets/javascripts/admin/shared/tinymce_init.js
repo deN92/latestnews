@@ -1,17 +1,7 @@
 //= require active_admin/base 
 //= require tinymce
 
-
-
-
-
 $(document).ready(function() {
-
-	var news_content;
-	$(".bbc_news").click(function(eventObject){
-		news_content = $(this) + $('.bbc_link p').text();
-	});	
-
 
 	tinymce.init({
 		selector: "textarea",
@@ -42,16 +32,11 @@ $(document).ready(function() {
 			{title: 'Test template 2', content: 'Test 2'}
 		],
 
-		setup: function(ed) {
-			ed.addButton('InsertButton',{
-				title: 'Вставка текста',
-				image: 'http://icons.iconarchive.com/icons/hopstarter/soft-scraps/24/Button-Download-icon.png',
-				onclick: function() {
-					tinyMCE.execCommand('mceInsertContent', false, news_content);
-				}
-			});
+		setup: function() {
+			$(".bbc_news").click(function(eventObject){
+				var news_content = $("#" + $(this).attr("id") + " .bbc_link p").text();
+				tinyMCE.execCommand('mceInsertContent', false, news_content);
+			});	
 		},
 	});
-
-		
 });

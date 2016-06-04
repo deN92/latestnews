@@ -1,6 +1,6 @@
-<article>
+<article id="article_content">
 	<h1><%= @article.tittle%></h1>
-	<div id="article_body"><%= @article.body.html_safe%><p style = "font-weight: Bold"> DW.COM</p></div>
+	<div id="article_body"><%= @article.body.html_safe %></div>
 </article>
 
 <aside id="right">
@@ -10,20 +10,25 @@
 </aside>
 
 <div id = "block_comments">
-	<h3>Коментарі</h3>
+	<h3>Коментарі: </h3>
+	<p id = "block_sort_comments">Сортувати за: 
+		<%= link_to "популярністю", :comments_sort => "count_votes_like DESC" %>
+		<span>|</span>
+		<%= link_to "часом додавання", :comments_sort => "created_at DESC" %>
+	</p>
 	<div id = "comments_show">
-		<% @article.comments.each do |c| %>
+		<% @article.comments.order(params[:comments_sort]).each do |c| %>
 			<div class = "comment" >
 				<div class = "comment_info">
 					<span class = "comment_user"><%= c.user.email %></span>
 					<span class = "comment_time"><%= c.created_at.strftime("%k:%M | %d/%m") %></span>
-					<p class = "bl_vote" id="vote-count bind-<%= c.id %>">
-						<button types="button" class="btn-like" data-vote_id="<%= c.id %>">
+					<p class = "bl_vote" id="vote-count_bind-<%= c.id %>">
+						<button class="btn-like" data-vote_id="<%= c.id %>">
 							<i class="fa fa-thumbs-o-up"></i>
 							<span id="like_count-<%= c.id %>"><%= c.get_upvotes.size %></span>
 						</button>
 
-						<button types="button" class="btn-dislike" data-vote_id="<%= c.id %>">
+						<button class="btn-dislike" data-vote_id="<%= c.id %>">
 							<i class="fa fa-thumbs-o-down"></i>
 							<span id="dislike_count-<%= c.id %>"><%= c.get_downvotes.size %></span>
 						</button>			
@@ -34,12 +39,25 @@
 		<% end %>
 	</div>
 
-	<h4>Додати коментар: </h4>
-	<div id = "comment_add">
-		<%= form_for [@article, @comment_new] do |f| %>
-			<%= f.hidden_field :article_id, value: "#{@article.id}" %>
-			<p id = "create_comment_body"><%= f.text_area :body %></p>
-			<p><%= f.button "Create"%></p>
-		<%end%>
-	</div>
+	<%unless user_signed_in?%>
+    <div id = "blockForNotReg">
+      <p>
+        Ви не авторизовані. 
+        <br>Якщо ви хочете залишати коментарі, будь-ласка, 
+        <span class="styleReg"><%= link_to 'авторизуйтесь', new_user_session_path%>.</span>
+        <br>Якщо ви не маєте облікового запису, ви повинні 
+        <span class="styleReg"><%= link_to 'зареєструватись', new_user_registration_path%>.</span>
+      </p>
+    </div>
+  <%end%>
+  <% if user_signed_in? %>
+		<div id = "comment_add">
+			<h4>Додати коментар: </h4>
+			<%= form_for [@article, @comment_new] do |f| %>
+				<%= f.hidden_field :article_id, value: "#{@article.id}" %>
+				<p id = "create_comment_body"><%= f.text_area :body %></p>
+				<p id = "create_comment_bt"><%= f.button "Створити", id: "bt_comment"%></p>
+			<%end%>
+		</div>
+	<%end%>
 </div>

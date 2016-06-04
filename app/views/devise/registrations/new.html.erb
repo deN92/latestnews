@@ -17,7 +17,12 @@
     <div class = "blPass">
       <%= f.input :password_confirmation, placeholder: "Повторіть пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
     </div>
-
+    <div id = "blEmail">
+      <%= f.input :name, :autofocus => true, placeholder: "Ім'я", label: "<i id = \"icon_email\" class=\"fa fa-user fa-fw\"></i>".html_safe %>
+    </div>
+    <div id = "blEmail">
+      <%= f.input :surname, :autofocus => true, placeholder: "Прізвище", label: "<i id = \"icon_email\" class=\"fa fa-user fa-fw\"></i>".html_safe %>
+    </div>
     <div id="other_links">
       <%= render "devise/shared/links" %>
     </div>

@@ -18,4 +18,5 @@ $(document).ready(function(){
 	$("#main_image_back").click(function(){
 		slider(-1);
 	});
+
 });

@@ -1,10 +1,11 @@
 @import "_variables.scss";
 
 main{
-	padding: 0;
-	margin-top: 10px;
-	
-		background-color: $white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: $white;
 	aside{
 		vertical-align: top;
 		display: inline-block;
@@ -23,13 +24,22 @@ main{
 
 	aside{
 		.sc_news{
+			padding: 5px 0 5px 0;
+			border-top: 1px solid orange;
+			border-bottom: 1px solid orange;
 			width: 100%;
-			margin: 10px 0 10px 0;
+			margin: 0px 0 10px 0;
 			img{
 				max-width: 100%;
 			}
+			a{
+				color: #00668B;
+				text-decoration: none;
+				&:hover{
+					text-decoration: underline;
+				}
+			}
 		}
-
 	}
 
 	section{
@@ -44,7 +54,7 @@ main{
 			height: 250px;
 			overflow: hidden;
 			border-bottom: 3px solid orange;
-			margin-bottom: 25px;
+			margin-bottom: 15px;
 			.main_images{
 				.main_image{
 					height: 350px;
@@ -101,6 +111,19 @@ main{
 		}
 
 		#block_articles{
+			#block_sort_news{
+				text-align: right;
+				.sep{
+					color: red;
+				}
+				a{
+					color: #26668C;
+					text-decoration: none;
+					&:hover{
+						text-decoration: underline;
+					}
+				}
+			}
 			table{
 				tr{
 					line-height: 2;

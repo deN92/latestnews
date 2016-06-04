@@ -1,0 +1,26 @@
+<%= tinymce %>
+<!-- <%= tinymce_assets %> -->
+<script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+
+<div id="blog_new_edit">
+
+	<%= simple_form_for @blog do |f|%>
+		<div class="blog_new_elements">
+			<p><%= f.label "Категорія: "  %></p>
+			<p><%= f.input :category_id, :collection => Category.pluck(:category_name, :id), as: :select, :include_blank => false %></p>
+		</div>
+		<div class="blog_new_elements">
+			<p><%= f.label "Назва: (від 5 до 150 символів)"  %></p>
+			<p><%= f.input :post_title, :autofocus => true %></p>
+		</div>
+		<div class="blog_new_elements">
+			<p><%= f.label "Тема: (від 50 до 250 символів)"  %></p>
+			<p><%= f.input :post_theme, as: :text %></p>
+		</div>
+		<div class="blog_new_elements">
+			<p>Контент: (від 500..25000 символів)</p>
+			<p><%= f.text_area :post_body, :class => 'tinymce'%></p>
+		</div>
+		<p><%= f.submit "Зберегти" %></p>
+	<%end%>
+</div>

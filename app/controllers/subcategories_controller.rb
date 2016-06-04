@@ -1,56 +1,61 @@
 class SubcategoriesController < ApplicationController
 
+	before_filter :current_categories, only: [:index, :show]
+
 	def index
-		@categories = Category.where(category_link: params[:category_id])
 		if (params[:controller] == "subcategories" && params[:action] = "index")
 			unless @categories.first.nil?
-				@articles = []
-				@articles_last = []
-				@articles_comments = []
-
 				@categories.each do |c|
 					c.catsubcategories.each do |sc|
-						subcategory = sc.subcategory.articles.where(category_id: @categories.first.id)
-						subcategory.each do |s|
+						subcategories = Article.curr_subcat(sc, @categories.first.id)
+						subcategories = Article.select_region(subcategories, params[:region_id]) unless params[:region_id].nil?
+						subcategories.each do |s|
 							@articles << s
 							@articles_comments << s
-							@articles_comments = @articles_comments.sort_by{|ac| ac["count_comments DESC"]}.take(5)
 						end
-						subcategory.last(1).each do |sl|
+						@articles = Article.search_articles_a(@articles, params[:search_article])
+						@articles_comments = Article.sort_comments(@articles_comments)
+						subcategories.last(1).each do |sl|
 							@articles_last << sl
 						end
 					end
 					@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(10)
 				end
-
-			else render text: "404"
+			else render_404
 			end
 		end
 	end
 
 	def show
-		@categories = Category.where(category_link: params[:category_id])
-		@articles = []
-		@articles_last = []
-		@articles_comments = []
+		@subcategory = Array.new
 		if (params[:controller] == "subcategories" && params[:action] = "show")
 			unless @categories.first.nil?
 				@categories.each do |c|
-					subcategories = c.subcategories.where(subcategory_link: params[:id])
+					c.subcategories.each do |s|
+						@subcategory << s
+					end
+					subcategories = Subcategory.subcategory_link(c, params[:id])
 					unless subcategories.first.nil?	
 						subcategories.each do |sc|
-							sc.articles.each do |a|
-								@articles << a
-								@articles_last << a
-								@articles_comments = @articles.sort_by{|ac| ac["count_comments DESC"]}.take(5)
-							end
+							@articles = Article.articles(sc, params[:region_id], @articles)
+							@articles_last = @articles
+							@articles_comments = Article.sort_comments(@articles)
+							@articles = Article.search_articles_a(@articles, params[:search_article])
 							@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(10)
 						end
-					else render text: "404"
+					else render_404
 					end
 				end
-				else render text: "404"
+				else render_404
 			end
 		end
 	end
+
+	private
+		def current_categories
+			@categories = Category.curr_cat(params[:category_id])
+			@articles = Array.new
+			@articles_last = Array.new
+			@articles_comments = Array.new
+		end
 end

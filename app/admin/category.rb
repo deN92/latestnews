@@ -1,9 +1,7 @@
 ActiveAdmin.register Category do
-	permit_params :id, :category_name, :category_link, :priority
+	permit_params :id, :category_name, :category_link, :priority, :menu_show
 
-
-
-	before_filter :only => [:edit, :update, :show] do
+	before_filter :only => [:edit, :update, :show, :destroy] do
 		@category = Category.friendly.find(params[:id])
 	end
 
@@ -18,7 +16,7 @@ ActiveAdmin.register Category do
 		end
 		div do f.label :priority
 		end
-		div do f.text_field :priority
+		div do f.number_field :priority
 		end
 		div do f.label :menu_show
 		end

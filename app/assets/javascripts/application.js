@@ -43,13 +43,34 @@ $(document).ready(function(){
 		$("#authentication #blCurrentUser a").css("color","white");
 	});
 
+	$("#bl_open_search i").click(function(eventObject){
+		if($("#bl_search #text_search").css("display") == "none"){
+			$("#bl_search #text_search").show(); 
+			$("#bl_search #bt_search").show();}
+		else{ 
+			$("#bl_search #bt_search").hide();
+			$("#bl_search #text_search").hide(); }
+	});
+
+	var def_search_href = $("#bl_search a").attr("href");
+	$("#bl_search #text_search").change(function(eventObject){
+		var text_val = $(this).val();
+		$("#bl_search a").attr("href", ""+def_search_href + text_val+"");
+	}).change();
+
+	$("#bl_search #bt_search").click(function(eventObject){
+		if($("#bl_search #text_search").val() == ""){
+			alert("Введіть значення для пошуку!");
+			return false;
+		}
+	});
 
 	var main_menu_width = $("nav ul#menu_categories").width();
 	var li_length = $("nav ul#menu_categories .categories").length;
 	var li_width = 0;
 	for(var i = 0; i< li_length; i++){
 		li_width += $("nav ul#menu_categories .categories").eq(i).width();
-		if(li_width>=main_menu_width){
+		if(li_width>=main_menu_width-100){
 			$("nav ul#menu_categories .categories").eq(i).hide();
 		}
 	}

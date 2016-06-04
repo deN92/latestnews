@@ -1,4 +1,5 @@
 function new_edit(){
+
 	$(document).ready(function() {
 		var def_category_id = $("#article_category_id").val();
 		var def_category_text = $("#article_category_id option[value="+def_category_id+"]").text();
@@ -20,6 +21,20 @@ function new_edit(){
 
 		  }).change();
 
-		
+			$(".bbc_news").click(function(eventObject){
+				news_tittle = $("#" + $(this).attr("id") + " .bbc_title p").text();
+				alert(news_tittle);
+				$("#article_tittle").val(news_tittle);
+			});	
+
+			$(".block_xml_content").hide();
+			$('#source_xml').change(function(eventObject){
+				var sx = $(this).val()
+				$(".block_xml_content").hide();
+				$("#"+sx+"").show();
+			});
+
+
+
 	});
 };

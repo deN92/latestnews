@@ -1,0 +1,25 @@
+#management_account{
+	margin-left: 1%;
+	width: 20%;
+	border-left: 1px dotted #000;
+	float: left;
+	ul{
+		margin-left: 5px;
+		margin-right: 5px;
+		.ma_item_menu{
+			margin: 2px 0 2px 0;
+		}
+		.ma_subitem_menu{
+			margin-left: 8px;
+		}
+		li{
+			a{
+				color: #001F34;
+				text-decoration: none;
+				&:hover{
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+}

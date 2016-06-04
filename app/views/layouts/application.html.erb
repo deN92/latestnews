@@ -9,12 +9,14 @@
 	<body>
 		<div id ="wrapper">
 			<header>
-				<%= link_to	'<div id="blLogo"><img src="/assets/application/logo.png"></div>'.html_safe, categories_path %>
-				<%= link_to '<p id="name">	<span id="txtwhite">Останні</span><span id="txtblack"> Новини</span></br>
+				<%= link_to	'<div id="blLogo"><img alt="Latestnews" src="/assets/application/logo.png"></div>'.html_safe, categories_path %>
+				<%= link_to '<p id="name">	<span id="txtwhite">Останні</span><span id="txtblack"> Новини</span><br>
 												<span id="subtext">Завжди правдиві новини</span></p>'.html_safe %>
 				
 				<div id= "valcurs">
 					<% appcont = ApplicationController.new %>
+					<% statscont = StatsController.new %>
+					<% statscont.exchange %>
 					<% begin %>
 						<% appcont.valcurs.each do |valute| %>
 							<% %w[size char3 rate].each do |i|%>
@@ -24,13 +26,13 @@
 					<%rescue%>
 					<%end%>
 				</div>
-
 				<div id="authentication">
 					<ul>
 						<% if user_signed_in? %>
-							<li id = "blCurrentUser"><%= link_to current_user.email, root_path %>
+							<li id = "blCurrentUser"><%= link_to current_user.email, user_path(current_user.id) %>
 								<ul id = "menu_curr_user">
-									<li class = "item_menu"><%= link_to "Редагувати", edit_registration_path(:user) %></li>
+									<li class = "item_menu"><%= link_to "Змінити дані", edit_user_path(current_user.id) %></li>
+									<li class = "item_menu"><%= link_to "Безпека", edit_registration_path(:user) %></li>
 									<li class = "item_menu"><%= link_to "Вихід", destroy_user_session_path, :method => :delete%></li>
 								</ul>
 							</li>
@@ -41,38 +43,49 @@
 							<li id = "in"><%= link_to "Вхід", new_user_session_path %></li>
 						<%end%>
 					</ul>
-					<%= render :partial => "devise/sessions/new"%>
+					<%= render :partial => "devise/sessions/new" unless user_signed_in? %>
 				</div> 
 			</header>
 			<nav id = "main_menu">
 				<ul id = "menu_categories">
 					<% Category.where(menu_show: true).order(:priority).each do |c|%>
-						<li id = <%= c.category_link%> class = "categories">
+						<li id = "<%= c.category_link %>" class = "categories">
 							<%= link_to c.category_name, category_path(c.category_link) %>
 							<ul class = "menu_subcategories">
 								<% c.catsubcategories.where(category_id: c.id).where(menu_show: true).each do |csc| %>
-										<li class = <%=c.category_link%>><%= link_to csc.subcategory.subcategory_name, category_subcategory_path(c.category_link, csc.subcategory.subcategory_link) %></li>
+										<li class = "<%=c.category_link%>"><%= link_to csc.subcategory.subcategory_name, category_subcategory_path(c.category_link, csc.subcategory.subcategory_link) %></li>
 								<%end%>
 							</ul>
 						</li>
 					<%end%>
 				</ul>
+
+				<% if params[:controller] == "categories" || params[:controller] == "subcategories"%>
+					<div id = "bl_search">
+						<input id="text_search" type="text" size="25" style = "display: none;">
+						<%= link_to "Пошук", {search_article: ""}, class: "btn", id: "bt_search", style: "display: none;"%>
+					</div>
+					<div id="bl_open_search">
+					<i class="fa fa-search fa-1.5x" aria-hidden="true" style= "cursor: pointer; color: white;"></i>
+					</div>
+				<%end%>
 				<div id = "other">
+					<i class="fa fa-bars fa-2x" aria-hidden="true" style = "color: #DF6805"></i>
 				</div>
 				<div id = "bl_other" style = "display: none;">
 					<ul id = "ul_bl_other">
 						<% Category.order("id").each do |c| %>
-							<li class = "all_categories" id = <%= c.category_link%>><%= link_to c.category_name %>
+							<li class = "all_categories" ><%= link_to c.category_name %>
 								<ul>
 									<% c.catsubcategories.where(category_id: c.id).where(menu_show: true).each do |sc| %>
-										<li class= <%= "c#{sc.category_id}"%>>
+										<li class= '<%= "c#{sc.category_id}"%>'>
 											<%= link_to sc.subcategory.subcategory_name, category_subcategory_path(c.category_link, sc.subcategory.subcategory_link) %>
 										</li>
 									<%end%>
 								</ul>
 							</li>
 						<% end %>
-					<ul>
+					</ul>
 				</div>
 
 			</nav>
@@ -80,7 +93,7 @@
 			<%= yield %>
 			</main>
 			<footer>
-			<p>«LatestNews» 2016</p>
+				<p id= "footer_descr">«LatestNews» 2016</p>
 			</footer>
 		</div>
 	</body>

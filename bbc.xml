@@ -1,0 +1,404 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>
+<![CDATA[ BBC Ukrainian - Світ ]]>
+</title>
+<description>
+<![CDATA[ BBC Ukrainian - Світ ]]>
+</description>
+<link>http://www.bbcukrainian.com</link>
+<image>
+<url>
+http://www.bbc.co.uk/ukrainian/images/gel/rss_logo.gif
+</url>
+<title>BBC Ukrainian - Світ</title>
+<link>http://www.bbcukrainian.com</link>
+</image>
+<generator>RSS for Node</generator>
+<lastBuildDate>Thu, 26 May 2016 09:22:30 GMT</lastBuildDate>
+<copyright>
+<![CDATA[ Права Бі-Бі-Сі застережено ]]>
+</copyright>
+<language>
+<![CDATA[ uk ]]>
+</language>
+<managingEditor>
+<![CDATA[ bbc.ukrainian@bbc.co.uk ]]>
+</managingEditor>
+<ttl>15</ttl>
+<item>
+<title>
+<![CDATA[ Independent: паролей в інтернеті не буде? ]]>
+</title>
+<description>
+<![CDATA[
+У четвер міжнародна преса пише про нову систему авторизації Google, висвітлює способи агітації "Ісламської держави", а також розмірковує над домовленостями після звільнення Надії Савченко.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/press_review/2016/05/160526_foreign_press_vs
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/press_review/2016/05/160526_foreign_press_vs
+</guid>
+<pubDate>Thu, 26 May 2016 09:19:27 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2014/10/23/141023135321_gmail_application_mobile_144x81_google_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Франція: атомники приєднуються до страйку ]]>
+</title>
+<description>
+<![CDATA[
+Робітники атомних електростанцій у Франції планують припинити роботу у четвер через суперечливу трудову реформу.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160526_french_strike_she
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160526_french_strike_she
+</guid>
+<pubDate>Thu, 26 May 2016 07:16:11 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/26/160526064759_french_strike_144x81_epa_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ У Флоренції завалилася частина набережної ]]>
+</title>
+<description>
+<![CDATA[
+У центрі італійського міста Флоренція обвалився набережна річки Арно неподалік знаменитого середньовічного мосту Понте Веккьо.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160525_florence_arno_embankment_vs
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160525_florence_arno_embankment_vs
+</guid>
+<pubDate>Wed, 25 May 2016 16:12:59 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/25/160525160945_florence_embankment_collapses_144x81_getty_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ ЗМІ: як компанії заманюють талановитих фахівців ]]>
+</title>
+<description>
+<![CDATA[
+Західна преса обговорює президентські виборів в Австрії, імовірний вихід Британії з ЄС та розповідає, на що готові компанії заради бажаного працівника.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/press_review/2016/05/160525_press_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/press_review/2016/05/160525_press_or
+</guid>
+<pubDate>Wed, 25 May 2016 12:30:04 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/25/160525115041_google_office_144x81_getty_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Афганський Талібан проголосив нового лідера ]]>
+</title>
+<description>
+<![CDATA[
+Мулаві Хайбатулла Ахунзада став наступником мулли Ахтара Мансура, який загинув від удару американських безпілотників.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/news_in_brief/2016/05/160525_or_taliban_new_leader
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/news_in_brief/2016/05/160525_or_taliban_new_leader
+</guid>
+<pubDate>Wed, 25 May 2016 05:17:09 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/22/160522023409_mullah_akhtar_mansour_taliban_afghan_144x81_reuters_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Міністри єврозони домовилися про нову позику Греції
+]]>
+</title>
+<description>
+<![CDATA[
+Міністри фінансів країн єврозони домовилися про новий транш економічної допомоги для Греції в розмірі 11,5 млрд доларів.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/business/2016/05/160525_greece_deal_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/business/2016/05/160525_greece_deal_or
+</guid>
+<pubDate>Wed, 25 May 2016 04:55:39 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523060901_alexis_tsipras_144x81_reuters_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Влада Єгипту відкинула версію про вибух на борту MS804
+]]>
+</title>
+<description>
+<![CDATA[
+Керівник служби судової медицини Єгипту назвав безпідставними повідомлення, що причиною аварії лайнера був вибух на борту.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160524_egypt_air_explosion_denial_it
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160524_egypt_air_explosion_denial_it
+</guid>
+<pubDate>Tue, 24 May 2016 15:35:58 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/21/160521121519_egypt_air_images_144x81_bbc_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ У Венесуелі призупинили виробництво Coca-Cola ]]>
+</title>
+<description>
+<![CDATA[
+Компанія Coca-Cola призупинила виробництво безалкогольних напоїв у Венесуелі через нестачу цукру. Це відбулось на тлі погіршення продовольчого та енергетичного дефіциту в країні.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/business/2016/05/160524_coca_cola_venezuela_she
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/business/2016/05/160524_coca_cola_venezuela_she
+</guid>
+<pubDate>Tue, 24 May 2016 13:19:25 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/24/160524122206__coca-cola_sugar_144x81_reuters_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Вхід лише для чоловіків? Куди не пускають жінок ]]>
+</title>
+<description>
+<![CDATA[
+Гольф-клуб Мюрфілд позбавили права приймати Відкритий чемпіонат Великої Британії з гольфу, коли його члени проголосували за статус "тільки для чоловіків".
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160524_men_only_newsbeat_it
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160524_men_only_newsbeat_it
+</guid>
+<pubDate>Tue, 24 May 2016 11:48:11 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/24/160524100240_mount_athos_getty_144x81_gettyimages_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Як подолати націоналістичні настрої в Європі? ]]>
+</title>
+<description>
+<![CDATA[
+Що означають результати президентських виборів у Австрії, скільки нерелігійних людей у Англії та Уельсі, та як виглядає бургер для вегетаріанців – в огляді іноземних ЗМІ.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/press_review/2016/05/160524_foreign_press_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/press_review/2016/05/160524_foreign_press_or
+</guid>
+<pubDate>Tue, 24 May 2016 11:08:10 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/01/12/150112113452_pegida_movement_144x81_afp_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+ВООЗ: вірус Зіка став наслідком політики контролю за москітами
+]]>
+</title>
+<description>
+<![CDATA[
+Спалах вірусу Зіка у країнах Латинської Америки став наслідком провальної політики контролю за москітами, заявила лідерка Всесвітньої організації охорони здоров'я Маргарет Чен.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/health/2016/05/160524_zika_virus_spread_who_sa
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/health/2016/05/160524_zika_virus_spread_who_sa
+</guid>
+<pubDate>Tue, 24 May 2016 10:42:17 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523173546_zika_144x81_ap_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Колишній радник Януковича очолив виборчий штаб Трампа
+]]>
+</title>
+<description>
+<![CDATA[
+Окрім Януковича, Пол Манафорт консультував філіппінського диктатора та багамського прем'єра, якого звинувачували у зв'язках з наркобаронами, - закидають критики.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/politics/2016/05/160524_yanukovych_trump_manafort_yg
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/politics/2016/05/160524_yanukovych_trump_manafort_yg
+</guid>
+<pubDate>Tue, 24 May 2016 10:40:54 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/24/160524090019_manafort_144x81_epa_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ У нападах в Сирії загинули щонайменше 78 людей ]]>
+</title>
+<description>
+<![CDATA[
+Відповідальність за атаки, що сколихнули прибережні міста Джабла і Тартус, узяло на себе радикальне угруповання "Ісламська держава".
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/politics/2016/05/160523_isis_syria_attack_sa
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/politics/2016/05/160523_isis_syria_attack_sa
+</guid>
+<pubDate>Mon, 23 May 2016 12:04:29 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523100905_syria_car_bomb_144x81_afp_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Британська преса: чи впливають жири на ожиріння? ]]>
+</title>
+<description>
+<![CDATA[
+Як Україні повернути розкрадені активи, чим загрожує Британії вихід із ЄС та як Адель знову здивувала світ - в огляді іноземної преси.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/press_review/2016/05/160523_foreign_press_may23_sa
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/press_review/2016/05/160523_foreign_press_may23_sa
+</guid>
+<pubDate>Mon, 23 May 2016 09:47:54 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523081004_snack_eating_144x81_afp_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Марш вишиванок у Лондоні ]]>
+</title>
+<description>
+<![CDATA[
+Близько тисячі людей в українських традиційних сорочках пройшлися центром британської столиці.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/multimedia/2016/05/160523_london_vyshyvanka_march_gallery_sa
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/multimedia/2016/05/160523_london_vyshyvanka_march_gallery_sa
+</guid>
+<pubDate>Mon, 23 May 2016 06:57:54 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523064538_vyshyvanka_gallery_144x81_darynakucheruk_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Вибори в Австрії: результат визначить голосування поштою
+]]>
+</title>
+<description>
+<![CDATA[
+За підсумками голосування на виборчих дільницях, ультраправий кандидат Норберт Гофер отримав на 3,8%, ніж його незалежний суперник Олександр ван дер Беллен.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/politics/2016/05/160523_austria_elections_postal_vote_she
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/politics/2016/05/160523_austria_elections_postal_vote_she
+</guid>
+<pubDate>Mon, 23 May 2016 05:11:33 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/23/160523045035_norbert_hofer_alexander_van_der_bellen_144x81_getty_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[ Вибори в Австрії: кандидати ідуть ніздря в ніздрю ]]>
+</title>
+<description>
+<![CDATA[
+Незалежний і крайньо-правий кандидат на президентських виборах в Австрії показують дуже близькі результати.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/politics/2016/05/160522_austria_presidential_elections_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/politics/2016/05/160522_austria_presidential_elections_or
+</guid>
+<pubDate>Sun, 22 May 2016 19:28:01 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/22/160522062747_hofer_144x81_ap_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Канни: Золоту гілку отримав фільм "Я, Деніел Блейк"
+]]>
+</title>
+<description>
+<![CDATA[
+Головний приз 69-го Каннського кінофестивалю отримав фільм "Я, Деніел Блейк" британського режисера Кена Лоуча.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160522_cannes_2016_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160522_cannes_2016_or
+</guid>
+<pubDate>Sun, 22 May 2016 18:30:14 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2015/05/24/150524195509_jacques_audiard_cannes_palme_144x81_reuters_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Єгипет надіслав субмарину до місця катастрофи літака EgyptAir
+]]>
+</title>
+<description>
+<![CDATA[ Підводний човен шукатиме "чорні скриньки" літака. ]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/society/2016/05/160522_egypt_plane_search_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/society/2016/05/160522_egypt_plane_search_or
+</guid>
+<pubDate>Sun, 22 May 2016 17:33:39 GMT</pubDate>
+<media:thumbnail width="640" height="360" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/22/160522131657_egyptair_liner_640x360_reuters_nocredit.jpg"/>
+</item>
+<item>
+<title>
+<![CDATA[
+Вибори в Австрії: екзит-поли показують невеликий розрив
+]]>
+</title>
+<description>
+<![CDATA[
+Екзит-поли на президентських виборах в Австрії показують невелику перевагу крайньо-правого кандидата Норберта Гофера, але вона перебуває в межах статистичної похибки.
+]]>
+</description>
+<link>
+http://www.bbc.com/ukrainian/politics/2016/05/160522_austria_exit_polls_or
+</link>
+<guid isPermaLink="true">
+http://www.bbc.com/ukrainian/politics/2016/05/160522_austria_exit_polls_or
+</guid>
+<pubDate>Sun, 22 May 2016 15:28:03 GMT</pubDate>
+<media:thumbnail width="144" height="81" url="http://a.files.bbci.co.uk/worldservice/live/assets/images/2016/05/22/160522062747_hofer_144x81_ap_nocredit.jpg"/>
+</item>
+</channel>
+</rss>

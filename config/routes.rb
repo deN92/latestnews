@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+
+
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
   devise_for :users
@@ -14,6 +16,11 @@ Rails.application.routes.draw do
   # resources :stats
   get 'stats/exchange', to: 'stats#exchange'
 
+  resources :users, except: "index" do
+    resources :blogs
+  end
+
+  resources :blogs
   resources :categories, :path => '' do
     resources :subcategories, :path => ''
   end

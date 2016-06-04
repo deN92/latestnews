@@ -1,0 +1,35 @@
+	<%= render :partial => "./users/aside"%>
+
+<div id = "list_posts">
+	<% if @blogs.first.present? %>
+		<% @blogs.each do |b| %>
+			<div class = "blog_info">
+				<div class = "blog_info_user">
+					<p class="user_name">
+						<%= b.user.name %>
+						<br>
+						<%= b.user.surname %>
+					</p>
+					<%unless b.user.photo.present? == false  %> 
+						<p class = "bl_image">
+							<%= image_tag(b.user.photo)%>
+						</p>
+					<%else%>
+						<p class = "bl_image_without_photo">
+							<span id="no_photo">No photo</span>
+						</p>
+					<%end%>
+				</div>
+				<div class = "blog_info_content">
+					<h3><%= link_to b.post_title, user_blog_path(b.user_id, b.id) %></h3>
+					<p class = "post_theme"><%= b.post_theme%></p>
+				</div>
+			</div>
+		<% end %>
+	<%else%>
+		<div class = "blog_info" style = "text-align: center; font: Bold 20px Times;">Блогів не знайдено
+		<br>
+		<%= link_to "Повернутись назад", :back, style: "color: #4B64EF; font: Italic 16px Times;" %>
+		</div>
+	<%end%>
+</div>

@@ -1,17 +1,36 @@
 ActiveAdmin.register Catsubcategory do
 
-		permit_params :id, :category_id, :subcategory_id, :priority, :menu_show, category_ids: [], subcategory_ids: []
+	permit_params :id, :category_id, :subcategory_id, :priority, :menu_show, category_ids: [], subcategory_ids: []
+
+	index do
+		selectable_column
+		column :id do |c|
+			link_to c.id, admin_catsubcategory_path(c)
+		end
+		column :category_id do |c|
+			c.category.category_name
+		end
+		column :subcategory_id do |c|
+			c.subcategory.subcategory_name
+		end
+		column :menu_show
+		column :priority
+		actions
+	end
+
 
 	form do |f|
-
-		
-		div do 
-			f.label :category
-			f.label f.object.category.category_name
+		div do
+			label :category
+		end
+		div do
+			f.select :category_id, Category.all.map{|c| [c.category_name, c.id]}, :include_blank => false, label: false
+		end
+		div do
+			label :subcategory
 		end
 		div do 
-			f.label :subcategory
-			f.label f.object.subcategory.subcategory_name
+			f.select :subcategory_id, Subcategory.all.map{|c| [c.subcategory_name, c.id]}, :include_blank => false, label: false
 		end
 		div do
 			f.label :menu_show
@@ -23,15 +42,10 @@ ActiveAdmin.register Catsubcategory do
 			f.label :priority
 		end
 		div do
-			f.text_field :priority
+			f.number_field :priority
 		end
-		# f.select(:categories, Category.all.collect {|p| [ p.category_name, p.id ]}, {}, :multiple => true)
-		#f.input :categories, :collection => Category.pluck(:category_name, :id), :as => :check_boxes, :input_html => {:multiple => true}
-		#f.input :catsubcategories, :collection => Catsubcategory.where(subcategory_id: f.object.id).pluck(:menu_show, :id), :as => :check_boxes, :input_html => {:multiple => true}
-		#f.input :catsubcategories, :collection => Catsubcategory.where(category_id: f.object.id).pluck(:priority, :id), :as => :check_boxes, :input_html => {:multiple => true }
-		#end
-		div do f.button :ok
+		div do 
+			f.button :ok
 		end
 	end
-
 end

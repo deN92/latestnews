@@ -3,6 +3,7 @@ class CreateArticles < ActiveRecord::Migration
 		create_table :articles do |t|
 			t.integer  :category_id,       limit:  3,  null: false
 			t.integer  :subcategory_id,    limit:  3,  null: false
+			t.integer  :region_id,         limit:  3,  null: false
 			t.string   :tittle,            limit: 150, null: false
 			t.string   :article_link,      limit: 150, null: false
 			t.index    :article_link

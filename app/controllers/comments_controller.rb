@@ -1,4 +1,7 @@
 class CommentsController < ApplicationController
+
+	before_filter :comment_find, only: [:upvote, :downvote]
+
 	def create
 		begin
 			Comment.create(comment_params)
@@ -9,25 +12,41 @@ class CommentsController < ApplicationController
 	end
 
 	def upvote
-		@com = Comment.find(params[:id])
-		unless @com.get_upvotes.voters.map(&:id).include?(current_user.id)
-			@com.upvote_from current_user
-		else @com.unliked_by current_user
+		comment = Comment.find(params[:id])
+		unless comment.user_id == current_user.id
+			unless comment.get_upvotes.voters.map(&:id).include?(current_user.id)
+				comment.upvote_from current_user
+			else 
+				comment.unliked_by current_user
+			end
+			comment.update_attribute(:count_votes_like, comment.get_upvotes.size)
+			comment.update_attribute(:count_votes_dislike, comment.get_downvotes.size)
 		end
-		render json: {up: @com.get_upvotes.size.to_s, down: @com.get_downvotes.size.to_s}
+			render json: {up: comment.get_upvotes.size.to_s, down: comment.get_downvotes.size.to_s}
+		
 	end
 
 	def downvote
-		@com = Comment.find(params[:id])
-		unless @com.get_downvotes.voters.map(&:id).include?(current_user.id)
-			@com.downvote_from current_user
-		else @com.undisliked_by current_user	
+		comment = Comment.find(params[:id])
+		unless comment.user_id == current_user.id
+			unless comment.get_downvotes.voters.map(&:id).include?(current_user.id)
+				comment.downvote_from current_user
+			else 
+				comment.undisliked_by current_user
+			end
+			comment.update_attribute(:count_votes_like, comment.get_upvotes.size)
+			comment.update_attribute(:count_votes_dislike, comment.get_downvotes.size)
 		end
-		render json: {up: @com.get_upvotes.size.to_s, down: @com.get_downvotes.size.to_s}
+			render json: {up: comment.get_upvotes.size.to_s, down: comment.get_downvotes.size.to_s}
+		
 	end
 
 	private
 		def comment_params
 			params.require(:comment).permit(:article_id, :body).merge(user_id: current_user.id)
+		end
+
+		def comment_find
+			# comment = Comment.find(params[:id])
 		end
 end

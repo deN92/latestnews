@@ -1,0 +1,16 @@
+<%if user_signed_in?%>
+	<aside id = "management_account">
+		<ul>
+			<li class = "ma_item_menu"><%= link_to "Моя сторінка", user_path(current_user.id)%></li>
+			<li class = "ma_item_menu"><%= link_to "Мої статті", user_blogs_path(current_user.id)%></li>
+			<li class = "ma_item_menu"><%= link_to "Інші користувачі", users_path%></li>
+			<li class = "ma_">Змінити: 
+				<ul>
+					<li class = "ma_subitem_menu"><%= link_to "Особисті дані", edit_user_path(current_user.id)%></li>
+					<li class = "ma_subitem_menu"><%= link_to "Параметри безпеки", edit_registration_path(:user) %></li>
+				</ul>
+			</li>
+			<li class = "ma_item_menu"><%= link_to "Вихід", destroy_user_session_path, :method => :delete%></li>
+		</ul>
+	</aside>
+<%end%>

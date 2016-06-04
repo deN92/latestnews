@@ -5,6 +5,14 @@ class DeviseCreateUsers < ActiveRecord::Migration
       t.string :email,              null: false, default: ""
       t.string :encrypted_password, null: false, default: ""
 
+      t.string :surname, limit: 40
+      t.string :name, limit: 40
+      t.string :middle_name, limit: 40
+      t.date :birthday
+      t.string :city, limit: 40
+      t.string :photo
+      t.integer :count_posts, limit: 5
+
       ##
       t.boolean :is_admin, default: false
       t.boolean :is_ban,   default: false

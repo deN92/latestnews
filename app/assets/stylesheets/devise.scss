@@ -22,6 +22,36 @@
 		margin: $margin_auto;
 	}
 
+	#bl_other_input{
+		position: relative;
+		height: 35px;
+		padding: 10px;
+		margin: $margin_auto;
+		text-align: $center;
+		width: 95%;
+		label
+		{
+			abbr{
+				position: absolute;
+				color: red;
+			}
+			i{
+				margin-top: 8px;
+			}
+		}
+		input
+		{
+			padding-left: 10px;
+			padding-right: 10px;
+			height: 30px;
+			width: 50%;
+			text-align: center;
+		}
+		.hint{
+			position: absolute;
+		}
+	}
+
 	#blEmail, .blPass
 	{
 		position: relative;

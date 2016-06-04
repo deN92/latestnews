@@ -24,5 +24,9 @@ module Latestnews
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+    config.generators do |g|
+        g.test_framework :rspec, fixtures: true, views: false
+        g.fixture_replacement :factory_girls, dir: "spec/factories"
+    end
   end
 end

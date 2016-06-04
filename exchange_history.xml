@@ -5140,4 +5140,19 @@
     <char3>USD</char3>
     <rate>25.201506</rate>
   </item>
+  <item>
+    <date>2016-05-30</date>
+    <char3>USD</char3>
+    <rate>25.136025</rate>
+  </item>
+  <item>
+    <date>2016-06-03</date>
+    <char3>USD</char3>
+    <rate>25.051206999999998</rate>
+  </item>
+  <item>
+    <date>2016-06-06</date>
+    <char3>USD</char3>
+    <rate>25.002072</rate>
+  </item>
 </chapter>

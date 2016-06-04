@@ -1,1 +1,7 @@
+<div id="list_subcategories">
+	<% @subcategory.each do |s| %>
+		<%= link_to s.subcategory_name, category_subcategory_path(params[:category_id], s.subcategory_link), class: "subcategory", id: "curr_sc" if s.subcategory_link == params[:id] %>
+		<%= link_to s.subcategory_name, category_subcategory_path(params[:category_id], s.subcategory_link), class: "subcategory" unless s.subcategory_link == params[:id] %>
+	<% end %>
+</div>
 <%= render :partial => "./shared/csa" %>

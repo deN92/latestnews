@@ -1,5 +1,5 @@
 <div id = "blAcc_edit">
-  <h1>Edit <%= resource_name.to_s.humanize %></h1>
+  <h1>Зміна параметрів аккаунта</h1>
 
   <%= simple_form_for(resource, as: resource_name, url: registration_path(resource_name), html: { method: :put }) do |f| %>
     <%= devise_error_messages! %>
@@ -25,7 +25,7 @@
         <%= f.input :password_confirmation, autocomplete: "off", placeholder: "Повторіть пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
       </div>
       <div id = "bl_submit">
-        <%= f.submit "Update" %>
+        <%= f.submit "Оновити" %>
       </div>
     </div>
     <div class = "bl_checked" id = "acc_delete">
@@ -36,6 +36,6 @@
     </div>
   <% end %>
   <div id="other_links">
-    <%= link_to "Back", :back %>
+    <%= link_to "Назад", :back %>
   </div>
 </div>

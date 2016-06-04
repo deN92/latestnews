@@ -1,5 +1,6 @@
 <div class = "sc_news">
 	<% category_link = a.category.category_link %>
-	<%= link_to image_tag(a.main_image), category_article_path(category_link, a.article_link) %>
+	<%= link_to image_tag(a.main_image), category_article_path(category_link, a.article_link) if a.main_image.present? %>
 	<%= link_to a.tittle, category_article_path(category_link, a.article_link) %>
+	<span><i class="fa fa-comments" aria-hidden="true" style= "color: #00668B"></i><%= " #{a.count_comments}" %></span>
 </div>

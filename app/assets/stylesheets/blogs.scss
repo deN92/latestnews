@@ -1,0 +1,187 @@
+// Place all the styles related to the blogs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+main{
+	#list_posts{
+		margin-left: 22%;
+		width: 60%;
+		outline: 1px solid red;
+		.blog_info{
+			outline: 1px solid #ccc;
+			width: 100%;
+			margin: 15px auto;
+			min-height: 150px;
+			.blog_info_user{
+				// display: inline-block;
+				float: left;
+				width: 25%;
+				// outline: 1px solid #000;
+				// height: 70px;
+				.user_name{
+					padding: 2px 0 2px 0;
+					// outline: 1px solid green;
+					text-align: center;
+					color: red;
+					font: 14px Tahoma, sans-serif;
+				}
+				.bl_image{
+					margin-top: 5px;
+					height: 100px;
+					text-align: center;
+					// outline: 1px solid red;
+					img{
+						max-width: 100px;
+						max-height: 100px;
+					}
+				}
+				.bl_image_without_photo{
+					margin-top: 5px;
+					height: 100px;
+					text-align: center;
+
+					span{
+						outline: 1px solid #ccc;
+						text-align: center;
+						font: 16px solid Times;
+					}
+				}
+			}
+			.blog_info_content{
+				overflow: hidden;
+				width: 75%;
+							// margin: 0;
+				// outline: 1px solid orange;
+			}
+			h3{
+				margin-bottom: 15px;
+				text-align: center;
+				a{
+					text-decoration: none;
+					color: #022B47;
+				}
+			}
+			.post_theme{
+				font: 14px Tahoma, sans-serif;
+				line-height: 1.25;
+				text-align: justify;
+				margin-right: 2%;
+				margin-left: 2%;
+			}
+		}
+	}
+
+
+// show
+	#blog_show{
+		margin: 15px 0 15px 0;
+		padding: 0;
+		#blog_info_user{
+			margin-left: 1.25%;
+			width: 20%;
+			float: left;
+			#bl_user_name{
+				text-align: center;
+				font: Bold 16px Tahoma, sans-serif;
+				padding: 2px 0 2px 0;
+			}
+			#bl_image{
+				// @extend .bl_image;
+				// margin-top: 5px;
+				// height: 100px;
+				// text-align: center;
+				// // outline: 1px solid red;
+				img{
+					// max-width: 100px;
+					// max-height: 100px;
+				}
+			}
+			#bl_image_without_photo{
+				margin-top: 5px;
+				height: 100px;
+				text-align: center;
+
+				span{
+					outline: 1px solid #ccc;
+					text-align: center;
+					font: 16px solid Times;
+				}
+			}
+			#management_posts{
+				margin-top: 15px;
+				text-align: left;
+				a{
+					color: #032741;
+					text-decoration: none;
+					&:hover{
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+
+		#blog_content{
+			min-height: 350px;
+			margin-left: 22.25%;
+			padding: 0 1% 0 1%;
+			width: 74%;
+			border-left: 1px dotted #000;
+			border-right: 1px dotted #000;
+			h2{
+				color: #333;
+				font: Bold Tahoma, sans-serif;
+				margin-bottom: 15px;
+				text-align: center;
+			}
+			#blog_date_time{
+				margin-left: 20px;
+				font: Bold 13px Tahoma, sans-serif;
+				color: #5A5A5A;
+			}
+
+			.post_theme{
+				line-height: 1.75;
+				text-align: justify;
+				margin-right: 2%;
+				margin-left: 2%;
+			}
+
+			#post_body, #post_theme{
+				line-height: 1.75;
+				text-align: justify;
+				p{
+					text-indent: 20px;
+				}
+			}
+		}
+	}
+
+// create, update
+	#blog_new_edit{
+		outline: 1px solid #ccc;
+		margin: 0 auto;
+		width: 70%;
+		padding: 10px;
+
+		.blog_new_elements{
+			margin: 10px 0 10px 0;
+
+			label, #blog_post_title, #blog_post_theme{
+				font: 16px Times;
+			}
+
+			#blog_post_title{
+				width: 100%;
+			}
+
+			#blog_post_theme{
+				min-width: 100%;
+				max-width: 100%;
+				min-height: 75px;
+			}
+
+			#blog_post_body{
+				min-height: 250px;
+			}
+		}
+	}
+}

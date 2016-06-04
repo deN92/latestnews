@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+
+gem 'railroady', '1.4.2'
+gem 'simple-rss', '~> 1.3.1'
+gem 'mini_magick'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'bootstrap-datepicker-rails', '~> 1.6.1.1'
 gem 'groupdate', '~> 2.5.3'
@@ -25,6 +29,11 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+
+group :test do
+	gem 'rspec-rails'
+	gem 'factory_girl_rails'
+end
 
 group :development, :test do
   gem 'byebug'

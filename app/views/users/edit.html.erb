@@ -1,0 +1,28 @@
+<div id = "blAcc_edit">
+
+  <h1> Редагування даних </h1>
+	<%= simple_form_for @user do |f| %>
+		<div id = "blEmail">
+			<%= f.input :email, :autofocus => true, placeholder: "Email", label: "<i id = \"icon_email\" class=\"fa fa-envelope-o fa-fw\"></i>".html_safe %>
+		</div>
+		<div id = "blEmail">
+			<%= f.input :name, :autofocus => true, placeholder: "Ім'я", label: "<i id = \"icon_email\" class=\"fa fa-user fa-fw\"></i>".html_safe %>
+		</div>
+		<div id = "blEmail">
+			<%= f.input :surname, :autofocus => true, placeholder: "Прізвище", label: "<i id = \"icon_email\" class=\"fa fa-user fa-fw\"></i>".html_safe %>
+		</div>
+		<div id = "bl_other_input">
+			<%= f.input :photo, as: :file, :hint => image_tag(f.object.photo.url, style: "max-height: 50px; max-width: 100px;"), label: "<i id = \"icon_email\" class=\"fa fa-file-image-o fa-fw\"></i>".html_safe%>
+			<%= f.input :photo_cache, :as => :hidden %>
+		</div>
+		<div id = "bl_other_input">
+			<%= f.input :birthday, as: :date, start_year: 1940, end_year: Date.today.year - 12, label: "<i id = \"icon_email\" class=\"fa fa-calendar fa-fw\"></i>".html_safe%>
+		</div>
+		<div id = "blEmail">
+			<%= f.input :city, :autofocus => true, placeholder: "Місто", label: "<i id = \"icon_email\" class=\"fa fa-home fa-fw\"></i>".html_safe %>
+		</div>
+    <div id = "bl_submit">
+      <%= f.submit "Оновити" %>
+    </div>
+	<%end%>
+</div>

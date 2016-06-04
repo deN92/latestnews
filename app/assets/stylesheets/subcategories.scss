@@ -1,0 +1,19 @@
+main{
+	#list_subcategories{
+		margin: 2px auto;
+		text-align: center;
+		a.subcategory{
+			margin: 0 5px 0 5px;
+			color: #002B47;
+			text-decoration: none;
+			font: Bold 16px Times;
+			&:hover{
+				text-decoration: underline;
+			}
+		}
+		a#curr_sc{
+			color: orange;
+			text-decoration: underline;
+		}
+	}
+}

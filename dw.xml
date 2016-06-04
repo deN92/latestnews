@@ -1,0 +1,1146 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dwsyn="http://partner.dw.com/syndication/dwsyn/">
+<channel rdf:about="http://partner.dw.com/syndication/feeds/rss-ukr-all.1496.rdf">
+<description>Ukrainian Homepage</description>
+<link>
+http://www.dw.com/ukrainian/?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<title>DW-WORLD´s Ukrainian Homepage</title>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFequency>4</sy:updateFequency>
+<sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
+<dc:date>2016-05-26T10:00:53Z</dc:date>
+<image rdf:resource="http://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
+<items>...</items>
+</channel>
+<image rdf:about="http://rss.dw.com/images/DW-L-RGB_whitebg.png">...</image>
+<item rdf:about="http://www.dw.com/uk/вооз-за-два-роки-атаки-на-лікарні-забрали-тисячу-життів/a-19283882?maca=ukr-rss-ukr-all-1496-rdf">...</item>
+<item rdf:about="http://www.dw.com/uk/саміт-великої-сімки-відвідання-святині-і-проблеми-світової-економіки/a-19283763?maca=ukr-rss-ukr-all-1496-rdf">...</item>
+<item rdf:about="http://www.dw.com/uk/штайнмаєр-німеччина-формує-єдиний-фронт-єс-щодо-санкцій-проти-москви/a-19283695?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Штайнмаєр: Німеччина формує єдиний фронт ЄС щодо санкцій проти Москви
+</title>
+<link>
+http://www.dw.com/uk/штайнмаєр-німеччина-формує-єдиний-фронт-єс-щодо-санкцій-проти-москви/a-19283695?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Глава МЗС Німеччини Франк-Вальтер Штайнмаєр визнав, що не всі члени ЄС виступають за продовження санкцій проти Росії, тоді як Німеччина намагається сформувати "єдиний фронт".
+</description>
+<dc:date>2016-05-26T07:50:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283695</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/прем-єр-естонії-ключ-до-виконання-мінська-у-руках-путіна/a-19283628?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Прем'єр Естонії: Ключ до виконання "Мінська" - у руках Путіна
+</title>
+<link>
+http://www.dw.com/uk/прем-єр-естонії-ключ-до-виконання-мінська-у-руках-путіна/a-19283628?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Голова уряду Естонії Тааві Рийвас переконаний, що результативність мінських угод залежить від готовності Росії виконувати їх.
+</description>
+<dc:date>2016-05-26T07:09:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283628</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/україна-перед-вибором-де-відбудеться-євробачення-2017/a-19282650?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Україна перед вибором: де відбудеться "Євробачення-2017"
+</title>
+<link>
+http://www.dw.com/uk/україна-перед-вибором-де-відбудеться-євробачення-2017/a-19282650?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Після перемоги Джамали Україна отримала право на проведення "Євробачення-2017". П'ять міст висловили бажання прийняти у себе конкурс. DW вирішила порівняти шанси імовірних кандидатів.
+</description>
+<dc:date>2016-05-26T06:40:00Z</dc:date>
+<dc:subject>Україна</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282650</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/нафта-brent-подорожчала-вище-50-доларів-сша-за-барель-вперше-з-початку-року/a-19283610?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Нафта Brent подорожчала вище 50 доларів США за барель вперше з початку року
+</title>
+<link>
+http://www.dw.com/uk/нафта-brent-подорожчала-вище-50-доларів-сша-за-барель-вперше-з-початку-року/a-19283610?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Ціна нафти зросла на тлі даних про скорочення запасів у США.
+</description>
+<dc:date>2016-05-26T06:31:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283610</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/уряд-фрн-повернення-савченко-має-дати-поштовх-подальшому-звільненню-полонених/a-19283591?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Уряд ФРН: Повернення Савченко має дати поштовх подальшому звільненню полонених
+</title>
+<link>
+http://www.dw.com/uk/уряд-фрн-повернення-савченко-має-дати-поштовх-подальшому-звільненню-полонених/a-19283591?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Німецький уряд вітає повернення українки Надії Савченко з Росії та сподівається на новий поштовх в обміні полоненими у рамках мінських угод.
+</description>
+<dc:date>2016-05-26T06:00:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283591</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/туск-єс-не-змінить-ставлення-до-росії-без-виконання-мінська/a-19283586?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Туск: ЄС не змінить ставлення до Росії без виконання "Мінська"
+</title>
+<link>
+http://www.dw.com/uk/туск-єс-не-змінить-ставлення-до-росії-без-виконання-мінська/a-19283586?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Президент Європейської Ради Дональд Туск зазначив, що за рік у виконанні мінських угод помітно мало прогресу, і Росія залишатиметься під санкціями до їхнього повного втілення.
+</description>
+<dc:date>2016-05-26T05:42:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283586</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/шульц-європарламент-швидко-розгляне-візову-лібералізацію-для-україни/a-19283582?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Шульц: Європарламент швидко розгляне візову лібералізацію для України
+</title>
+<link>
+http://www.dw.com/uk/шульц-європарламент-швидко-розгляне-візову-лібералізацію-для-україни/a-19283582?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Європейський парламент 26 травня розпочне розгляд пропозиції Єврокомісії щодо лібералізації візового режиму з Україною, запевнив голова Європарламенту Мартін Шульц.
+</description>
+<dc:date>2016-05-26T05:09:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283582</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/віце-канцлер-німеччини-за-поступове-зняття-торговельних-санкцій-з-росії/a-19283320?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Віце-канцлер Німеччини - за поступове зняття торговельних санкцій з Росії
+</title>
+<link>
+http://www.dw.com/uk/віце-канцлер-німеччини-за-поступове-зняття-торговельних-санкцій-з-росії/a-19283320?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За словами міністра економіки Німеччини Зіґмара Ґабріеля, нормалізація економічних відносин з Росією можлива тільки за умови дотримання мінських домовленостей та продовження мирного процесу в Україні.
+</description>
+<dc:date>2016-05-25T20:12:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283320</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/чотири-держави-центральної-європи-відправлять-військових-до-країн-балтії/a-19283287?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Чотири держави Центральної Європи відправлять військових до країн Балтії
+</title>
+<link>
+http://www.dw.com/uk/чотири-держави-центральної-європи-відправлять-військових-до-країн-балтії/a-19283287?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+З огляду на побоювання агресії з боку Росії в країнах Балтії Польща, Чехія, Угорщина та Словаччина вирішили відправити до регіону по 150 військових. Детальний план буде готовий до саміту НАТО у Варшаві в липні 2016 року.
+</description>
+<dc:date>2016-05-25T19:11:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283287</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/керрі-звільнення-савченко-має-стати-імпульсом-для-виконання-мінських-угод/a-19283234?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Керрі: Звільнення Савченко має стати імпульсом для виконання Мінських угод
+</title>
+<link>
+http://www.dw.com/uk/керрі-звільнення-савченко-має-стати-імпульсом-для-виконання-мінських-угод/a-19283234?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За словами держсекретаря США Керрі, звільнення Надії Савченко повинно стати імпульсом для повного виконання Мінських угод. Глава МЗС ФРН Штайнмаєр сподівається на прогрес у формуванні довіри між Києвом і Москвою.
+</description>
+<dc:date>2016-05-25T18:27:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283234</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/у-німеччині-ухвалено-суперечливий-закон-щодо-біженців-відео/a-19283069?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+У Німеччині ухвалено суперечливий закон щодо біженців (відео)
+</title>
+<link>
+http://www.dw.com/uk/у-німеччині-ухвалено-суперечливий-закон-щодо-біженців-відео/a-19283069?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Для шукачів притулку стане складніше отримати дозвіл на проживання у Німеччині.
+</description>
+<dc:date>2016-05-25T18:04:00Z</dc:date>
+<dc:subject>Політика й суспільство</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283069</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/експерти-обмін-савченко-не-пришвидшить-мир-на-донбасі-відео/a-19283002?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Експерти: Обмін Савченко не пришвидшить мир на Донбасі (відео)
+</title>
+<link>
+http://www.dw.com/uk/експерти-обмін-савченко-не-пришвидшить-мир-на-донбасі-відео/a-19283002?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Європейські політики привітали повернення Савченко. Експерти ж застерігли від надії на прорив у Мінську-2.
+</description>
+<dc:date>2016-05-25T17:47:00Z</dc:date>
+<dc:subject>Політика й суспільство</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283002</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/fedex-купив-європейського-конкурента-за-4-9-мільярда-доларів/a-19283202?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+FedEx купив європейського конкурента за 4,9 мільярда доларів
+</title>
+<link>
+http://www.dw.com/uk/fedex-купив-європейського-конкурента-за-4-9-мільярда-доларів/a-19283202?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Американська компанія FedEx, що спеціалізується на перевезенні та доставці поштових посилок, придбала свого європейського конкурента TNT Express за 4,9 мільярда доларів США.
+</description>
+<dc:date>2016-05-25T17:43:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19283202</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/меркель-спокійно-відреагувала-на-ультиматум-з-боку-туреччини/a-19282992?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Меркель спокійно відреагувала на ультиматум з боку Туреччини
+</title>
+<link>
+http://www.dw.com/uk/меркель-спокійно-відреагувала-на-ультиматум-з-боку-туреччини/a-19282992?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Канцлерка Німеччини Анґела Меркель повідомила, що не відчуває занепокоєння з приводу угоди ЄС та Туреччини щодо реадмісії біженців після різких заяв президента Туреччини Реджепа Таїпа Ердогана.
+</description>
+<dc:date>2016-05-25T17:07:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282992</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/надія-савченко-герої-будуть-у-верховній-раді-на-заздрість-російській-думі/a-19282932?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Надія Савченко: "Герої будуть у Верховній Раді на заздрість російській Думі"
+</title>
+<link>
+http://www.dw.com/uk/надія-савченко-герої-будуть-у-верховній-раді-на-заздрість-російській-думі/a-19282932?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Повернення Надії Савченко на батьківщину після 709 днів російського полону стало подією номер один в Україні. Визволена льотчиця пообіцяла працювати над визволенням з Росії решти українських політв'язнів.
+</description>
+<dc:date>2016-05-25T16:23:00Z</dc:date>
+<dc:subject>Україна</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282932</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/у-парижі-назвали-звільнення-савченко-результатом-нормандських-перемовин/a-19282890?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+У Парижі назвали звільнення Савченко результатом "нормандських" перемовин
+</title>
+<link>
+http://www.dw.com/uk/у-парижі-назвали-звільнення-савченко-результатом-нормандських-перемовин/a-19282890?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+В адміністрації президента Франції звільнення українки Надії Савченко пов'язують із телефонною розмовою в "нормандському форматі", яка відбулася 23 травня.
+</description>
+<dc:date>2016-05-25T16:07:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282890</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/єс-хоче-встановити-квоту-для-європейського-кіно-в-netflix-itunes-та-amazon/a-19282805?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+ЄС хоче встановити квоту для європейського кіно в Netflix, iTunes та Amazon
+</title>
+<link>
+http://www.dw.com/uk/єс-хоче-встановити-квоту-для-європейського-кіно-в-netflix-itunes-та-amazon/a-19282805?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За словами єврокомісара з питань цифрової економіки Ґюнтера Еттінґера, квоти на європейське кіно в Netflix, iTunes та Amazon - питання безпеки для європейського кінематографа.
+</description>
+<dc:date>2016-05-25T15:48:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282805</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/коментар-лише-невеличкий-хепі-енд-у-відносинах-між-росією-та-україною/a-19282740?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Коментар: Лише невеличкий хепі-енд у відносинах між Росією та Україною
+</title>
+<link>
+http://www.dw.com/uk/коментар-лише-невеличкий-хепі-енд-у-відносинах-між-росією-та-україною/a-19282740?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Звільнення української льотчиці Надії Савченко та двох російських військовослужбовців - добра новина. Але вона не стане поворотною віхою у війні за український Донбас, вважає Бернд Йоганн.
+</description>
+<dc:date>2016-05-25T15:42:00Z</dc:date>
+<dc:subject>Україна</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282740</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/порошенко-обіцяє-повернути-україні-донбас-і-крим/a-19282533?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Порошенко обіцяє повернути Україні Донбас і Крим</title>
+<link>
+http://www.dw.com/uk/порошенко-обіцяє-повернути-україні-донбас-і-крим/a-19282533?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Президент України Петро Порошенко заявив, що Україна поверне державний суверенітет над Кримом і непідконтрольну Києву частину Донбасу, як повернула собі Надію Савченко.
+</description>
+<dc:date>2016-05-25T14:34:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282533</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/суд-відхилив-позов-ассанжа-про-скасування-ордеру-на-його-арешт/a-19282429?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Суд відхилив позов Ассанжа про скасування ордеру на його арешт
+</title>
+<link>
+http://www.dw.com/uk/суд-відхилив-позов-ассанжа-про-скасування-ордеру-на-його-арешт/a-19282429?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Адвокати засновника WikiLeaks готують апеляцію. У Стокгольмі суд не задовольнив позов засновника WikiLeaks Джуліана Ассанжа щодо скасування ордеру на його арешт.
+</description>
+<dc:date>2016-05-25T14:22:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282429</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/кабінет-меркель-дав-зелене-світло-законопроекту-щодо-інтеграції-біженців/a-19281881?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Кабінет Меркель дав "зелене світло" законопроекту щодо інтеграції біженців
+</title>
+<link>
+http://www.dw.com/uk/кабінет-меркель-дав-зелене-світло-законопроекту-щодо-інтеграції-біженців/a-19281881?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Німецький уряд схвалив законопроект, покликаний посилити інтеграцію біженців у німецьке суспільство. Так, шукачам притулку треба буде вивчати німецьку для отримання права на постійне проживання у країні.
+</description>
+<dc:date>2016-05-25T14:07:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281881</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/порошенко-звільнення-савченко-було-б-неможливим-без-мінських-угод/a-19281981?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Порошенко: Звільнення Савченко було б неможливим без Мінських угод
+</title>
+<link>
+http://www.dw.com/uk/порошенко-звільнення-савченко-було-б-неможливим-без-мінських-угод/a-19281981?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Київ і Москва домовилися та провели обмін: засуджену в РФ Надію Савченко - на засуджених в Україні Олександра Александрова та Євгена Єрофеєва. DW вела хроніку подій (час київський).
+</description>
+<dc:date>2016-05-25T13:57:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281981</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/ребекка-гармс-не-треба-плутати-звільнення-надії-савченко-з-виконанням-мінських-угод/a-19282085?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Ребекка Гармс: Не треба плутати звільнення Надії Савченко з виконанням мінських угод
+</title>
+<link>
+http://www.dw.com/uk/ребекка-гармс-не-треба-плутати-звільнення-надії-савченко-з-виконанням-мінських-угод/a-19282085?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Попри звільнення Надії Савченко на Росію треба далі тиснути. Москва має виконати мінські угоди, та звільнити інших ув'язнених українських громадян, заявила депутатка Європарламенту Ребекка Гармс в інтерв'ю DW.
+</description>
+<dc:date>2016-05-25T13:37:00Z</dc:date>
+<dc:subject>Європа</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282085</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/євродепутатка-не-бачить-підстав-для-скасування-санкцій-з-росії-через-звільнення-савченко/a-19282215?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Євродепутатка не бачить підстав для скасування санкцій з Росії через звільнення Савченко
+</title>
+<link>
+http://www.dw.com/uk/євродепутатка-не-бачить-підстав-для-скасування-санкцій-з-росії-через-звільнення-савченко/a-19282215?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Звільнення Надії Савченко не слід плутати з виконанням мінських угод, заявили членкиня Європарламенту Ребекка Гармс в інтерв'ю DW.
+</description>
+<dc:date>2016-05-25T13:30:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19282215</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/ідомені-місто-що-живе-за-рахунок-біженців/a-19281556?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Ідомені - місто, що живе за рахунок біженців</title>
+<link>
+http://www.dw.com/uk/ідомені-місто-що-живе-за-рахунок-біженців/a-19281556?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Без доступу громадськості поліція руйнує стихійний табір біженців поблизу грецького містечка Ідомені. Однак, не кожен в регіоні радіє через це. Кореспондент DW Янніс Пападімітріу повідомляє з місця подій.
+</description>
+<dc:date>2016-05-25T12:27:00Z</dc:date>
+<dc:subject>Європа</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281556</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/адвокати-підтвердили-обмін-савченко-на-єрофеєва-та-александрова/a-19281915?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Адвокати підтвердили обмін Савченко на Єрофеєва та Александрова
+</title>
+<link>
+http://www.dw.com/uk/адвокати-підтвердили-обмін-савченко-на-єрофеєва-та-александрова/a-19281915?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Адвокати з обох сторін підтвердили, що між Києвом та Москвою відбувся обмін засудженої у РФ Надії Савченко на засуджених в Україні Євгена Єрофеєва та Олександра Александрова.
+</description>
+<dc:date>2016-05-25T11:51:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281915</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/прем-єр-ізраїлю-зробив-міністром-оборони-ультранаціоналіста-лібермана/a-19281625?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Прем'єр Ізраїлю зробив міністром оборони ультранаціоналіста Лібермана
+</title>
+<link>
+http://www.dw.com/uk/прем-єр-ізраїлю-зробив-міністром-оборони-ультранаціоналіста-лібермана/a-19281625?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За угодою прем'єра Ізраїлю Біньяміна Нетаньяху і ультранаціоналістичної партії "Наш дім - Ізраїль", очільник останньої Авігдор Ліберман очолить міністерство оборони, а його фракція увійде до коаліції.
+</description>
+<dc:date>2016-05-25T11:42:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281625</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/коментар-пропаганда-проти-журналістів-в-україні/a-19281768?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Коментар: Пропаганда проти журналістів в Україні</title>
+<link>
+http://www.dw.com/uk/коментар-пропаганда-проти-журналістів-в-україні/a-19281768?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Український сайт "Миротворець" вкотре ошельмував журналістів. А міністр Аваков прикриває ці скандальні дії. Україна мусить себе запитати, чи збирається вона поважати європейські цінності, вважає Бернд Йоганн.
+</description>
+<dc:date>2016-05-25T11:40:00Z</dc:date>
+<dc:subject>Україна</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281768</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/німецький-футболіст-уродженець-дніпра-став-громадянином-рф-заради-євро-2016/a-19281784?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Німецький футболіст-уродженець Дніпра став громадянином РФ заради "Євро-2016"
+</title>
+<link>
+http://www.dw.com/uk/німецький-футболіст-уродженець-дніпра-став-громадянином-рф-заради-євро-2016/a-19281784?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Раніше тренерський штаб збірної Росії додав Нойштедтера до заявки на "Євро-2016". Не виключено, що заради російського паспорта він відмовився від німецького.
+</description>
+<dc:date>2016-05-25T10:51:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281784</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/куратор-київських-муралів-стіни-це-зброя-у-вихованні-людей/a-19280384?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Куратор київських муралів: "Стіни - це зброя у вихованні людей"
+</title>
+<link>
+http://www.dw.com/uk/куратор-київських-муралів-стіни-це-зброя-у-вихованні-людей/a-19280384?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Обличчя Києва змінюється - на стінах будинків з'являються мурали із зображенням людей, тварин та казкових персонажів. Про те, як виник та розвивається масштабний мистецький проект, DW розповів його куратор Гео Лерос.
+</description>
+<dc:date>2016-05-25T10:46:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19280384</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/пенсійна-система-україни-за-крок-до-катастрофи/a-19281719?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Пенсійна система України: за крок до катастрофи</title>
+<link>
+http://www.dw.com/uk/пенсійна-система-україни-за-крок-до-катастрофи/a-19281719?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Дефіцит Пенсійного фонду за перші п'ять місяців 2016 року склав 145 мільярдів гривень. Міністр соцполітики попереджає про катастрофу з виплатами пенсіонерам. Чи може щось врятувати пенсійну систему країни?
+</description>
+<dc:date>2016-05-25T10:13:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281719</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/петро-порошенко-звернеться-до-українців/a-19281729?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Петро Порошенко звернеться до українців</title>
+<link>
+http://www.dw.com/uk/петро-порошенко-звернеться-до-українців/a-19281729?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Президент Петро Порошенко о 15:15 за київським часом виступить із офіційною заявою, тема якої наразі не розкривається. Імовірно, йтиметься про долю льотчиці Надії Савченко.
+</description>
+<dc:date>2016-05-25T10:11:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281729</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/reuters-літак-із-савченко-на-борту-вилетів-до-києва/a-19281693?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Reuters: Літак із Савченко на борту вилетів до Києва
+</title>
+<link>
+http://www.dw.com/uk/reuters-літак-із-савченко-на-борту-вилетів-до-києва/a-19281693?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Українська льотчиця Надія Савченко вилетіла з Ростова-на-Дону до Києва, повідомляє інформаційна агенція Reuters. За її даними, обмін льотчиці на російських військовослужбовців уже відбувся.
+</description>
+<dc:date>2016-05-25T10:04:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281693</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/чи-примусять-справи-про-сепаратизм-замовкнути-інакодумців-у-криму/a-19281524?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Чи примусять справи про сепаратизм замовкнути інакодумців у Криму?
+</title>
+<link>
+http://www.dw.com/uk/чи-примусять-справи-про-сепаратизм-замовкнути-інакодумців-у-криму/a-19281524?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Для переслідування "незручних" ЗМІ і політиків прокуратура Криму все частіше використовує статтю кримінального кодексу Росії про заклики до сепаратизму. DW подає хроніку подій та реакції на них.
+</description>
+<dc:date>2016-05-25T09:47:00Z</dc:date>
+<dc:subject>Україна</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281524</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/кремль-не-має-інформації-про-обмін-савченко/a-19281600?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Кремль "не має інформації" про обмін Савченко</title>
+<link>
+http://www.dw.com/uk/кремль-не-має-інформації-про-обмін-савченко/a-19281600?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У Кремлі заявили, що нічого не знають про підготовку обміну українки Савченко на росіян Єрофеєва та Александрова. Адвокати Савченко також заявили про відсутність такої інформації.
+</description>
+<dc:date>2016-05-25T09:28:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281600</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/reuters-київ-помилував-російських-військових/a-19281549?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Reuters: Київ помилував російських військових</title>
+<link>
+http://www.dw.com/uk/reuters-київ-помилував-російських-військових/a-19281549?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+На тлі інформації про візит Петра Порошенка до Ростова-на-Дону для обміну Надії Савченко агенція Reuters дізналася про помилування росіян Євгена Єрофеєва і Олександра Александрова.
+</description>
+<dc:date>2016-05-25T09:13:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281549</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/інтерфакс-савченко-обміняють-на-двох-російських-військовослужбовців/a-19281468?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+"Інтерфакс": Савченко обміняють на двох російських військовослужбовців
+</title>
+<link>
+http://www.dw.com/uk/інтерфакс-савченко-обміняють-на-двох-російських-військовослужбовців/a-19281468?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За даними російських ЗМІ, за кілька годин ув'язнену в Росії Надію Савченко видадуть Україні в обмін на двох засуджених у Києві росіян. Процес начебто відбудеться в аеропорту Ростова-на-Дону.
+</description>
+<dc:date>2016-05-25T08:38:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281468</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/держслужба-зайнятості-пропонує-звільненим-міліціонерам-іти-в-армію-на-контракт/a-19281424?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Держслужба зайнятості пропонує звільненим міліціонерам іти в армію на контракт
+</title>
+<link>
+http://www.dw.com/uk/держслужба-зайнятості-пропонує-звільненим-міліціонерам-іти-в-армію-на-контракт/a-19281424?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Державна служба зайнятості України заявила, що звільненим із лав міністерства внутрішніх справ, прокуратури та Державної фіскальної служби варто піти на контракт в армію.
+</description>
+<dc:date>2016-05-25T08:34:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19281424</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/безпілотні-авто-можуть-покласти-край-ері-бензинових-двигунів/a-19234265?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Безпілотні авто можуть покласти край ері бензинових двигунів
+</title>
+<link>
+http://www.dw.com/uk/безпілотні-авто-можуть-покласти-край-ері-бензинових-двигунів/a-19234265?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+До 2025 року через використання безпілотників може скоротитись виробництво традиційних двигунів і звичайних авто. Такий прогноз висунув канадський розробник Бред Темплтон на форумі Університету Унікальності в Берліні.
+</description>
+<dc:date>2016-05-06T06:00:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19234265</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/у-берліні-виставили-на-показ-політичні-пам-ятники-минулого/a-19222964?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+У Берліні виставили на показ політичні пам'ятники минулого
+</title>
+<link>
+http://www.dw.com/uk/у-берліні-виставили-на-показ-політичні-пам-ятники-минулого/a-19222964?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У Берліні з'явилася нова цікавинка: на виставці Enthüllt зібрані пам'ятники, які мало хто бачив. Чому? Бо їх давно прибрали з постаментів, видозмінили, пошкодили, або вони довго припадали пилом у сховищах.
+</description>
+<dc:date>2016-04-29T11:00:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19222964</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/німецькі-бонуси-на-електромобілі-хто-не-встиг-той-сам-винен/a-19218632?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Німецькі бонуси на електромобілі: хто не встиг, той сам винен
+</title>
+<link>
+http://www.dw.com/uk/німецькі-бонуси-на-електромобілі-хто-не-встиг-той-сам-винен/a-19218632?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Уряд та автовиробники Німеччини ставлять амбітну мету - мільйон електрокарів до 2020 року. Задля цього за купівлю непопулярного серед німців електромобілю виплачуватимуть премію.
+</description>
+<dc:date>2016-04-27T17:04:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19218632</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/чому-майн-кампф-знову-став-бестселером-у-німеччині/a-19214623?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Чому "Майн Кампф" знову став бестселером у Німеччині?
+</title>
+<link>
+http://www.dw.com/uk/чому-майн-кампф-знову-став-бестселером-у-німеччині/a-19214623?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Цьогоріч у Німеччині - уперше за 70 років - опублікований "Майн Кампф". Попит на "критичне видання" виявився напрочуд великим. Хто ж цікавиться пропагандистським опусом Гітлера?
+</description>
+<dc:date>2016-04-26T11:41:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19214623</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/art-cologne-найстарішому-в-світі-мистецькому-ярмарку-50/a-19186816?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Art Cologne - найстарішому в світі мистецькому ярмарку 50
+</title>
+<link>
+http://www.dw.com/uk/art-cologne-найстарішому-в-світі-мистецькому-ярмарку-50/a-19186816?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Поштовхом до революційних змін часто є розчарування. Саме розчарування наштовхнуло двох галеристів з Кельна на ідею заснувати Art Cologne, який цими днями відзначає 50-річчя і є найстарішим у світі мистецьким ярмарком.
+</description>
+<dc:date>2016-04-14T14:30:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19186816</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/внески-на-капремонт-у-німеччині-хто-скільки-і-кому-платить/a-19181613?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Внески на капремонт у Німеччині: хто, скільки і кому платить
+</title>
+<link>
+http://www.dw.com/uk/внески-на-капремонт-у-німеччині-хто-скільки-і-кому-платить/a-19181613?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Допоки в Україні нова система власності на багатоквартирні будинки лише впроваджується в дію, у Німеччині вона успішно функціонує вже понад півстоліття. Як саме - на прикладі з життя журналіста DW.
+</description>
+<dc:date>2016-04-13T09:07:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19181613</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/майбутнє-німецьких-велоавтобанів/a-19163996?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Майбутнє німецьких велоавтобанів</title>
+<link>
+http://www.dw.com/uk/майбутнє-німецьких-велоавтобанів/a-19163996?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У Німеччині ведеться будівництво швидкісної, вільної від автомобілів веломагістралі. Але чи знайдуться гроші на те, щоб її добудувати, і таким чином здійснити мрію велосипедистів?
+</description>
+<dc:date>2016-04-05T09:52:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19163996</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/як-німці-жартують-1-квітня/a-19157694?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Як німці жартують 1 квітня</title>
+<link>
+http://www.dw.com/uk/як-німці-жартують-1-квітня/a-19157694?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Німці люблять 1 квітня майже так само, як карнавал, і з задоволенням жартують в цей день над друзями, членами родини та колегами.
+</description>
+<dc:date>2016-04-01T09:49:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19157694</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/скетчі-про-ердогана-путіна-та-меркель-німецька-сатира-у-дії-відео/a-19152262?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Скетчі про Ердогана, Путіна та Меркель: німецька сатира у дії (відео)
+</title>
+<link>
+http://www.dw.com/uk/скетчі-про-ердогана-путіна-та-меркель-німецька-сатира-у-дії-відео/a-19152262?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Журналісти в Німеччині часто жартують над політиками. Кращі скетчі про Путіна і Меркель - в сюжеті DW.
+</description>
+<dc:date>2016-03-30T17:13:00Z</dc:date>
+<dc:subject>Політика й суспільство</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19152262</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/у-німеччині-відзняли-нову-версію-зоряних-війн/a-19151227?maca=ukr-rss-ukr-all-1496-rdf">
+<title>У Німеччині відзняли нову версію "Зоряних війн"</title>
+<link>
+http://www.dw.com/uk/у-німеччині-відзняли-нову-версію-зоряних-війн/a-19151227?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Більшість дипломних робіт, як правило, припадають пилом на полицях. Ця, однак, є винятком: випускник ахенського вишу відзняв нову версію блокбастеру. Його встигли передивитися більше шести мільйонів людей.
+</description>
+<dc:date>2016-03-30T11:00:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19151227</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/елітне-житло-в-бомбосховищі/a-19131788?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Елітне житло в бомбосховищі</title>
+<link>
+http://www.dw.com/uk/елітне-житло-в-бомбосховищі/a-19131788?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Житловий будинок у Дюссельдорфі, колишнє бомбосховище, нагороджено однією з найпрестижніших премій у галузі нерухомості.
+</description>
+<dc:date>2016-03-21T14:05:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19131788</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/німеччину-на-євробаченні-представлятиме-17-річна-школярка/a-19076313?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Німеччину на "Євробаченні" представлятиме 17-річна школярка
+</title>
+<link>
+http://www.dw.com/uk/німеччину-на-євробаченні-представлятиме-17-річна-школярка/a-19076313?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+На фінал конкурсу до Стокгольма Джеймі-Лі Крівіц поїде з англомовною піснею "Ghost". Попереднього німецького претендента торік відкликали через протести громадськості.
+</description>
+<dc:date>2016-02-26T06:10:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19076313</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/туристична-галузь-німеччини-встановила-шостий-рекорд-поспіль/a-19043275?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Туристична галузь Німеччини встановила шостий рекорд поспіль
+</title>
+<link>
+http://www.dw.com/uk/туристична-галузь-німеччини-встановила-шостий-рекорд-поспіль/a-19043275?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У 2015 році бум туризму у Німеччині продовжився - шостий рік поспіль кількість постояльців готелів сягає нової рекордної позначки. Перш за все це стосується гостей з-за кордону.
+</description>
+<dc:date>2016-02-11T16:48:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19043275</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/поцілунок-за-краватку-початок-карнавалу-на-берегах-рейну/a-19026171?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Поцілунок за краватку - початок карнавалу на берегах Рейну
+</title>
+<link>
+http://www.dw.com/uk/поцілунок-за-краватку-початок-карнавалу-на-берегах-рейну/a-19026171?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У четвер, напередодні карнавалу, жінки беруть шефство над чоловіками, відрізають їхні краватки і нагороджують їх поцілунком. Давня традиція цього року набуває особливого сенсу.
+</description>
+<dc:date>2016-02-04T11:50:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19026171</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/наскільки-безпечно-почуваються-євреї-в-німеччині/a-19002948?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Наскільки безпечно почуваються євреї в Німеччині</title>
+<link>
+http://www.dw.com/uk/наскільки-безпечно-почуваються-євреї-в-німеччині/a-19002948?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Велика кількість втікачів від терору й війни з країн арабського світу породжує дискусії серед німецьких євреїв. Вони побоюються, що частина біженців може радикалізуватися та поширювати антисемітизм.
+</description>
+<dc:date>2016-02-04T06:48:00Z</dc:date>
+<dc:subject>Європа</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19002948</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/з-їхалися-на-солодке-до-кельна-звезли-солодощі-зі-65-країн-світу/a-19019968?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+З’їхалися на солодке: до Кельна звезли солодощі зі 65 країн світу
+</title>
+<link>
+http://www.dw.com/uk/з-їхалися-на-солодке-до-кельна-звезли-солодощі-зі-65-країн-світу/a-19019968?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+1600 виробників з 65 країн світу беруть участь у найбільшому в світі ярмарку солодощів у Кельні. На виставці кореспондент DW поласував найновішими цукерками й дізнався про сучасні тренди ринку солодощів.
+</description>
+<dc:date>2016-02-02T12:28:00Z</dc:date>
+<dc:subject>Eкономікa</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19019968</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/дослідження-відтік-населення-зі-східної-німеччини-зупинено/a-19007529?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Дослідження: відтік населення зі східної Німеччини зупинено
+</title>
+<link>
+http://www.dw.com/uk/дослідження-відтік-населення-зі-східної-німеччини-зупинено/a-19007529?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Дедалі більше людей переїжджають на територію східної Німеччини, ламаючи тренд останніх десятиліть. Але приріст населення відбувається лише у великих містах, у тому числі й за рахунок мігрантів із сільських районів.
+</description>
+<dc:date>2016-01-27T17:44:00Z</dc:date>
+<dc:subject>Новини</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19007529</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/мистецтво-під-час-голокосту-але-душа-моя-вільна/a-19004856?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Мистецтво під час Голокосту: "Але душа моя вільна"</title>
+<link>
+http://www.dw.com/uk/мистецтво-під-час-голокосту-але-душа-моя-вільна/a-19004856?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Ув'язнені в нацистських концтаборах художники зобразили жах тортур і смерті в своїх малюнках і картинах. 100 їхніх робіт демонструються нині на виставці в Берліні.
+</description>
+<dc:date>2016-01-27T10:58:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>19004856</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/100-місць-у-німеччині-які-слід-відвідати/a-18967595?maca=ukr-rss-ukr-all-1496-rdf">
+<title>100 місць у Німеччині, які слід відвідати</title>
+<link>
+http://www.dw.com/uk/100-місць-у-німеччині-які-слід-відвідати/a-18967595?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Національний комітет Німеччини з туризму (DZT) регулярно публікує рейтинг німецьких пам'яток. Він складається на основі опитування іноземних туристів із 40 країн світу.
+</description>
+<dc:date>2016-01-08T14:54:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18967595</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/найкращі-ресторани-німеччини/a-18909400?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Найкращі ресторани Німеччини</title>
+<link>
+http://www.dw.com/uk/найкращі-ресторани-німеччини/a-18909400?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У новому "Червоному гіді", як ще називають ресторанний путівник Michelin, побільшало німецьких ресторанів.
+</description>
+<dc:date>2015-12-18T10:24:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18909400</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/як-у-любеку-винайшли-марципан-і-стали-робити-червоне-вино/a-18916440?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Як у Любеку винайшли марципан і стали робити червоне вино
+</title>
+<link>
+http://www.dw.com/uk/як-у-любеку-винайшли-марципан-і-стали-робити-червоне-вино/a-18916440?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Ганзейське місто Любек в північній Німеччині - неофіційна марципанова столиця світу. Однак привезти звідси в подарунок можна не лише традиційні солодощі, але й місцеве вино.
+</description>
+<dc:date>2015-12-14T13:26:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18916440</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/музей-забороненого-мистецтва-відкрився-у-німецькому-золінгені/a-18903950?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Музей "забороненого мистецтва" відкрився у німецькому Золінгені
+</title>
+<link>
+http://www.dw.com/uk/музей-забороненого-мистецтва-відкрився-у-німецькому-золінгені/a-18903950?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У Центрі забороненого мистецтва, який відкрився 8 грудня в Золінгені, зібрані роботи художників, скульпторів і письменників, переслідуваних нацистами.
+</description>
+<dc:date>2015-12-10T07:40:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18903950</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/віртуальні-екскурсії-за-лаштунками-берлінської-філармонії/a-18890547?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Віртуальні екскурсії: За лаштунками Берлінської філармонії
+</title>
+<link>
+http://www.dw.com/uk/віртуальні-екскурсії-за-лаштунками-берлінської-філармонії/a-18890547?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Берлінська філармонія долучилася до проекту Performing Arts компанії Google. Інтернет-концерн уможливив онлайн-доступ до архітектури, а також окремих вистав та дійств провідних театрів, опер та концертних залів світу.
+</description>
+<dc:date>2015-12-03T12:26:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18890547</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/освіта-в-німеччині-для-українських-студентів-як-отримати-стипендію/a-18808632?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Освіта в Німеччині для українських студентів: як отримати стипендію
+</title>
+<link>
+http://www.dw.com/uk/освіта-в-німеччині-для-українських-студентів-як-отримати-стипендію/a-18808632?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Варто поквапитись тому, хтось хоче вже наступного року вирушити на навчання до ФРН зі стипендією Німецької служби академічних обмінів (DAAD) у кишені. Інтерв'ю з представницею DAAD у Києві Ґізелою Ціммерманн.
+</description>
+<dc:date>2015-10-29T13:55:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18808632</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/солодке-надбання-німеччини-шварцвальдський-торт-відзначає-100-річний-ювілей/a-18806158?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Солодке надбання Німеччини: Шварцвальдський торт відзначає 100-річний ювілей
+</title>
+<link>
+http://www.dw.com/uk/солодке-надбання-німеччини-шварцвальдський-торт-відзначає-100-річний-ювілей/a-18806158?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+З самого ранку кондитер Фредді Бох тягнеться за пляшкою, іншого вибору в нього немає… Вишневий шнапс - один з інгредієнтів Шварцвальдського торту.
+</description>
+<dc:date>2015-10-27T06:57:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18806158</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/повернення-вінілу-в-німеччині-стартував-хіт-парад-музичних-платівок/a-18783589?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Повернення вінілу: в Німеччині стартував хіт-парад музичних платівок
+</title>
+<link>
+http://www.dw.com/uk/повернення-вінілу-в-німеччині-стартував-хіт-парад-музичних-платівок/a-18783589?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У час цифрових носіїв інформації спостерігається вкрай цікавий розвиток. Бум переживають музичні вінілові платівки. Після Великобританії тепер також у Німеччині запускають хіт-паради альбомів на вінілі.
+</description>
+<dc:date>2015-10-15T10:48:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18783589</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/меркель-і-ґаук-східні-німці-на-чолі-фрн/a-18728407?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Меркель і Ґаук - східні німці на чолі ФРН</title>
+<link>
+http://www.dw.com/uk/меркель-і-ґаук-східні-німці-на-чолі-фрн/a-18728407?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Більшість керівних посад у німецькій політиці досі належать німцям із західних федеральних земель. Водночас саме федеральний президент і канцлерка мають східне походження. І це часом дуже помітно.
+</description>
+<dc:date>2015-10-02T11:22:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18728407</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/історичні-дні-від-падіння-берлінського-муру-до-єдності/a-18748046?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Історичні дні: Від падіння Берлінського муру до єдності
+</title>
+<link>
+http://www.dw.com/uk/історичні-дні-від-падіння-берлінського-муру-до-єдності/a-18748046?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Невдале формулювання нового закону НДР про виїзд призводить до падіння Берлінського муру. Менше ніж за рік по тому Німеччина об'єдналася. А події, які передували цьому, нині видаються політичним детективом.
+</description>
+<dc:date>2015-10-02T09:19:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18748046</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/не-могутністю-а-відповідальністю/a-18749678?maca=ukr-rss-ukr-all-1496-rdf">
+<title>"Не могутністю, а відповідальністю"</title>
+<link>
+http://www.dw.com/uk/не-могутністю-а-відповідальністю/a-18749678?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Екс-голова МЗС ФРН Ганс-Дітріх Ґеншер у своєму гостьовому коментарі для DW виступає за європейську Німеччину та єдину Європу як лабораторію нового справедливого устрою. Його вважають одним з творців об'єднання Німеччини.
+</description>
+<dc:date>2015-10-01T16:25:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18749678</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/роль-німеччини-в-єс/a-18749212?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Роль Німеччини в ЄС</title>
+<link>
+http://www.dw.com/uk/роль-німеччини-в-єс/a-18749212?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Роль, яку відіграє об'єднана Німеччина в Європі, складно осягнути - вона постійно змінюється. Поміркована провідна сила чи спраглий влади неповороткий слон у посудній лавці?
+</description>
+<dc:date>2015-09-30T11:39:00Z</dc:date>
+<dc:subject>Вікно в Німеччину</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18749212</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/німецькі-студенти-спроектували-житло-для-біженців/a-18701706?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Німецькі студенти спроектували житло для біженців</title>
+<link>
+http://www.dw.com/uk/німецькі-студенти-спроектували-житло-для-біженців/a-18701706?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Намети, контейнери і тренажерні зали – усе це зазвичай використовують для розміщення біженців, але це незадовільно, вважає група студентів-архітекторів. У відповідь вони розробили низку творчих альтернатив.
+</description>
+<dc:date>2015-09-08T15:12:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18701706</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/китайський-художник-ай-вейвей-викладатиме-в-берліні/a-18654092?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Китайський художник Ай Вейвей викладатиме в Берліні
+</title>
+<link>
+http://www.dw.com/uk/китайський-художник-ай-вейвей-викладатиме-в-берліні/a-18654092?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Один із найвпливовіших сучасних художників Китаю Ай Вейвей працюватиме в Берлінському університеті мистецтв. Із жовтня він на три роки поповнить викладацький склад вишу.
+</description>
+<dc:date>2015-08-18T14:02:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18654092</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/архітектор-який-звів-перший-в-європі-багатоповерховий-гараж/a-18648089?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Архітектор, який звів перший в Європі багатоповерховий гараж
+</title>
+<link>
+http://www.dw.com/uk/архітектор-який-звів-перший-в-європі-багатоповерховий-гараж/a-18648089?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Від багатоярусної автостоянки до аеропорту, від реставрації храмів до виготовлення прикрас: виставка в Мюнхені знайомить з багатогранною творчістю зодчого Пауля Шнайдер-Еслебена.
+</description>
+<dc:date>2015-08-14T11:29:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18648089</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/руртрієнналє-2015-переплетення-індустріальної-культури-з-мистецтвом/a-18637944?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+"Руртрієнналє 2015": переплетення індустріальної культури з мистецтвом
+</title>
+<link>
+http://www.dw.com/uk/руртрієнналє-2015-переплетення-індустріальної-культури-з-мистецтвом/a-18637944?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Рурська область - аналог українського Донбасу. Якщо раніше це була запилена промзона, то нині її амплуа - зелена культурна столиця Німеччини. Цьогорічний фестиваль "Руртрієнналє 2015" лише підтверджує цю репутацію.
+</description>
+<dc:date>2015-08-10T15:39:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18637944</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/ріхард-ваґнер-та-його-жінки/a-18625565?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Ріхард Ваґнер та його жінки</title>
+<link>
+http://www.dw.com/uk/ріхард-ваґнер-та-його-жінки/a-18625565?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Дамам було нелегко поруч з вередливим генієм. Втім, Ваґнера впродовж усього життя оточували чарівні жінки: дружини, кохані, музи.
+</description>
+<dc:date>2015-08-04T10:57:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18625565</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/як-потсдамська-конференція-встановила-новий-лад-у-повоєнній-німеччині/a-18590366?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Як Потсдамська конференція встановила новий лад у повоєнній Німеччині
+</title>
+<link>
+http://www.dw.com/uk/як-потсдамська-конференція-встановила-новий-лад-у-повоєнній-німеччині/a-18590366?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Рівно 70 років тому завершилася Потсдамська конференція. У палаці неподалік Берліна три наймогутніші людини того часу визначили майбутнє переможеної Німеччини та новий порядок у Європі.
+</description>
+<dc:date>2015-08-02T11:28:00Z</dc:date>
+<dc:subject>Європа</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18590366</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/втрата-коріння-та-інтеграція-біженці-в-повоєнні-часи-й-сьогодні/a-18585540?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Втрата коріння та інтеграція: біженці в повоєнні часи й сьогодні
+</title>
+<link>
+http://www.dw.com/uk/втрата-коріння-та-інтеграція-біженці-в-повоєнні-часи-й-сьогодні/a-18585540?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+У світі 60 мільйонів осіб, які змушені тікати з рідних місць. Так багато біженців на планеті ще не було. Після Другої світової війни понад 12 мільйонів осіб прибули до Німеччини, яка лежала у руїнах. Як їх зустрічали?
+</description>
+<dc:date>2015-07-17T05:58:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18585540</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/провокація-від-мистецтва-documenta-відзначає-ювілей/a-18585350?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Провокація від мистецтва: documenta відзначає ювілей
+</title>
+<link>
+http://www.dw.com/uk/провокація-від-мистецтва-documenta-відзначає-ювілей/a-18585350?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+За 60 років свого існування виставка в Касселі стала одним із найбільш значущих оглядів сучасного мистецтва у світі.
+</description>
+<dc:date>2015-07-15T15:46:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18585350</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/два-квартали-гамбурга-внесли-до-переліку-світової-спадщини-юнеско/a-18562460?maca=ukr-rss-ukr-all-1496-rdf">
+<title>
+Два квартали Гамбурга внесли до переліку Світової спадщини ЮНЕСКО
+</title>
+<link>
+http://www.dw.com/uk/два-квартали-гамбурга-внесли-до-переліку-світової-спадщини-юнеско/a-18562460?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Складський та контроський квартали Гамбурга внесли до списку Світової спадщини ЮНЕСКО. Відтепер Німеччина має 40 таких об'єктів.
+</description>
+<dc:date>2015-07-05T11:09:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18562460</dwsyn:contentID>
+</item>
+<item rdf:about="http://www.dw.com/uk/вуличні-музиканти-правила-гри/a-18560461?maca=ukr-rss-ukr-all-1496-rdf">
+<title>Вуличні музиканти: правила гри</title>
+<link>
+http://www.dw.com/uk/вуличні-музиканти-правила-гри/a-18560461?maca=ukr-rss-ukr-all-1496-rdf
+</link>
+<description>
+Щороку до Німеччини з’їжджаються тисячі музикантів з усього світу. Кореспондентка DW поцікавилася, яких правил їм доводиться дотримуватися, аби не надокучати мешканцям міста.
+</description>
+<dc:date>2015-07-03T18:20:00Z</dc:date>
+<dc:subject>Культура й стиль життя</dc:subject>
+<dc:language>uk</dc:language>
+<dwsyn:contentID>18560461</dwsyn:contentID>
+</item>
+</rdf:RDF>

@@ -1,0 +1,58 @@
+<div id = "user_show">
+	<%= render :partial => "./users/aside"%>
+
+	<div id="users_rank">
+		<h4>Рейтинг блогерів</h4>
+		<% @user_posts.each do |u|%>
+			<div class = "account_user_info">
+				<div class = "user_profile_photo">
+					<%= link_to image_tag(u.photo), user_path(u) %>
+				</div>
+				<p class = "user_name">
+					<span><%= link_to "#{u.name}<br>#{u.surname}".html_safe, user_path(u) %></span>
+				</p>
+			</div>
+		<%end%>
+	</div>
+
+	<div id = "account_user_info">
+		<div id = "user_profile_photo">
+			<%= image_tag(@user.photo)%>
+		</div>
+		<div id="user_profile_info_descr">
+			<h3><%= @user.name %> 
+					<%= @user.surname%>
+			</h3>
+			<div class = "user_profile_info_lv">
+				<p class="user_profile_info_label">Email: </p>
+				<p class="user_profile_info_value"><%=@user.email%></p>
+			</div>
+			<% unless @user.birthday == "" || @user.birthday.nil? %>
+				<div class = "user_profile_info_lv">
+					<p class="user_profile_info_label">День народження: </p> 
+					<p class="user_profile_info_value"><%= "#{@user.birthday.strftime("%d/%m/%Y")}" " (#{User.age(@user.birthday)} р.)" %></p>
+				</div>
+			<% end %>
+			<% unless @user.city == "" || @user.city.nil? %>
+				<div class = "user_profile_info_lv">
+					<p class="user_profile_info_label">Місто: </p>
+					<p class="user_profile_info_value"><%=@user.city %></p>
+				</div>
+			<% end %>
+			<div class = "user_profile_info_lv">
+				<p class="user_profile_info_label">Зареєстровано: </p> 
+				<p class="user_profile_info_value"><%=@user.created_at.strftime("%d/%m/%Y") %></p>
+			</div>
+		</div>
+	</div>
+
+	<%unless current_user && current_user.id.to_s == params[:id] %>
+		<div id = "bl_link_author_posts">
+		<% 
+			param_link = "Показати всі статті цього автора" 
+			param_link = "Показати всі мої статті" if current_user && current_user.id.to_s == params[:id]
+		%>
+		<%= link_to param_link, user_blogs_path(params[:id])%>
+		</div>
+	<%end%>
+</div>

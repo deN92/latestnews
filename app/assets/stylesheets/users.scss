@@ -1,0 +1,92 @@
+main{
+
+	#account_user_info{
+		min-height: 400px;
+		width: 55%;
+		// padding: 0 10px 0 10px;
+		margin: 0 auto;
+		border-right: 1px dotted #000;
+		border-left: 1px dotted #000;
+		#user_profile_photo{
+			margin-left: 2%;
+			display: inline-block;
+			outline: 1px solid red;
+			width: 200px;
+			height: 200px;
+		}
+		#user_profile_info_descr{
+			outline: 1px solid green;
+			margin-left: 25px;
+			display: inline-block;
+			vertical-align: top;
+			h3{
+				color: #333;
+				font: Bold Tahoma, sans-serif;
+				margin-bottom: 15px;
+				text-align: center;
+			}
+
+			.user_profile_info_lv{
+				margin: 7px 0 7px 0;
+				.user_profile_info_label{
+					float: left;
+					width: 150px;
+				}			
+				.user_profile_info_value{
+					// float: left;
+					width: 300px;
+				}
+			}
+		}
+	}
+
+	#users_rank{
+		h4{
+			text-align: center;
+			padding: 5px 0 5px 0;
+		}
+		float: right;
+		margin-right: 1%;
+		width: 20%;
+		outline: 1px solid green;
+		.account_user_info{
+			height: 51px;
+			outline: 1px solid green;
+			margin-bottom: 10px;
+			.user_profile_photo{
+				width: 30%;
+				float: left;
+				img{
+					max-height: 50px;
+					max-width: 50px;
+				}
+			}
+			.user_name{
+				padding-top: 5px;
+				margin-left: 30%;
+				width: 65%;
+				font: Italic 16px Times;
+				a{
+					text-decoration: none;
+					&:hover{
+						text-decoration: underline;
+					}
+				}
+			}
+		}
+	}
+
+	#bl_link_author_posts{
+		margin-top: 20px;
+		width: 75%;
+		margin-left: 22%;
+		a{
+			color: #333333;
+			font: Bold Italic 16px Times;
+			text-decoration: none;
+			&:hover{
+				text-decoration: underline;
+			}
+		}
+	}
+}

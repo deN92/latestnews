@@ -1,0 +1,31 @@
+<div id = "blog_show">
+	<div id = "blog_info_user">
+		<p id = "bl_user_name">
+			<%= @blog.user.name%>
+			<%= @blog.user.surname%>
+		</p>
+		<%unless @blog.user.photo.present? == false  %> 
+			<p id = "bl_image">
+				<%= image_tag(@blog.user.photo)%>
+			</p>
+		<%else%>
+			<p id = "bl_image_without_photo">
+				<span id="no_photo">No photo</span>
+			</p>
+		<%end%>
+		<% if current_user && current_user.id.to_s == params[:user_id] %>
+			<div id = "management_posts">
+				<%= link_to "Редагувати статтю", edit_user_blog_path(@blog.user_id, @blog.id) %>
+				<br>
+				<%= link_to "Видалити статтю", blog_path(@blog), method: :delete, data: { confirm: 'Ви впевнені?' } %>
+			</div>
+		<%end%>
+	</div>
+
+	<article id="blog_content">
+		<h2><%= @blog.post_title %></h2>
+		<p id = "blog_date_time"><%= @blog.created_at.strftime("%d/%m | %k:%M") %></p>
+		<p id="post_theme"><%=@blog.post_theme %></p>
+		<div id="post_body"><%=@blog.post_body.html_safe %></div>
+	</article>
+</div>
