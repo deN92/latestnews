@@ -14,7 +14,7 @@ class ApplicationController < ActionController::Base
 		rescue
 		end
 		xml = Nokogiri::XML(open("bank-ua.xml"))
-		xml = xml.xpath('//item[code=840]', '//item[code=978]')
+		xml = xml.xpath('//item[code=840]', '//item[code=978]','//item[code=643]', '//item[code=985]')
 		return xml
 	end
 

@@ -5135,24 +5135,130 @@
     <char3>USD</char3>
     <rate>25.259572</rate>
   </item>
+  
   <item>
     <date>2016-05-23</date>
     <char3>USD</char3>
     <rate>25.201506</rate>
   </item>
+
+  <item>
+    <date>2016-05-24</date>
+    <char3>USD</char3>
+    <rate>25.123692</rate>
+  </item>
+
+    <item>
+    <date>2016-05-25</date>
+    <char3>USD</char3>
+    <rate>25.133711</rate>
+  </item>
+
+    <item>
+    <date>2016-05-26</date>
+    <char3>USD</char3>
+    <rate>25.112500</rate>
+  </item>
+
+    <item>
+    <date>2016-05-27</date>
+    <char3>USD</char3>
+    <rate>25.099995</rate>
+  </item>
+
+
   <item>
     <date>2016-05-30</date>
     <char3>USD</char3>
     <rate>25.136025</rate>
   </item>
+
+  <item>
+    <date>2016-05-31</date>
+    <char3>USD</char3>
+    <rate>25.166002</rate>
+  </item>
+
+  <item>
+    <date>2016-06-01</date>
+    <char3>USD</char3>
+    <rate>25.141637</rate>
+  </item>
+
+  <item>
+    <date>2016-06-02</date>
+    <char3>USD</char3>
+    <rate>25.097590</rate>
+  </item>
+
   <item>
     <date>2016-06-03</date>
     <char3>USD</char3>
-    <rate>25.051206999999998</rate>
+    <rate>25.051207</rate>
   </item>
   <item>
     <date>2016-06-06</date>
     <char3>USD</char3>
     <rate>25.002072</rate>
+  </item>
+  <item>
+    <date>2016-06-07</date>
+    <char3>USD</char3>
+    <rate>24.985657999999997</rate>
+  </item>
+  <item>
+    <date>2016-06-08</date>
+    <char3>USD</char3>
+    <rate>24.96168</rate>
+  </item>
+  <item>
+    <date>2016-06-09</date>
+    <char3>USD</char3>
+    <rate>24.944121</rate>
+  </item>
+  <item>
+    <date>2016-06-10</date>
+    <char3>USD</char3>
+    <rate>25.002237</rate>
+  </item>
+  <item>
+    <date>2016-06-13</date>
+    <char3>USD</char3>
+    <rate>25.015342999999998</rate>
+  </item>
+  <item>
+    <date>2016-06-14</date>
+    <char3>USD</char3>
+    <rate>24.968681</rate>
+  </item>
+  <item>
+    <date>2016-06-15</date>
+    <char3>USD</char3>
+    <rate>24.914945</rate>
+  </item>
+  <item>
+    <date>2016-06-17</date>
+    <char3>USD</char3>
+    <rate>24.904642</rate>
+  </item>
+  <item>
+    <date>2016-06-21</date>
+    <char3>USD</char3>
+    <rate>24.908886000000003</rate>
+  </item>
+  <item>
+    <date>2016-06-23</date>
+    <char3>USD</char3>
+    <rate>24.898078</rate>
+  </item>
+  <item>
+    <date>2016-06-24</date>
+    <char3>USD</char3>
+    <rate>24.882929</rate>
+  </item>
+  <item>
+    <date>2016-06-29</date>
+    <char3>USD</char3>
+    <rate>24.873395000000002</rate>
   </item>
 </chapter>

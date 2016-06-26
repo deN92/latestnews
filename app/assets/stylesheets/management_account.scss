@@ -1,8 +1,15 @@
 #management_account{
+
+	background-color: #EEEEEE;
+	padding: 5px 0 5px 0;
 	margin-left: 1%;
 	width: 20%;
-	border-left: 1px dotted #000;
 	float: left;
+
+	#ma_item_name{
+		margin: 5px 5px 10px 5px;
+		color: #333333;
+	}
 	ul{
 		margin-left: 5px;
 		margin-right: 5px;

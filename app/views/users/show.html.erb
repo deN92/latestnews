@@ -10,6 +10,7 @@
 				</div>
 				<p class = "user_name">
 					<span><%= link_to "#{u.name}<br>#{u.surname}".html_safe, user_path(u) %></span>
+					<span style="float: right; margin-right: 2px;"><i class="fa fa-comments" aria-hidden="true" style= "color: #00668B"></i><%= " #{u.count_posts}" %></span></h3>
 				</p>
 			</div>
 		<%end%>

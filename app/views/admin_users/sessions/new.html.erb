@@ -1,0 +1,22 @@
+<% if user_signed_in? && current_user.is_admin?%>
+<div id = "blSign_in">
+  <h2>Вхід</h2>
+	<%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+    <div id = "blEmail">
+      <%= f.input :email, :autofocus => true, placeholder: "Email", label: "<i id = \"icon_email\" class=\"fa fa-envelope-o fa-fw\"></i>".html_safe %>
+    </div>
+
+    <div class = "blPass">
+      <%= f.input :password, placeholder: "Пароль", label: "<i class=\"fa fa-key fa-fw\"></i>".html_safe %>
+    </div>
+
+    <div id = "bl_submit">
+      <%= f.submit "Увійти" %>
+    </div>
+	<% end %>
+</div>
+	<%= render "admin_users/shared/links" %>
+<% else %>
+	<%= render text: "<h2 id = \"page_not_fount_title\">Сторінка не доступна</h2>
+    <p id=\"page_not_found_descr\">У вас не має прав доступу до даної сторінки.</p>".html_safe %>
+<% end %>

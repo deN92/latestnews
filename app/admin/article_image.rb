@@ -1,5 +1,7 @@
 ActiveAdmin.register ArticleImage do
 
+		menu :label => "Article images", :priority => 8, :link_to => 'admin/article_image'
+
 	permit_params :id, :article_imgs
 	before_filter :only => [:edit, :update, :show] do
 

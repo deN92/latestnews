@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160528143658) do
+ActiveRecord::Schema.define(version: 20160612132633) do
 
   create_table "active_admin_comments", force: :cascade do |t|
     t.string   "namespace",     limit: 255
@@ -53,30 +53,31 @@ ActiveRecord::Schema.define(version: 20160528143658) do
   end
 
   create_table "articles", force: :cascade do |t|
-    t.integer  "category_id",     limit: 3,                        null: false
-    t.integer  "subcategory_id",  limit: 3,                        null: false
-    t.string   "tittle",          limit: 150,                      null: false
-    t.string   "article_link",    limit: 150,                      null: false
-    t.text     "body",            limit: 16777215,                 null: false
+    t.integer  "category_id",     limit: 3,                   null: false
+    t.integer  "subcategory_id",  limit: 3,                   null: false
+    t.integer  "region_id",       limit: 3,                   null: false
+    t.string   "tittle",          limit: 150,                 null: false
+    t.string   "article_link",    limit: 150,                 null: false
+    t.string   "body",            limit: 150,                 null: false
     t.string   "main_image",      limit: 150
-    t.boolean  "enable_comments",                  default: true
-    t.boolean  "main_article",                     default: false
-    t.datetime "created_at",                                       null: false
-    t.datetime "updated_at",                                       null: false
-    t.integer  "count_comments",  limit: 4,        default: 0,     null: false
-    t.integer  "region_id",       limit: 3,                        null: false
+    t.boolean  "enable_comments",             default: true
+    t.integer  "count_comments",  limit: 8
+    t.boolean  "main_article",                default: false
+    t.datetime "created_at",                                  null: false
+    t.datetime "updated_at",                                  null: false
   end
 
   add_index "articles", ["article_link"], name: "index_articles_on_article_link", using: :btree
 
   create_table "blogs", force: :cascade do |t|
-    t.integer  "user_id",     limit: 4, null: false
-    t.integer  "category_id", limit: 4, null: false
-    t.string   "post_title",  limit: 255, null: false
-    t.string   "post_body",   limit: 12255, null: false
-    t.datetime "created_at",                null: false
-    t.datetime "updated_at",                null: false
-    t.string   "post_theme",  limit: 2000, null: false
+    t.integer  "user_id",        limit: 4
+    t.integer  "category_id",    limit: 4
+    t.string   "post_title",     limit: 255
+    t.string   "post_theme",     limit: 255
+    t.string   "post_body",      limit: 255
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
+    t.integer  "count_comments", limit: 4
   end
 
   create_table "categories", force: :cascade do |t|
@@ -92,7 +93,7 @@ ActiveRecord::Schema.define(version: 20160528143658) do
     t.integer  "category_id",    limit: 3,                null: false
     t.integer  "subcategory_id", limit: 3,                null: false
     t.boolean  "menu_show",                default: true
-    t.integer  "priority",       limit: 4
+    t.integer  "priority",       limit: 4, default: 1
     t.datetime "created_at",                              null: false
     t.datetime "updated_at",                              null: false
   end
@@ -100,11 +101,12 @@ ActiveRecord::Schema.define(version: 20160528143658) do
   create_table "comments", force: :cascade do |t|
     t.integer  "user_id",             limit: 4
     t.integer  "article_id",          limit: 4
+    t.integer  "blog_id",             limit: 4
     t.string   "body",                limit: 255
-    t.datetime "created_at",                                  null: false
-    t.datetime "updated_at",                                  null: false
     t.integer  "count_votes_like",    limit: 4,   default: 0
     t.integer  "count_votes_dislike", limit: 4,   default: 0
+    t.datetime "created_at",                                  null: false
+    t.datetime "updated_at",                                  null: false
   end
 
   create_table "regions", force: :cascade do |t|
@@ -113,9 +115,14 @@ ActiveRecord::Schema.define(version: 20160528143658) do
     t.datetime "updated_at",             null: false
   end
 
+  create_table "stats_users_signs", force: :cascade do |t|
+    t.date    "date_sign_in",            default: '2016-05-25', null: false
+    t.integer "count_sign_in", limit: 4, default: 0,            null: false
+  end
+
   create_table "subcategories", force: :cascade do |t|
     t.string   "subcategory_name", limit: 50, null: false
-    t.string   "subcategory_link", limit: 50, null: false
+    t.string   "subcategory_link", limit: 20, null: false
     t.datetime "created_at",                  null: false
     t.datetime "updated_at",                  null: false
   end
@@ -123,6 +130,13 @@ ActiveRecord::Schema.define(version: 20160528143658) do
   create_table "users", force: :cascade do |t|
     t.string   "email",                  limit: 255, default: "",    null: false
     t.string   "encrypted_password",     limit: 255, default: "",    null: false
+    t.string   "surname",                limit: 40
+    t.string   "name",                   limit: 40
+    t.string   "middle_name",            limit: 40
+    t.date     "birthday"
+    t.string   "city",                   limit: 40
+    t.string   "photo",                  limit: 255
+    t.integer  "count_posts",            limit: 8
     t.boolean  "is_admin",                           default: false
     t.boolean  "is_ban",                             default: false
     t.string   "reset_password_token",   limit: 255
@@ -135,13 +149,6 @@ ActiveRecord::Schema.define(version: 20160528143658) do
     t.string   "last_sign_in_ip",        limit: 255
     t.datetime "created_at",                                         null: false
     t.datetime "updated_at",                                         null: false
-    t.string   "surname",                limit: 255
-    t.string   "name",                   limit: 255
-    t.string   "middle_name",            limit: 255
-    t.date     "birthday"
-    t.string   "city",                   limit: 255
-    t.string   "photo",                  limit: 255
-    t.integer  "count_posts",            limit: 4,                   null: false
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true, using: :btree

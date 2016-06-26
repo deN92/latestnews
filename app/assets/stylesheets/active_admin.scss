@@ -104,3 +104,20 @@ body.mce-content-body {
 		}
 	}
 }
+
+#edit_user{
+
+	.user_lv_blocks
+	{
+		margin: 10px 0 10px 0;
+		.user_label{
+			font: 14px Times;
+			position: absolute;
+		}
+		.user_value{
+			font: 14px Times;
+			margin-left: 150px;
+			// float: left;
+		}
+	}
+}

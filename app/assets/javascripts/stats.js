@@ -10,7 +10,7 @@ Highcharts.createElement('link', {
 }, null, document.getElementsByTagName('head')[0]);
 
 Highcharts.theme = {
-   colors: ["#7BAF22"],
+   colors: ["#7BAF22", "#CFA830"],
    chart: {
       backgroundColor: null,
       style: {
@@ -81,7 +81,7 @@ $(document).ready(function(){
 			changeMonth: true,
 			changeYear: true,
 			minDate: "-5Y",
-			maxDate: +1,
+			maxDate: +3,
 			onClose: function( selectedDate ) {
 				$(id2).datepicker( "option", minmaxDate, selectedDate);
 			}

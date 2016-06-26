@@ -1,4 +1,7 @@
 ActiveAdmin.register Subcategory do
+
+	menu :label => "Subcategory", :priority => 5, :link_to =>  'admin/subcategory'
+
 	permit_params :id, :subcategory_name, :subcategory_link
 
 	before_filter :only => [:edit, :update, :show, :destroy] do

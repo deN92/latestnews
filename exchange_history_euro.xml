@@ -1,0 +1,6522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+  <item>
+    <date>2012-03-05</date>
+    <char3>EUR</char3>
+    <rate>10.557739999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-03-06</date>
+    <char3>EUR</char3>
+    <rate>10.560136</rate>
+  </item>
+
+  <item>
+    <date>2012-03-07</date>
+    <char3>EUR</char3>
+    <rate>10.506616</rate>
+  </item>
+
+  <item>
+    <date>2012-03-12</date>
+    <char3>EUR</char3>
+    <rate>10.4796</rate>
+  </item>
+
+  <item>
+    <date>2012-03-13</date>
+    <char3>EUR</char3>
+    <rate>10.476833</rate>
+  </item>
+
+  <item>
+    <date>2012-03-14</date>
+    <char3>EUR</char3>
+    <rate>10.426015</rate>
+  </item>
+
+  <item>
+    <date>2012-03-15</date>
+    <char3>EUR</char3>
+    <rate>10.428701</rate>
+  </item>
+
+  <item>
+    <date>2012-03-16</date>
+    <char3>EUR</char3>
+    <rate>10.424709</rate>
+  </item>
+
+  <item>
+    <date>2012-03-19</date>
+    <char3>EUR</char3>
+    <rate>10.473126</rate>
+  </item>
+
+  <item>
+    <date>2012-03-20</date>
+    <char3>EUR</char3>
+    <rate>10.500274999999998</rate>
+  </item>
+
+  <item>
+    <date>2012-03-21</date>
+    <char3>EUR</char3>
+    <rate>10.538603</rate>
+  </item>
+
+  <item>
+    <date>2012-03-22</date>
+    <char3>EUR</char3>
+    <rate>10.560163</rate>
+  </item>
+
+  <item>
+    <date>2012-03-23</date>
+    <char3>EUR</char3>
+    <rate>10.514771000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-03-26</date>
+    <char3>EUR</char3>
+    <rate>10.574664</rate>
+  </item>
+
+  <item>
+    <date>2012-03-27</date>
+    <char3>EUR</char3>
+    <rate>10.602213999999998</rate>
+  </item>
+
+  <item>
+    <date>2012-03-28</date>
+    <char3>EUR</char3>
+    <rate>10.647334</rate>
+  </item>
+
+  <item>
+    <date>2012-03-29</date>
+    <char3>EUR</char3>
+    <rate>10.650528</rate>
+  </item>
+
+  <item>
+    <date>2012-03-30</date>
+    <char3>EUR</char3>
+    <rate>10.599948</rate>
+  </item>
+
+  <item>
+    <date>2012-04-02</date>
+    <char3>EUR</char3>
+    <rate>10.668639</rate>
+  </item>
+
+  <item>
+    <date>2012-04-03</date>
+    <char3>EUR</char3>
+    <rate>10.639084</rate>
+  </item>
+
+  <item>
+    <date>2012-04-04</date>
+    <char3>EUR</char3>
+    <rate>10.635888999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-04-05</date>
+    <char3>EUR</char3>
+    <rate>10.497698</rate>
+  </item>
+
+  <item>
+    <date>2012-04-06</date>
+    <char3>EUR</char3>
+    <rate>10.438065</rate>
+  </item>
+
+  <item>
+    <date>2012-04-09</date>
+    <char3>EUR</char3>
+    <rate>10.438065</rate>
+  </item>
+
+  <item>
+    <date>2012-04-10</date>
+    <char3>EUR</char3>
+    <rate>10.434798</rate>
+  </item>
+
+  <item>
+    <date>2012-04-11</date>
+    <char3>EUR</char3>
+    <rate>10.471529</rate>
+  </item>
+
+  <item>
+    <date>2012-04-12</date>
+    <char3>EUR</char3>
+    <rate>10.485104</rate>
+  </item>
+
+  <item>
+    <date>2012-04-13</date>
+    <char3>EUR</char3>
+    <rate>10.502671</rate>
+  </item>
+
+  <item>
+    <date>2012-04-17</date>
+    <char3>EUR</char3>
+    <rate>10.498678</rate>
+  </item>
+
+  <item>
+    <date>2012-04-18</date>
+    <char3>EUR</char3>
+    <rate>10.485902000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-04-19</date>
+    <char3>EUR</char3>
+    <rate>10.454761000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-04-20</date>
+    <char3>EUR</char3>
+    <rate>10.450087000000002</rate>
+  </item>
+
+  <item>
+    <date>2012-04-23</date>
+    <char3>EUR</char3>
+    <rate>10.534735000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-04-24</date>
+    <char3>EUR</char3>
+    <rate>10.488649</rate>
+  </item>
+
+  <item>
+    <date>2012-04-25</date>
+    <char3>EUR</char3>
+    <rate>10.512611999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-04-26</date>
+    <char3>EUR</char3>
+    <rate>10.548557</rate>
+  </item>
+
+  <item>
+    <date>2012-04-27</date>
+    <char3>EUR</char3>
+    <rate>10.555746</rate>
+  </item>
+
+  <item>
+    <date>2012-04-28</date>
+    <char3>EUR</char3>
+    <rate>10.569839</rate>
+  </item>
+
+  <item>
+    <date>2012-05-03</date>
+    <char3>EUR</char3>
+    <rate>10.569839</rate>
+  </item>
+
+  <item>
+    <date>2012-05-04</date>
+    <char3>EUR</char3>
+    <rate>10.485146</rate>
+  </item>
+
+  <item>
+    <date>2012-05-07</date>
+    <char3>EUR</char3>
+    <rate>10.492337</rate>
+  </item>
+
+  <item>
+    <date>2012-05-08</date>
+    <char3>EUR</char3>
+    <rate>10.411673</rate>
+  </item>
+
+  <item>
+    <date>2012-05-10</date>
+    <char3>EUR</char3>
+    <rate>10.405542</rate>
+  </item>
+
+  <item>
+    <date>2012-05-11</date>
+    <char3>EUR</char3>
+    <rate>10.355839000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-05-14</date>
+    <char3>EUR</char3>
+    <rate>10.342255999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-05-15</date>
+    <char3>EUR</char3>
+    <rate>10.277537</rate>
+  </item>
+
+  <item>
+    <date>2012-05-16</date>
+    <char3>EUR</char3>
+    <rate>10.261557</rate>
+  </item>
+
+  <item>
+    <date>2012-05-17</date>
+    <char3>EUR</char3>
+    <rate>10.177662</rate>
+  </item>
+
+  <item>
+    <date>2012-05-18</date>
+    <char3>EUR</char3>
+    <rate>10.134186</rate>
+  </item>
+
+  <item>
+    <date>2012-05-21</date>
+    <char3>EUR</char3>
+    <rate>10.165987</rate>
+  </item>
+
+  <item>
+    <date>2012-05-22</date>
+    <char3>EUR</char3>
+    <rate>10.189163</rate>
+  </item>
+
+  <item>
+    <date>2012-05-23</date>
+    <char3>EUR</char3>
+    <rate>10.204824</rate>
+  </item>
+
+  <item>
+    <date>2012-05-24</date>
+    <char3>EUR</char3>
+    <rate>10.117706</rate>
+  </item>
+
+  <item>
+    <date>2012-05-25</date>
+    <char3>EUR</char3>
+    <rate>10.036182</rate>
+  </item>
+
+  <item>
+    <date>2012-05-28</date>
+    <char3>EUR</char3>
+    <rate>10.027391</rate>
+  </item>
+
+  <item>
+    <date>2012-05-29</date>
+    <char3>EUR</char3>
+    <rate>10.043376</rate>
+  </item>
+
+  <item>
+    <date>2012-05-30</date>
+    <char3>EUR</char3>
+    <rate>10.009008</rate>
+  </item>
+
+  <item>
+    <date>2012-05-31</date>
+    <char3>EUR</char3>
+    <rate>9.941072</rate>
+  </item>
+
+  <item>
+    <date>2012-06-01</date>
+    <char3>EUR</char3>
+    <rate>9.913098</rate>
+  </item>
+
+  <item>
+    <date>2012-06-05</date>
+    <char3>EUR</char3>
+    <rate>9.848359</rate>
+  </item>
+
+  <item>
+    <date>2012-06-06</date>
+    <char3>EUR</char3>
+    <rate>9.933878</rate>
+  </item>
+
+  <item>
+    <date>2012-06-07</date>
+    <char3>EUR</char3>
+    <rate>9.978636</rate>
+  </item>
+
+  <item>
+    <date>2012-06-08</date>
+    <char3>EUR</char3>
+    <rate>10.066554</rate>
+  </item>
+
+  <item>
+    <date>2012-06-11</date>
+    <char3>EUR</char3>
+    <rate>9.965049</rate>
+  </item>
+
+  <item>
+    <date>2012-06-12</date>
+    <char3>EUR</char3>
+    <rate>10.025792000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-06-13</date>
+    <char3>EUR</char3>
+    <rate>9.984231</rate>
+  </item>
+
+  <item>
+    <date>2012-06-14</date>
+    <char3>EUR</char3>
+    <rate>10.0178</rate>
+  </item>
+
+  <item>
+    <date>2012-06-15</date>
+    <char3>EUR</char3>
+    <rate>10.031387</rate>
+  </item>
+
+  <item>
+    <date>2012-06-18</date>
+    <char3>EUR</char3>
+    <rate>10.067353</rate>
+  </item>
+
+  <item>
+    <date>2012-06-19</date>
+    <char3>EUR</char3>
+    <rate>10.084937</rate>
+  </item>
+
+  <item>
+    <date>2012-06-20</date>
+    <char3>EUR</char3>
+    <rate>10.085736</rate>
+  </item>
+
+  <item>
+    <date>2012-06-21</date>
+    <char3>EUR</char3>
+    <rate>10.153672</rate>
+  </item>
+
+  <item>
+    <date>2012-06-22</date>
+    <char3>EUR</char3>
+    <rate>10.126498</rate>
+  </item>
+
+  <item>
+    <date>2012-06-25</date>
+    <char3>EUR</char3>
+    <rate>10.021796</rate>
+  </item>
+
+  <item>
+    <date>2012-06-26</date>
+    <char3>EUR</char3>
+    <rate>9.981034</rate>
+  </item>
+
+  <item>
+    <date>2012-06-27</date>
+    <char3>EUR</char3>
+    <rate>9.970644</rate>
+  </item>
+
+  <item>
+    <date>2012-07-02</date>
+    <char3>EUR</char3>
+    <rate>9.973042</rate>
+  </item>
+
+  <item>
+    <date>2012-07-03</date>
+    <char3>EUR</char3>
+    <rate>10.064955</rate>
+  </item>
+
+  <item>
+    <date>2012-07-04</date>
+    <char3>EUR</char3>
+    <rate>10.050569000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-07-05</date>
+    <char3>EUR</char3>
+    <rate>10.03858</rate>
+  </item>
+
+  <item>
+    <date>2012-07-06</date>
+    <char3>EUR</char3>
+    <rate>9.931481</rate>
+  </item>
+
+  <item>
+    <date>2012-07-07</date>
+    <char3>EUR</char3>
+    <rate>9.892317</rate>
+  </item>
+
+  <item>
+    <date>2012-07-09</date>
+    <char3>EUR</char3>
+    <rate>9.892935999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-07-10</date>
+    <char3>EUR</char3>
+    <rate>9.825795000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-07-11</date>
+    <char3>EUR</char3>
+    <rate>9.819401000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-07-12</date>
+    <char3>EUR</char3>
+    <rate>9.799418</rate>
+  </item>
+
+  <item>
+    <date>2012-07-13</date>
+    <char3>EUR</char3>
+    <rate>9.733875000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-07-16</date>
+    <char3>EUR</char3>
+    <rate>9.739471</rate>
+  </item>
+
+  <item>
+    <date>2012-07-17</date>
+    <char3>EUR</char3>
+    <rate>9.733076</rate>
+  </item>
+
+  <item>
+    <date>2012-07-18</date>
+    <char3>EUR</char3>
+    <rate>9.816203</rate>
+  </item>
+
+  <item>
+    <date>2012-07-19</date>
+    <char3>EUR</char3>
+    <rate>9.778636</rate>
+  </item>
+
+  <item>
+    <date>2012-07-20</date>
+    <char3>EUR</char3>
+    <rate>9.820999</rate>
+  </item>
+
+  <item>
+    <date>2012-07-23</date>
+    <char3>EUR</char3>
+    <rate>9.75146</rate>
+  </item>
+
+  <item>
+    <date>2012-07-24</date>
+    <char3>EUR</char3>
+    <rate>9.675526999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-07-25</date>
+    <char3>EUR</char3>
+    <rate>9.662738000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-07-26</date>
+    <char3>EUR</char3>
+    <rate>9.698706</rate>
+  </item>
+
+  <item>
+    <date>2012-07-27</date>
+    <char3>EUR</char3>
+    <rate>9.799418</rate>
+  </item>
+
+  <item>
+    <date>2012-07-30</date>
+    <char3>EUR</char3>
+    <rate>9.844978</rate>
+  </item>
+
+  <item>
+    <date>2012-07-31</date>
+    <char3>EUR</char3>
+    <rate>9.788228</rate>
+  </item>
+
+  <item>
+    <date>2012-08-01</date>
+    <char3>EUR</char3>
+    <rate>9.818601</rate>
+  </item>
+
+  <item>
+    <date>2012-08-02</date>
+    <char3>EUR</char3>
+    <rate>9.829791</rate>
+  </item>
+
+  <item>
+    <date>2012-08-03</date>
+    <char3>EUR</char3>
+    <rate>9.868158</rate>
+  </item>
+
+  <item>
+    <date>2012-08-06</date>
+    <char3>EUR</char3>
+    <rate>9.787428</rate>
+  </item>
+
+  <item>
+    <date>2012-08-07</date>
+    <char3>EUR</char3>
+    <rate>9.894535</rate>
+  </item>
+
+  <item>
+    <date>2012-08-08</date>
+    <char3>EUR</char3>
+    <rate>9.940095</rate>
+  </item>
+
+  <item>
+    <date>2012-08-09</date>
+    <char3>EUR</char3>
+    <rate>9.860165</rate>
+  </item>
+
+  <item>
+    <date>2012-08-10</date>
+    <char3>EUR</char3>
+    <rate>9.832189</rate>
+  </item>
+
+  <item>
+    <date>2012-08-13</date>
+    <char3>EUR</char3>
+    <rate>9.801017</rate>
+  </item>
+
+  <item>
+    <date>2012-08-14</date>
+    <char3>EUR</char3>
+    <rate>9.862563</rate>
+  </item>
+
+  <item>
+    <date>2012-08-15</date>
+    <char3>EUR</char3>
+    <rate>9.872954</rate>
+  </item>
+
+  <item>
+    <date>2012-08-16</date>
+    <char3>EUR</char3>
+    <rate>9.812206999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-08-17</date>
+    <char3>EUR</char3>
+    <rate>9.814605</rate>
+  </item>
+
+  <item>
+    <date>2012-08-20</date>
+    <char3>EUR</char3>
+    <rate>9.860964000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-08-21</date>
+    <char3>EUR</char3>
+    <rate>9.83139</rate>
+  </item>
+
+  <item>
+    <date>2012-08-22</date>
+    <char3>EUR</char3>
+    <rate>9.9337</rate>
+  </item>
+
+  <item>
+    <date>2012-08-23</date>
+    <char3>EUR</char3>
+    <rate>9.949686</rate>
+  </item>
+
+  <item>
+    <date>2012-08-27</date>
+    <char3>EUR</char3>
+    <rate>10.032814</rate>
+  </item>
+
+  <item>
+    <date>2012-08-28</date>
+    <char3>EUR</char3>
+    <rate>10.015229</rate>
+  </item>
+
+  <item>
+    <date>2012-08-29</date>
+    <char3>EUR</char3>
+    <rate>10.029615999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-08-30</date>
+    <char3>EUR</char3>
+    <rate>10.027219</rate>
+  </item>
+
+  <item>
+    <date>2012-08-31</date>
+    <char3>EUR</char3>
+    <rate>10.026418999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-09-03</date>
+    <char3>EUR</char3>
+    <rate>10.079972</rate>
+  </item>
+
+  <item>
+    <date>2012-09-04</date>
+    <char3>EUR</char3>
+    <rate>10.045602</rate>
+  </item>
+
+  <item>
+    <date>2012-09-05</date>
+    <char3>EUR</char3>
+    <rate>10.054395</rate>
+  </item>
+
+  <item>
+    <date>2012-09-06</date>
+    <char3>EUR</char3>
+    <rate>10.053595</rate>
+  </item>
+
+  <item>
+    <date>2012-09-07</date>
+    <char3>EUR</char3>
+    <rate>10.101553000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-09-10</date>
+    <char3>EUR</char3>
+    <rate>10.155906</rate>
+  </item>
+
+  <item>
+    <date>2012-09-11</date>
+    <char3>EUR</char3>
+    <rate>10.211857</rate>
+  </item>
+
+  <item>
+    <date>2012-09-12</date>
+    <char3>EUR</char3>
+    <rate>10.220649</rate>
+  </item>
+
+  <item>
+    <date>2012-09-13</date>
+    <char3>EUR</char3>
+    <rate>10.307773</rate>
+  </item>
+
+  <item>
+    <date>2012-09-14</date>
+    <char3>EUR</char3>
+    <rate>10.318963000000002</rate>
+  </item>
+
+  <item>
+    <date>2012-09-17</date>
+    <char3>EUR</char3>
+    <rate>10.466833999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-09-18</date>
+    <char3>EUR</char3>
+    <rate>10.45964</rate>
+  </item>
+
+  <item>
+    <date>2012-09-19</date>
+    <char3>EUR</char3>
+    <rate>10.434061999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-09-20</date>
+    <char3>EUR</char3>
+    <rate>10.392499</rate>
+  </item>
+
+  <item>
+    <date>2012-09-21</date>
+    <char3>EUR</char3>
+    <rate>10.354132</rate>
+  </item>
+
+  <item>
+    <date>2012-09-24</date>
+    <char3>EUR</char3>
+    <rate>10.381307999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-09-25</date>
+    <char3>EUR</char3>
+    <rate>10.323759</rate>
+  </item>
+
+  <item>
+    <date>2012-09-26</date>
+    <char3>EUR</char3>
+    <rate>10.336548</rate>
+  </item>
+
+  <item>
+    <date>2012-09-27</date>
+    <char3>EUR</char3>
+    <rate>10.267009</rate>
+  </item>
+
+  <item>
+    <date>2012-09-28</date>
+    <char3>EUR</char3>
+    <rate>10.290188</rate>
+  </item>
+
+  <item>
+    <date>2012-10-01</date>
+    <char3>EUR</char3>
+    <rate>10.334949</rate>
+  </item>
+
+  <item>
+    <date>2012-10-02</date>
+    <char3>EUR</char3>
+    <rate>10.292585999999998</rate>
+  </item>
+
+  <item>
+    <date>2012-10-03</date>
+    <char3>EUR</char3>
+    <rate>10.334949</rate>
+  </item>
+
+  <item>
+    <date>2012-10-04</date>
+    <char3>EUR</char3>
+    <rate>10.314167</rate>
+  </item>
+
+  <item>
+    <date>2012-10-05</date>
+    <char3>EUR</char3>
+    <rate>10.351733999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-10-08</date>
+    <char3>EUR</char3>
+    <rate>10.392499</rate>
+  </item>
+
+  <item>
+    <date>2012-10-09</date>
+    <char3>EUR</char3>
+    <rate>10.357329</rate>
+  </item>
+
+  <item>
+    <date>2012-10-10</date>
+    <char3>EUR</char3>
+    <rate>10.353333</rate>
+  </item>
+
+  <item>
+    <date>2012-10-11</date>
+    <char3>EUR</char3>
+    <rate>10.302178</rate>
+  </item>
+
+  <item>
+    <date>2012-10-12</date>
+    <char3>EUR</char3>
+    <rate>10.325356999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-10-15</date>
+    <char3>EUR</char3>
+    <rate>10.366921</rate>
+  </item>
+
+  <item>
+    <date>2012-10-16</date>
+    <char3>EUR</char3>
+    <rate>10.367719999999998</rate>
+  </item>
+
+  <item>
+    <date>2012-10-17</date>
+    <char3>EUR</char3>
+    <rate>10.427668</rate>
+  </item>
+
+  <item>
+    <date>2012-10-18</date>
+    <char3>EUR</char3>
+    <rate>10.486816</rate>
+  </item>
+
+  <item>
+    <date>2012-10-19</date>
+    <char3>EUR</char3>
+    <rate>10.485217</rate>
+  </item>
+
+  <item>
+    <date>2012-10-22</date>
+    <char3>EUR</char3>
+    <rate>10.418876000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-10-23</date>
+    <char3>EUR</char3>
+    <rate>10.441256000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-10-24</date>
+    <char3>EUR</char3>
+    <rate>10.394897</rate>
+  </item>
+
+  <item>
+    <date>2012-10-25</date>
+    <char3>EUR</char3>
+    <rate>10.344541</rate>
+  </item>
+
+  <item>
+    <date>2012-10-26</date>
+    <char3>EUR</char3>
+    <rate>10.385305</rate>
+  </item>
+
+  <item>
+    <date>2012-10-29</date>
+    <char3>EUR</char3>
+    <rate>10.317364</rate>
+  </item>
+
+  <item>
+    <date>2012-10-30</date>
+    <char3>EUR</char3>
+    <rate>10.309371</rate>
+  </item>
+
+  <item>
+    <date>2012-10-31</date>
+    <char3>EUR</char3>
+    <rate>10.360527</rate>
+  </item>
+
+  <item>
+    <date>2012-11-01</date>
+    <char3>EUR</char3>
+    <rate>10.385305</rate>
+  </item>
+
+  <item>
+    <date>2012-11-02</date>
+    <char3>EUR</char3>
+    <rate>10.370918</rate>
+  </item>
+
+  <item>
+    <date>2012-11-05</date>
+    <char3>EUR</char3>
+    <rate>10.271005</rate>
+  </item>
+
+  <item>
+    <date>2012-11-06</date>
+    <char3>EUR</char3>
+    <rate>10.212655999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-11-07</date>
+    <char3>EUR</char3>
+    <rate>10.23104</rate>
+  </item>
+
+  <item>
+    <date>2012-11-08</date>
+    <char3>EUR</char3>
+    <rate>10.187878</rate>
+  </item>
+
+  <item>
+    <date>2012-11-09</date>
+    <char3>EUR</char3>
+    <rate>10.179885</rate>
+  </item>
+
+  <item>
+    <date>2012-11-12</date>
+    <char3>EUR</char3>
+    <rate>10.146314</rate>
+  </item>
+
+  <item>
+    <date>2012-11-13</date>
+    <char3>EUR</char3>
+    <rate>10.179086</rate>
+  </item>
+
+  <item>
+    <date>2012-11-14</date>
+    <char3>EUR</char3>
+    <rate>10.147912999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-11-15</date>
+    <char3>EUR</char3>
+    <rate>10.171892</rate>
+  </item>
+
+  <item>
+    <date>2012-11-16</date>
+    <char3>EUR</char3>
+    <rate>10.195871</rate>
+  </item>
+
+  <item>
+    <date>2012-11-19</date>
+    <char3>EUR</char3>
+    <rate>10.187079</rate>
+  </item>
+
+  <item>
+    <date>2012-11-20</date>
+    <char3>EUR</char3>
+    <rate>10.200667</rate>
+  </item>
+
+  <item>
+    <date>2012-11-21</date>
+    <char3>EUR</char3>
+    <rate>10.238234</rate>
+  </item>
+
+  <item>
+    <date>2012-11-22</date>
+    <char3>EUR</char3>
+    <rate>10.235037</rate>
+  </item>
+
+  <item>
+    <date>2012-11-23</date>
+    <char3>EUR</char3>
+    <rate>10.305375</rate>
+  </item>
+
+  <item>
+    <date>2012-11-26</date>
+    <char3>EUR</char3>
+    <rate>10.318164</rate>
+  </item>
+
+  <item>
+    <date>2012-11-27</date>
+    <char3>EUR</char3>
+    <rate>10.362125</rate>
+  </item>
+
+  <item>
+    <date>2012-11-28</date>
+    <char3>EUR</char3>
+    <rate>10.359727</rate>
+  </item>
+
+  <item>
+    <date>2012-11-29</date>
+    <char3>EUR</char3>
+    <rate>10.303776000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-11-30</date>
+    <char3>EUR</char3>
+    <rate>10.386104</rate>
+  </item>
+
+  <item>
+    <date>2012-12-03</date>
+    <char3>EUR</char3>
+    <rate>10.37971</rate>
+  </item>
+
+  <item>
+    <date>2012-12-04</date>
+    <char3>EUR</char3>
+    <rate>10.43646</rate>
+  </item>
+
+  <item>
+    <date>2012-12-05</date>
+    <char3>EUR</char3>
+    <rate>10.464436000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-12-06</date>
+    <char3>EUR</char3>
+    <rate>10.442855</rate>
+  </item>
+
+  <item>
+    <date>2012-12-07</date>
+    <char3>EUR</char3>
+    <rate>10.448450000000001</rate>
+  </item>
+
+  <item>
+    <date>2012-12-10</date>
+    <char3>EUR</char3>
+    <rate>10.314967</rate>
+  </item>
+
+  <item>
+    <date>2012-12-11</date>
+    <char3>EUR</char3>
+    <rate>10.334949</rate>
+  </item>
+
+  <item>
+    <date>2012-12-12</date>
+    <char3>EUR</char3>
+    <rate>10.385305</rate>
+  </item>
+
+  <item>
+    <date>2012-12-13</date>
+    <char3>EUR</char3>
+    <rate>10.422872</rate>
+  </item>
+
+  <item>
+    <date>2012-12-14</date>
+    <char3>EUR</char3>
+    <rate>10.452446</rate>
+  </item>
+
+  <item>
+    <date>2012-12-17</date>
+    <char3>EUR</char3>
+    <rate>10.455643</rate>
+  </item>
+
+  <item>
+    <date>2012-12-18</date>
+    <char3>EUR</char3>
+    <rate>10.518787999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-12-19</date>
+    <char3>EUR</char3>
+    <rate>10.533175000000002</rate>
+  </item>
+
+  <item>
+    <date>2012-12-20</date>
+    <char3>EUR</char3>
+    <rate>10.632289</rate>
+  </item>
+
+  <item>
+    <date>2012-12-21</date>
+    <char3>EUR</char3>
+    <rate>10.587527999999999</rate>
+  </item>
+
+  <item>
+    <date>2012-12-24</date>
+    <char3>EUR</char3>
+    <rate>10.557954</rate>
+  </item>
+
+  <item>
+    <date>2012-12-25</date>
+    <char3>EUR</char3>
+    <rate>10.565147</rate>
+  </item>
+
+  <item>
+    <date>2012-12-26</date>
+    <char3>EUR</char3>
+    <rate>10.565147</rate>
+  </item>
+
+  <item>
+    <date>2012-12-27</date>
+    <char3>EUR</char3>
+    <rate>10.565147</rate>
+  </item>
+
+  <item>
+    <date>2012-12-28</date>
+    <char3>EUR</char3>
+    <rate>10.603514</rate>
+  </item>
+
+  <item>
+    <date>2012-12-29</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2012-12-30</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2012-12-31</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2013-01-01</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2013-01-02</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2013-01-03</date>
+    <char3>EUR</char3>
+    <rate>10.537172</rate>
+  </item>
+
+  <item>
+    <date>2013-01-04</date>
+    <char3>EUR</char3>
+    <rate>10.472429</rate>
+  </item>
+
+  <item>
+    <date>2013-01-08</date>
+    <char3>EUR</char3>
+    <rate>10.400492</rate>
+  </item>
+
+  <item>
+    <date>2013-01-09</date>
+    <char3>EUR</char3>
+    <rate>10.45964</rate>
+  </item>
+
+  <item>
+    <date>2013-01-10</date>
+    <char3>EUR</char3>
+    <rate>10.435661</rate>
+  </item>
+
+  <item>
+    <date>2013-01-11</date>
+    <char3>EUR</char3>
+    <rate>10.481221</rate>
+  </item>
+
+  <item>
+    <date>2013-01-14</date>
+    <char3>EUR</char3>
+    <rate>10.609908</rate>
+  </item>
+
+  <item>
+    <date>2013-01-15</date>
+    <char3>EUR</char3>
+    <rate>10.663461</rate>
+  </item>
+
+  <item>
+    <date>2013-01-16</date>
+    <char3>EUR</char3>
+    <rate>10.652271</rate>
+  </item>
+
+  <item>
+    <date>2013-01-17</date>
+    <char3>EUR</char3>
+    <rate>10.612306</rate>
+  </item>
+
+  <item>
+    <date>2013-01-18</date>
+    <char3>EUR</char3>
+    <rate>10.685042000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-01-21</date>
+    <char3>EUR</char3>
+    <rate>10.649873</rate>
+  </item>
+
+  <item>
+    <date>2013-01-22</date>
+    <char3>EUR</char3>
+    <rate>10.649074</rate>
+  </item>
+
+  <item>
+    <date>2013-01-23</date>
+    <char3>EUR</char3>
+    <rate>10.644278</rate>
+  </item>
+
+  <item>
+    <date>2013-01-24</date>
+    <char3>EUR</char3>
+    <rate>10.654668999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-01-25</date>
+    <char3>EUR</char3>
+    <rate>10.669856</rate>
+  </item>
+
+  <item>
+    <date>2013-01-28</date>
+    <char3>EUR</char3>
+    <rate>10.765772</rate>
+  </item>
+
+  <item>
+    <date>2013-01-29</date>
+    <char3>EUR</char3>
+    <rate>10.745789</rate>
+  </item>
+
+  <item>
+    <date>2013-01-30</date>
+    <char3>EUR</char3>
+    <rate>10.736996999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-01-31</date>
+    <char3>EUR</char3>
+    <rate>10.823321</rate>
+  </item>
+
+  <item>
+    <date>2013-02-01</date>
+    <char3>EUR</char3>
+    <rate>10.830515</rate>
+  </item>
+
+  <item>
+    <date>2013-02-04</date>
+    <char3>EUR</char3>
+    <rate>10.905649</rate>
+  </item>
+
+  <item>
+    <date>2013-02-05</date>
+    <char3>EUR</char3>
+    <rate>10.832113999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-02-06</date>
+    <char3>EUR</char3>
+    <rate>10.820124</rate>
+  </item>
+
+  <item>
+    <date>2013-02-07</date>
+    <char3>EUR</char3>
+    <rate>10.804138</rate>
+  </item>
+
+  <item>
+    <date>2013-02-08</date>
+    <char3>EUR</char3>
+    <rate>10.827318</rate>
+  </item>
+
+  <item>
+    <date>2013-02-11</date>
+    <char3>EUR</char3>
+    <rate>10.689838</rate>
+  </item>
+
+  <item>
+    <date>2013-02-12</date>
+    <char3>EUR</char3>
+    <rate>10.703426</rate>
+  </item>
+
+  <item>
+    <date>2013-02-13</date>
+    <char3>EUR</char3>
+    <rate>10.740993000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-02-14</date>
+    <char3>EUR</char3>
+    <rate>10.774564</rate>
+  </item>
+
+  <item>
+    <date>2013-02-15</date>
+    <char3>EUR</char3>
+    <rate>10.652271</rate>
+  </item>
+
+  <item>
+    <date>2013-02-18</date>
+    <char3>EUR</char3>
+    <rate>10.650673</rate>
+  </item>
+
+  <item>
+    <date>2013-02-19</date>
+    <char3>EUR</char3>
+    <rate>10.672254</rate>
+  </item>
+
+  <item>
+    <date>2013-02-20</date>
+    <char3>EUR</char3>
+    <rate>10.669856</rate>
+  </item>
+
+  <item>
+    <date>2013-02-21</date>
+    <char3>EUR</char3>
+    <rate>10.686641</rate>
+  </item>
+
+  <item>
+    <date>2013-02-22</date>
+    <char3>EUR</char3>
+    <rate>10.539570000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-02-25</date>
+    <char3>EUR</char3>
+    <rate>10.539570000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-02-26</date>
+    <char3>EUR</char3>
+    <rate>10.633887</rate>
+  </item>
+
+  <item>
+    <date>2013-02-27</date>
+    <char3>EUR</char3>
+    <rate>10.452446</rate>
+  </item>
+
+  <item>
+    <date>2013-02-28</date>
+    <char3>EUR</char3>
+    <rate>10.468432</rate>
+  </item>
+
+  <item>
+    <date>2013-03-01</date>
+    <char3>EUR</char3>
+    <rate>10.494010000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-04</date>
+    <char3>EUR</char3>
+    <rate>10.390899999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-03-05</date>
+    <char3>EUR</char3>
+    <rate>10.396495</rate>
+  </item>
+
+  <item>
+    <date>2013-03-06</date>
+    <char3>EUR</char3>
+    <rate>10.418076000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-07</date>
+    <char3>EUR</char3>
+    <rate>10.418876000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-11</date>
+    <char3>EUR</char3>
+    <rate>10.398893000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-12</date>
+    <char3>EUR</char3>
+    <rate>10.386104</rate>
+  </item>
+
+  <item>
+    <date>2013-03-13</date>
+    <char3>EUR</char3>
+    <rate>10.433263</rate>
+  </item>
+
+  <item>
+    <date>2013-03-14</date>
+    <char3>EUR</char3>
+    <rate>10.375713000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-15</date>
+    <char3>EUR</char3>
+    <rate>10.340544</rate>
+  </item>
+
+  <item>
+    <date>2013-03-18</date>
+    <char3>EUR</char3>
+    <rate>10.45964</rate>
+  </item>
+
+  <item>
+    <date>2013-03-19</date>
+    <char3>EUR</char3>
+    <rate>10.33415</rate>
+  </item>
+
+  <item>
+    <date>2013-03-20</date>
+    <char3>EUR</char3>
+    <rate>10.346139</rate>
+  </item>
+
+  <item>
+    <date>2013-03-21</date>
+    <char3>EUR</char3>
+    <rate>10.346938999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-03-22</date>
+    <char3>EUR</char3>
+    <rate>10.318963000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-03-25</date>
+    <char3>EUR</char3>
+    <rate>10.349336000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-03-26</date>
+    <char3>EUR</char3>
+    <rate>10.338946</rate>
+  </item>
+
+  <item>
+    <date>2013-03-27</date>
+    <char3>EUR</char3>
+    <rate>10.279797</rate>
+  </item>
+
+  <item>
+    <date>2013-03-28</date>
+    <char3>EUR</char3>
+    <rate>10.205462</rate>
+  </item>
+
+  <item>
+    <date>2013-03-29</date>
+    <char3>EUR</char3>
+    <rate>10.235037</rate>
+  </item>
+
+  <item>
+    <date>2013-04-01</date>
+    <char3>EUR</char3>
+    <rate>10.235037</rate>
+  </item>
+
+  <item>
+    <date>2013-04-02</date>
+    <char3>EUR</char3>
+    <rate>10.235037</rate>
+  </item>
+
+  <item>
+    <date>2013-04-03</date>
+    <char3>EUR</char3>
+    <rate>10.263012000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-04-04</date>
+    <char3>EUR</char3>
+    <rate>10.25342</rate>
+  </item>
+
+  <item>
+    <date>2013-04-05</date>
+    <char3>EUR</char3>
+    <rate>10.245427</rate>
+  </item>
+
+  <item>
+    <date>2013-04-08</date>
+    <char3>EUR</char3>
+    <rate>10.346139</rate>
+  </item>
+
+  <item>
+    <date>2013-04-09</date>
+    <char3>EUR</char3>
+    <rate>10.409284</rate>
+  </item>
+
+  <item>
+    <date>2013-04-10</date>
+    <char3>EUR</char3>
+    <rate>10.422872</rate>
+  </item>
+
+  <item>
+    <date>2013-04-11</date>
+    <char3>EUR</char3>
+    <rate>10.45964</rate>
+  </item>
+
+  <item>
+    <date>2013-04-12</date>
+    <char3>EUR</char3>
+    <rate>10.486016999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-04-15</date>
+    <char3>EUR</char3>
+    <rate>10.432464</rate>
+  </item>
+
+  <item>
+    <date>2013-04-16</date>
+    <char3>EUR</char3>
+    <rate>10.455643</rate>
+  </item>
+
+  <item>
+    <date>2013-04-17</date>
+    <char3>EUR</char3>
+    <rate>10.494010000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-04-18</date>
+    <char3>EUR</char3>
+    <rate>10.494010000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-04-19</date>
+    <char3>EUR</char3>
+    <rate>10.426869</rate>
+  </item>
+
+  <item>
+    <date>2013-04-22</date>
+    <char3>EUR</char3>
+    <rate>10.482819999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-04-23</date>
+    <char3>EUR</char3>
+    <rate>10.420473999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-04-24</date>
+    <char3>EUR</char3>
+    <rate>10.382907</rate>
+  </item>
+
+  <item>
+    <date>2013-04-25</date>
+    <char3>EUR</char3>
+    <rate>10.395696000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-04-26</date>
+    <char3>EUR</char3>
+    <rate>10.454844000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-04-29</date>
+    <char3>EUR</char3>
+    <rate>10.390101</rate>
+  </item>
+
+  <item>
+    <date>2013-04-30</date>
+    <char3>EUR</char3>
+    <rate>10.481221</rate>
+  </item>
+
+  <item>
+    <date>2013-05-07</date>
+    <char3>EUR</char3>
+    <rate>10.448450000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-05-08</date>
+    <char3>EUR</char3>
+    <rate>10.476424999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-05-13</date>
+    <char3>EUR</char3>
+    <rate>10.498804999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-05-14</date>
+    <char3>EUR</char3>
+    <rate>10.369319</rate>
+  </item>
+
+  <item>
+    <date>2013-05-15</date>
+    <char3>EUR</char3>
+    <rate>10.372516000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-05-16</date>
+    <char3>EUR</char3>
+    <rate>10.282195</rate>
+  </item>
+
+  <item>
+    <date>2013-05-17</date>
+    <char3>EUR</char3>
+    <rate>10.302977</rate>
+  </item>
+
+  <item>
+    <date>2013-05-18</date>
+    <char3>EUR</char3>
+    <rate>10.286192000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-05-20</date>
+    <char3>EUR</char3>
+    <rate>10.286192000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-05-21</date>
+    <char3>EUR</char3>
+    <rate>10.273403</rate>
+  </item>
+
+  <item>
+    <date>2013-05-22</date>
+    <char3>EUR</char3>
+    <rate>10.283794</rate>
+  </item>
+
+  <item>
+    <date>2013-05-23</date>
+    <char3>EUR</char3>
+    <rate>10.329354</rate>
+  </item>
+
+  <item>
+    <date>2013-05-24</date>
+    <char3>EUR</char3>
+    <rate>10.301378</rate>
+  </item>
+
+  <item>
+    <date>2013-05-27</date>
+    <char3>EUR</char3>
+    <rate>10.342143</rate>
+  </item>
+
+  <item>
+    <date>2013-05-28</date>
+    <char3>EUR</char3>
+    <rate>10.342143</rate>
+  </item>
+
+  <item>
+    <date>2013-05-29</date>
+    <char3>EUR</char3>
+    <rate>10.341343</rate>
+  </item>
+
+  <item>
+    <date>2013-05-30</date>
+    <char3>EUR</char3>
+    <rate>10.352534</rate>
+  </item>
+
+  <item>
+    <date>2013-05-31</date>
+    <char3>EUR</char3>
+    <rate>10.346139</rate>
+  </item>
+
+  <item>
+    <date>2013-06-01</date>
+    <char3>EUR</char3>
+    <rate>10.395696000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-06-03</date>
+    <char3>EUR</char3>
+    <rate>10.395696000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-06-04</date>
+    <char3>EUR</char3>
+    <rate>10.397293999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-06-05</date>
+    <char3>EUR</char3>
+    <rate>10.464436000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-06-06</date>
+    <char3>EUR</char3>
+    <rate>10.444453000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-06-07</date>
+    <char3>EUR</char3>
+    <rate>10.485217</rate>
+  </item>
+
+  <item>
+    <date>2013-06-10</date>
+    <char3>EUR</char3>
+    <rate>10.598717999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-06-11</date>
+    <char3>EUR</char3>
+    <rate>10.557954</rate>
+  </item>
+
+  <item>
+    <date>2013-06-12</date>
+    <char3>EUR</char3>
+    <rate>10.609109</rate>
+  </item>
+
+  <item>
+    <date>2013-06-13</date>
+    <char3>EUR</char3>
+    <rate>10.612306</rate>
+  </item>
+
+  <item>
+    <date>2013-06-14</date>
+    <char3>EUR</char3>
+    <rate>10.64268</rate>
+  </item>
+
+  <item>
+    <date>2013-06-17</date>
+    <char3>EUR</char3>
+    <rate>10.633088</rate>
+  </item>
+
+  <item>
+    <date>2013-06-18</date>
+    <char3>EUR</char3>
+    <rate>10.660264</rate>
+  </item>
+
+  <item>
+    <date>2013-06-19</date>
+    <char3>EUR</char3>
+    <rate>10.689838</rate>
+  </item>
+
+  <item>
+    <date>2013-06-20</date>
+    <char3>EUR</char3>
+    <rate>10.715416</rate>
+  </item>
+
+  <item>
+    <date>2013-06-21</date>
+    <char3>EUR</char3>
+    <rate>10.55076</rate>
+  </item>
+
+  <item>
+    <date>2013-06-25</date>
+    <char3>EUR</char3>
+    <rate>10.534774</rate>
+  </item>
+
+  <item>
+    <date>2013-06-26</date>
+    <char3>EUR</char3>
+    <rate>10.498006</rate>
+  </item>
+
+  <item>
+    <date>2013-06-27</date>
+    <char3>EUR</char3>
+    <rate>10.410083</rate>
+  </item>
+
+  <item>
+    <date>2013-07-01</date>
+    <char3>EUR</char3>
+    <rate>10.416478</rate>
+  </item>
+
+  <item>
+    <date>2013-07-02</date>
+    <char3>EUR</char3>
+    <rate>10.420473999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-03</date>
+    <char3>EUR</char3>
+    <rate>10.404487999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-04</date>
+    <char3>EUR</char3>
+    <rate>10.358128999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-07-05</date>
+    <char3>EUR</char3>
+    <rate>10.378110999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-08</date>
+    <char3>EUR</char3>
+    <rate>10.297382</rate>
+  </item>
+
+  <item>
+    <date>2013-07-09</date>
+    <char3>EUR</char3>
+    <rate>10.271005</rate>
+  </item>
+
+  <item>
+    <date>2013-07-10</date>
+    <char3>EUR</char3>
+    <rate>10.2766</rate>
+  </item>
+
+  <item>
+    <date>2013-07-11</date>
+    <char3>EUR</char3>
+    <rate>10.241431</rate>
+  </item>
+
+  <item>
+    <date>2013-07-12</date>
+    <char3>EUR</char3>
+    <rate>10.426069</rate>
+  </item>
+
+  <item>
+    <date>2013-07-15</date>
+    <char3>EUR</char3>
+    <rate>10.418076000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-07-16</date>
+    <char3>EUR</char3>
+    <rate>10.400492</rate>
+  </item>
+
+  <item>
+    <date>2013-07-17</date>
+    <char3>EUR</char3>
+    <rate>10.485217</rate>
+  </item>
+
+  <item>
+    <date>2013-07-18</date>
+    <char3>EUR</char3>
+    <rate>10.499604999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-19</date>
+    <char3>EUR</char3>
+    <rate>10.465235</rate>
+  </item>
+
+  <item>
+    <date>2013-07-22</date>
+    <char3>EUR</char3>
+    <rate>10.489213999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-23</date>
+    <char3>EUR</char3>
+    <rate>10.523584000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-07-24</date>
+    <char3>EUR</char3>
+    <rate>10.534774</rate>
+  </item>
+
+  <item>
+    <date>2013-07-25</date>
+    <char3>EUR</char3>
+    <rate>10.587527999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-07-26</date>
+    <char3>EUR</char3>
+    <rate>10.552359</rate>
+  </item>
+
+  <item>
+    <date>2013-07-29</date>
+    <char3>EUR</char3>
+    <rate>10.598717999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-07-30</date>
+    <char3>EUR</char3>
+    <rate>10.606711</rate>
+  </item>
+
+  <item>
+    <date>2013-07-31</date>
+    <char3>EUR</char3>
+    <rate>10.617901</rate>
+  </item>
+
+  <item>
+    <date>2013-08-01</date>
+    <char3>EUR</char3>
+    <rate>10.610707999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-08-02</date>
+    <char3>EUR</char3>
+    <rate>10.579535</rate>
+  </item>
+
+  <item>
+    <date>2013-08-05</date>
+    <char3>EUR</char3>
+    <rate>10.553158000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-08-06</date>
+    <char3>EUR</char3>
+    <rate>10.59632</rate>
+  </item>
+
+  <item>
+    <date>2013-08-07</date>
+    <char3>EUR</char3>
+    <rate>10.614704</rate>
+  </item>
+
+  <item>
+    <date>2013-08-08</date>
+    <char3>EUR</char3>
+    <rate>10.634687</rate>
+  </item>
+
+  <item>
+    <date>2013-08-09</date>
+    <char3>EUR</char3>
+    <rate>10.678648</rate>
+  </item>
+
+  <item>
+    <date>2013-08-12</date>
+    <char3>EUR</char3>
+    <rate>10.689039000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-08-13</date>
+    <char3>EUR</char3>
+    <rate>10.614704</rate>
+  </item>
+
+  <item>
+    <date>2013-08-14</date>
+    <char3>EUR</char3>
+    <rate>10.622697</rate>
+  </item>
+
+  <item>
+    <date>2013-08-15</date>
+    <char3>EUR</char3>
+    <rate>10.58513</rate>
+  </item>
+
+  <item>
+    <date>2013-08-16</date>
+    <char3>EUR</char3>
+    <rate>10.628291999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-08-19</date>
+    <char3>EUR</char3>
+    <rate>10.662662000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-08-20</date>
+    <char3>EUR</char3>
+    <rate>10.665859000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-08-21</date>
+    <char3>EUR</char3>
+    <rate>10.704226</rate>
+  </item>
+
+  <item>
+    <date>2013-08-22</date>
+    <char3>EUR</char3>
+    <rate>10.697831</rate>
+  </item>
+
+  <item>
+    <date>2013-08-23</date>
+    <char3>EUR</char3>
+    <rate>10.649074</rate>
+  </item>
+
+  <item>
+    <date>2013-08-27</date>
+    <char3>EUR</char3>
+    <rate>10.674652000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-08-28</date>
+    <char3>EUR</char3>
+    <rate>10.661062999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-08-29</date>
+    <char3>EUR</char3>
+    <rate>10.668257</rate>
+  </item>
+
+  <item>
+    <date>2013-08-30</date>
+    <char3>EUR</char3>
+    <rate>10.603514</rate>
+  </item>
+
+  <item>
+    <date>2013-09-02</date>
+    <char3>EUR</char3>
+    <rate>10.578735</rate>
+  </item>
+
+  <item>
+    <date>2013-09-03</date>
+    <char3>EUR</char3>
+    <rate>10.556355000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-09-04</date>
+    <char3>EUR</char3>
+    <rate>10.52838</rate>
+  </item>
+
+  <item>
+    <date>2013-09-05</date>
+    <char3>EUR</char3>
+    <rate>10.52758</rate>
+  </item>
+
+  <item>
+    <date>2013-09-06</date>
+    <char3>EUR</char3>
+    <rate>10.552359</rate>
+  </item>
+
+  <item>
+    <date>2013-09-09</date>
+    <char3>EUR</char3>
+    <rate>10.484418</rate>
+  </item>
+
+  <item>
+    <date>2013-09-10</date>
+    <char3>EUR</char3>
+    <rate>10.545964</rate>
+  </item>
+
+  <item>
+    <date>2013-09-11</date>
+    <char3>EUR</char3>
+    <rate>10.582732</rate>
+  </item>
+
+  <item>
+    <date>2013-09-12</date>
+    <char3>EUR</char3>
+    <rate>10.605111999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-09-13</date>
+    <char3>EUR</char3>
+    <rate>10.622697</rate>
+  </item>
+
+  <item>
+    <date>2013-09-16</date>
+    <char3>EUR</char3>
+    <rate>10.626694</rate>
+  </item>
+
+  <item>
+    <date>2013-09-17</date>
+    <char3>EUR</char3>
+    <rate>10.67625</rate>
+  </item>
+
+  <item>
+    <date>2013-09-18</date>
+    <char3>EUR</char3>
+    <rate>10.675451</rate>
+  </item>
+
+  <item>
+    <date>2013-09-19</date>
+    <char3>EUR</char3>
+    <rate>10.672254</rate>
+  </item>
+
+  <item>
+    <date>2013-09-20</date>
+    <char3>EUR</char3>
+    <rate>10.826519000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-09-23</date>
+    <char3>EUR</char3>
+    <rate>10.80174</rate>
+  </item>
+
+  <item>
+    <date>2013-09-24</date>
+    <char3>EUR</char3>
+    <rate>10.796944000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-09-25</date>
+    <char3>EUR</char3>
+    <rate>10.768969</rate>
+  </item>
+
+  <item>
+    <date>2013-09-26</date>
+    <char3>EUR</char3>
+    <rate>10.793747000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-09-27</date>
+    <char3>EUR</char3>
+    <rate>10.789751</rate>
+  </item>
+
+  <item>
+    <date>2013-09-30</date>
+    <char3>EUR</char3>
+    <rate>10.820124</rate>
+  </item>
+
+  <item>
+    <date>2013-10-01</date>
+    <char3>EUR</char3>
+    <rate>10.794547</rate>
+  </item>
+
+  <item>
+    <date>2013-10-02</date>
+    <char3>EUR</char3>
+    <rate>10.833712</rate>
+  </item>
+
+  <item>
+    <date>2013-10-03</date>
+    <char3>EUR</char3>
+    <rate>10.802539999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-10-04</date>
+    <char3>EUR</char3>
+    <rate>10.865684000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-10-07</date>
+    <char3>EUR</char3>
+    <rate>10.864885</rate>
+  </item>
+
+  <item>
+    <date>2013-10-08</date>
+    <char3>EUR</char3>
+    <rate>10.848099999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-10-09</date>
+    <char3>EUR</char3>
+    <rate>10.851296999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-10-10</date>
+    <char3>EUR</char3>
+    <rate>10.802539999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-10-11</date>
+    <char3>EUR</char3>
+    <rate>10.816128</rate>
+  </item>
+
+  <item>
+    <date>2013-10-14</date>
+    <char3>EUR</char3>
+    <rate>10.843304</rate>
+  </item>
+
+  <item>
+    <date>2013-10-15</date>
+    <char3>EUR</char3>
+    <rate>10.841705</rate>
+  </item>
+
+  <item>
+    <date>2013-10-16</date>
+    <char3>EUR</char3>
+    <rate>10.784955</rate>
+  </item>
+
+  <item>
+    <date>2013-10-17</date>
+    <char3>EUR</char3>
+    <rate>10.839306999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-10-18</date>
+    <char3>EUR</char3>
+    <rate>10.920037</rate>
+  </item>
+
+  <item>
+    <date>2013-10-21</date>
+    <char3>EUR</char3>
+    <rate>10.937621</rate>
+  </item>
+
+  <item>
+    <date>2013-10-22</date>
+    <char3>EUR</char3>
+    <rate>10.924033</rate>
+  </item>
+
+  <item>
+    <date>2013-10-23</date>
+    <char3>EUR</char3>
+    <rate>10.929628000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-10-24</date>
+    <char3>EUR</char3>
+    <rate>10.991974</rate>
+  </item>
+
+  <item>
+    <date>2013-10-25</date>
+    <char3>EUR</char3>
+    <rate>11.034337</rate>
+  </item>
+
+  <item>
+    <date>2013-10-28</date>
+    <char3>EUR</char3>
+    <rate>11.011956</rate>
+  </item>
+
+  <item>
+    <date>2013-10-29</date>
+    <char3>EUR</char3>
+    <rate>11.017551000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-10-30</date>
+    <char3>EUR</char3>
+    <rate>11.004762000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-10-31</date>
+    <char3>EUR</char3>
+    <rate>10.994372</rate>
+  </item>
+
+  <item>
+    <date>2013-11-01</date>
+    <char3>EUR</char3>
+    <rate>10.903251000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-11-04</date>
+    <char3>EUR</char3>
+    <rate>10.794547</rate>
+  </item>
+
+  <item>
+    <date>2013-11-05</date>
+    <char3>EUR</char3>
+    <rate>10.795346</rate>
+  </item>
+
+  <item>
+    <date>2013-11-06</date>
+    <char3>EUR</char3>
+    <rate>10.785753999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-11-07</date>
+    <char3>EUR</char3>
+    <rate>10.804138</rate>
+  </item>
+
+  <item>
+    <date>2013-11-08</date>
+    <char3>EUR</char3>
+    <rate>10.682645</rate>
+  </item>
+
+  <item>
+    <date>2013-11-11</date>
+    <char3>EUR</char3>
+    <rate>10.735398</rate>
+  </item>
+
+  <item>
+    <date>2013-11-12</date>
+    <char3>EUR</char3>
+    <rate>10.705824</rate>
+  </item>
+
+  <item>
+    <date>2013-11-13</date>
+    <char3>EUR</char3>
+    <rate>10.736198</rate>
+  </item>
+
+  <item>
+    <date>2013-11-14</date>
+    <char3>EUR</char3>
+    <rate>10.722609</rate>
+  </item>
+
+  <item>
+    <date>2013-11-15</date>
+    <char3>EUR</char3>
+    <rate>10.739395</rate>
+  </item>
+
+  <item>
+    <date>2013-11-18</date>
+    <char3>EUR</char3>
+    <rate>10.758578</rate>
+  </item>
+
+  <item>
+    <date>2013-11-19</date>
+    <char3>EUR</char3>
+    <rate>10.804138</rate>
+  </item>
+
+  <item>
+    <date>2013-11-20</date>
+    <char3>EUR</char3>
+    <rate>10.792149</rate>
+  </item>
+
+  <item>
+    <date>2013-11-21</date>
+    <char3>EUR</char3>
+    <rate>10.812130999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-11-22</date>
+    <char3>EUR</char3>
+    <rate>10.76817</rate>
+  </item>
+
+  <item>
+    <date>2013-11-25</date>
+    <char3>EUR</char3>
+    <rate>10.804937</rate>
+  </item>
+
+  <item>
+    <date>2013-11-26</date>
+    <char3>EUR</char3>
+    <rate>10.80174</rate>
+  </item>
+
+  <item>
+    <date>2013-11-27</date>
+    <char3>EUR</char3>
+    <rate>10.828116999999999</rate>
+  </item>
+
+  <item>
+    <date>2013-11-28</date>
+    <char3>EUR</char3>
+    <rate>10.867283</rate>
+  </item>
+
+  <item>
+    <date>2013-11-29</date>
+    <char3>EUR</char3>
+    <rate>10.864086</rate>
+  </item>
+
+  <item>
+    <date>2013-12-02</date>
+    <char3>EUR</char3>
+    <rate>10.879272</rate>
+  </item>
+
+  <item>
+    <date>2013-12-03</date>
+    <char3>EUR</char3>
+    <rate>10.819325</rate>
+  </item>
+
+  <item>
+    <date>2013-12-04</date>
+    <char3>EUR</char3>
+    <rate>10.852895</rate>
+  </item>
+
+  <item>
+    <date>2013-12-05</date>
+    <char3>EUR</char3>
+    <rate>10.864086</rate>
+  </item>
+
+  <item>
+    <date>2013-12-06</date>
+    <char3>EUR</char3>
+    <rate>10.865684000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-12-09</date>
+    <char3>EUR</char3>
+    <rate>10.919237</rate>
+  </item>
+
+  <item>
+    <date>2013-12-10</date>
+    <char3>EUR</char3>
+    <rate>10.967995</rate>
+  </item>
+
+  <item>
+    <date>2013-12-11</date>
+    <char3>EUR</char3>
+    <rate>10.990374999999998</rate>
+  </item>
+
+  <item>
+    <date>2013-12-12</date>
+    <char3>EUR</char3>
+    <rate>11.003963</rate>
+  </item>
+
+  <item>
+    <date>2013-12-13</date>
+    <char3>EUR</char3>
+    <rate>11.010358000000002</rate>
+  </item>
+
+  <item>
+    <date>2013-12-16</date>
+    <char3>EUR</char3>
+    <rate>10.971991000000001</rate>
+  </item>
+
+  <item>
+    <date>2013-12-17</date>
+    <char3>EUR</char3>
+    <rate>11.011157</rate>
+  </item>
+
+  <item>
+    <date>2013-12-18</date>
+    <char3>EUR</char3>
+    <rate>10.989576</rate>
+  </item>
+
+  <item>
+    <date>2013-12-19</date>
+    <char3>EUR</char3>
+    <rate>10.989576</rate>
+  </item>
+
+  <item>
+    <date>2013-12-20</date>
+    <char3>EUR</char3>
+    <rate>10.924033</rate>
+  </item>
+
+  <item>
+    <date>2013-12-23</date>
+    <char3>EUR</char3>
+    <rate>10.914442</rate>
+  </item>
+
+  <item>
+    <date>2013-12-24</date>
+    <char3>EUR</char3>
+    <rate>10.952009</rate>
+  </item>
+
+  <item>
+    <date>2013-12-25</date>
+    <char3>EUR</char3>
+    <rate>10.937621</rate>
+  </item>
+
+  <item>
+    <date>2013-12-26</date>
+    <char3>EUR</char3>
+    <rate>10.937621</rate>
+  </item>
+
+  <item>
+    <date>2013-12-27</date>
+    <char3>EUR</char3>
+    <rate>10.937621</rate>
+  </item>
+
+  <item>
+    <date>2013-12-30</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2013-12-31</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-01</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-02</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-03</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-04</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-05</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-06</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-07</date>
+    <char3>EUR</char3>
+    <rate>11.04153</rate>
+  </item>
+
+  <item>
+    <date>2014-01-08</date>
+    <char3>EUR</char3>
+    <rate>10.897656</rate>
+  </item>
+
+  <item>
+    <date>2014-01-09</date>
+    <char3>EUR</char3>
+    <rate>10.865684000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-01-10</date>
+    <char3>EUR</char3>
+    <rate>10.880072</rate>
+  </item>
+
+  <item>
+    <date>2014-01-11</date>
+    <char3>EUR</char3>
+    <rate>10.860089</rate>
+  </item>
+
+  <item>
+    <date>2014-01-13</date>
+    <char3>EUR</char3>
+    <rate>10.860089</rate>
+  </item>
+
+  <item>
+    <date>2014-01-14</date>
+    <char3>EUR</char3>
+    <rate>10.913642</rate>
+  </item>
+
+  <item>
+    <date>2014-01-15</date>
+    <char3>EUR</char3>
+    <rate>10.924033</rate>
+  </item>
+
+  <item>
+    <date>2014-01-16</date>
+    <char3>EUR</char3>
+    <rate>10.875276</rate>
+  </item>
+
+  <item>
+    <date>2014-01-17</date>
+    <char3>EUR</char3>
+    <rate>10.868082</rate>
+  </item>
+
+  <item>
+    <date>2014-01-20</date>
+    <char3>EUR</char3>
+    <rate>10.857690999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-01-21</date>
+    <char3>EUR</char3>
+    <rate>10.843304</rate>
+  </item>
+
+  <item>
+    <date>2014-01-22</date>
+    <char3>EUR</char3>
+    <rate>10.811332</rate>
+  </item>
+
+  <item>
+    <date>2014-01-23</date>
+    <char3>EUR</char3>
+    <rate>10.843304</rate>
+  </item>
+
+  <item>
+    <date>2014-01-24</date>
+    <char3>EUR</char3>
+    <rate>10.901653</rate>
+  </item>
+
+  <item>
+    <date>2014-01-27</date>
+    <char3>EUR</char3>
+    <rate>10.940019</rate>
+  </item>
+
+  <item>
+    <date>2014-01-28</date>
+    <char3>EUR</char3>
+    <rate>10.916839</rate>
+  </item>
+
+  <item>
+    <date>2014-01-29</date>
+    <char3>EUR</char3>
+    <rate>10.909646</rate>
+  </item>
+
+  <item>
+    <date>2014-01-30</date>
+    <char3>EUR</char3>
+    <rate>10.876874</rate>
+  </item>
+
+  <item>
+    <date>2014-01-31</date>
+    <char3>EUR</char3>
+    <rate>10.849698</rate>
+  </item>
+
+  <item>
+    <date>2014-02-03</date>
+    <char3>EUR</char3>
+    <rate>10.803339000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-02-04</date>
+    <char3>EUR</char3>
+    <rate>10.788950999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-05</date>
+    <char3>EUR</char3>
+    <rate>10.805736999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-06</date>
+    <char3>EUR</char3>
+    <rate>10.824919999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-07</date>
+    <char3>EUR</char3>
+    <rate>11.751446000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-02-10</date>
+    <char3>EUR</char3>
+    <rate>11.576179</rate>
+  </item>
+
+  <item>
+    <date>2014-02-11</date>
+    <char3>EUR</char3>
+    <rate>11.664854</rate>
+  </item>
+
+  <item>
+    <date>2014-02-12</date>
+    <char3>EUR</char3>
+    <rate>11.693937</rate>
+  </item>
+
+  <item>
+    <date>2014-02-13</date>
+    <char3>EUR</char3>
+    <rate>11.605865</rate>
+  </item>
+
+  <item>
+    <date>2014-02-14</date>
+    <char3>EUR</char3>
+    <rate>11.802755999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-17</date>
+    <char3>EUR</char3>
+    <rate>11.843533</rate>
+  </item>
+
+  <item>
+    <date>2014-02-18</date>
+    <char3>EUR</char3>
+    <rate>11.843881</rate>
+  </item>
+
+  <item>
+    <date>2014-02-19</date>
+    <char3>EUR</char3>
+    <rate>11.927982</rate>
+  </item>
+
+  <item>
+    <date>2014-02-20</date>
+    <char3>EUR</char3>
+    <rate>12.075256999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-21</date>
+    <char3>EUR</char3>
+    <rate>12.113363</rate>
+  </item>
+
+  <item>
+    <date>2014-02-24</date>
+    <char3>EUR</char3>
+    <rate>12.251316999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-02-25</date>
+    <char3>EUR</char3>
+    <rate>12.413281</rate>
+  </item>
+
+  <item>
+    <date>2014-02-26</date>
+    <char3>EUR</char3>
+    <rate>12.965758000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-02-27</date>
+    <char3>EUR</char3>
+    <rate>13.064269999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-02-28</date>
+    <char3>EUR</char3>
+    <rate>13.637291</rate>
+  </item>
+
+  <item>
+    <date>2014-03-03</date>
+    <char3>EUR</char3>
+    <rate>13.397781</rate>
+  </item>
+
+  <item>
+    <date>2014-03-04</date>
+    <char3>EUR</char3>
+    <rate>13.757536</rate>
+  </item>
+
+  <item>
+    <date>2014-03-05</date>
+    <char3>EUR</char3>
+    <rate>13.388141000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-03-06</date>
+    <char3>EUR</char3>
+    <rate>12.975228999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-03-07</date>
+    <char3>EUR</char3>
+    <rate>12.903669</rate>
+  </item>
+
+  <item>
+    <date>2014-03-11</date>
+    <char3>EUR</char3>
+    <rate>12.832358999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-03-12</date>
+    <char3>EUR</char3>
+    <rate>12.877038</rate>
+  </item>
+
+  <item>
+    <date>2014-03-13</date>
+    <char3>EUR</char3>
+    <rate>12.890329999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-03-14</date>
+    <char3>EUR</char3>
+    <rate>13.211300000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-03-17</date>
+    <char3>EUR</char3>
+    <rate>13.329612</rate>
+  </item>
+
+  <item>
+    <date>2014-03-18</date>
+    <char3>EUR</char3>
+    <rate>13.567806000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-03-19</date>
+    <char3>EUR</char3>
+    <rate>13.846114</rate>
+  </item>
+
+  <item>
+    <date>2014-03-20</date>
+    <char3>EUR</char3>
+    <rate>13.798634999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-03-21</date>
+    <char3>EUR</char3>
+    <rate>13.912281</rate>
+  </item>
+
+  <item>
+    <date>2014-03-24</date>
+    <char3>EUR</char3>
+    <rate>14.050777</rate>
+  </item>
+
+  <item>
+    <date>2014-03-25</date>
+    <char3>EUR</char3>
+    <rate>14.292178</rate>
+  </item>
+
+  <item>
+    <date>2014-03-26</date>
+    <char3>EUR</char3>
+    <rate>14.582971</rate>
+  </item>
+
+  <item>
+    <date>2014-03-27</date>
+    <char3>EUR</char3>
+    <rate>14.717892999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-03-28</date>
+    <char3>EUR</char3>
+    <rate>14.927705000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-03-31</date>
+    <char3>EUR</char3>
+    <rate>15.072434000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-04-01</date>
+    <char3>EUR</char3>
+    <rate>15.164179999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-04-02</date>
+    <char3>EUR</char3>
+    <rate>15.31545</rate>
+  </item>
+
+  <item>
+    <date>2014-04-03</date>
+    <char3>EUR</char3>
+    <rate>15.507787</rate>
+  </item>
+
+  <item>
+    <date>2014-04-04</date>
+    <char3>EUR</char3>
+    <rate>15.455469</rate>
+  </item>
+
+  <item>
+    <date>2014-04-04</date>
+    <char3>EUR</char3>
+    <rate>15.975878</rate>
+  </item>
+
+  <item>
+    <date>2014-04-07</date>
+    <char3>EUR</char3>
+    <rate>15.961828</rate>
+  </item>
+
+  <item>
+    <date>2014-04-08</date>
+    <char3>EUR</char3>
+    <rate>16.094564000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-04-09</date>
+    <char3>EUR</char3>
+    <rate>16.36133</rate>
+  </item>
+
+  <item>
+    <date>2014-04-10</date>
+    <char3>EUR</char3>
+    <rate>17.405129</rate>
+  </item>
+
+  <item>
+    <date>2014-04-11</date>
+    <char3>EUR</char3>
+    <rate>17.429603</rate>
+  </item>
+
+  <item>
+    <date>2014-04-14</date>
+    <char3>EUR</char3>
+    <rate>18.001819</rate>
+  </item>
+
+  <item>
+    <date>2014-04-15</date>
+    <char3>EUR</char3>
+    <rate>17.125515</rate>
+  </item>
+
+  <item>
+    <date>2014-04-16</date>
+    <char3>EUR</char3>
+    <rate>15.730051000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-04-17</date>
+    <char3>EUR</char3>
+    <rate>15.572876</rate>
+  </item>
+
+  <item>
+    <date>2014-04-18</date>
+    <char3>EUR</char3>
+    <rate>15.555525</rate>
+  </item>
+
+  <item>
+    <date>2014-04-22</date>
+    <char3>EUR</char3>
+    <rate>15.583345999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-04-23</date>
+    <char3>EUR</char3>
+    <rate>15.907305</rate>
+  </item>
+
+  <item>
+    <date>2014-04-24</date>
+    <char3>EUR</char3>
+    <rate>15.749507000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-04-25</date>
+    <char3>EUR</char3>
+    <rate>15.731584</rate>
+  </item>
+
+  <item>
+    <date>2014-04-28</date>
+    <char3>EUR</char3>
+    <rate>15.708207</rate>
+  </item>
+
+  <item>
+    <date>2014-04-29</date>
+    <char3>EUR</char3>
+    <rate>15.812752</rate>
+  </item>
+
+  <item>
+    <date>2014-04-30</date>
+    <char3>EUR</char3>
+    <rate>15.763826</rate>
+  </item>
+
+  <item>
+    <date>2014-05-05</date>
+    <char3>EUR</char3>
+    <rate>15.80268</rate>
+  </item>
+
+  <item>
+    <date>2014-05-06</date>
+    <char3>EUR</char3>
+    <rate>15.912889999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-05-07</date>
+    <char3>EUR</char3>
+    <rate>16.247802999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-05-08</date>
+    <char3>EUR</char3>
+    <rate>16.146731</rate>
+  </item>
+
+  <item>
+    <date>2014-05-12</date>
+    <char3>EUR</char3>
+    <rate>15.993464</rate>
+  </item>
+
+  <item>
+    <date>2014-05-13</date>
+    <char3>EUR</char3>
+    <rate>16.031622</rate>
+  </item>
+
+  <item>
+    <date>2014-05-14</date>
+    <char3>EUR</char3>
+    <rate>16.120923</rate>
+  </item>
+
+  <item>
+    <date>2014-05-15</date>
+    <char3>EUR</char3>
+    <rate>16.000446</rate>
+  </item>
+
+  <item>
+    <date>2014-05-16</date>
+    <char3>EUR</char3>
+    <rate>16.056419</rate>
+  </item>
+
+  <item>
+    <date>2014-05-19</date>
+    <char3>EUR</char3>
+    <rate>16.095617</rate>
+  </item>
+
+  <item>
+    <date>2014-05-20</date>
+    <char3>EUR</char3>
+    <rate>16.068696</rate>
+  </item>
+
+  <item>
+    <date>2014-05-21</date>
+    <char3>EUR</char3>
+    <rate>16.063142</rate>
+  </item>
+
+  <item>
+    <date>2014-05-22</date>
+    <char3>EUR</char3>
+    <rate>16.042577</rate>
+  </item>
+
+  <item>
+    <date>2014-05-23</date>
+    <char3>EUR</char3>
+    <rate>16.012256999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-05-26</date>
+    <char3>EUR</char3>
+    <rate>15.893699</rate>
+  </item>
+
+  <item>
+    <date>2014-05-27</date>
+    <char3>EUR</char3>
+    <rate>16.022696</rate>
+  </item>
+
+  <item>
+    <date>2014-05-28</date>
+    <char3>EUR</char3>
+    <rate>15.969783999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-05-29</date>
+    <char3>EUR</char3>
+    <rate>16.010618</rate>
+  </item>
+
+  <item>
+    <date>2014-05-30</date>
+    <char3>EUR</char3>
+    <rate>16.028126</rate>
+  </item>
+
+  <item>
+    <date>2014-06-02</date>
+    <char3>EUR</char3>
+    <rate>16.161801</rate>
+  </item>
+
+  <item>
+    <date>2014-06-03</date>
+    <char3>EUR</char3>
+    <rate>16.106314</rate>
+  </item>
+
+  <item>
+    <date>2014-06-04</date>
+    <char3>EUR</char3>
+    <rate>16.196758</rate>
+  </item>
+
+  <item>
+    <date>2014-06-05</date>
+    <char3>EUR</char3>
+    <rate>16.025706</rate>
+  </item>
+
+  <item>
+    <date>2014-06-06</date>
+    <char3>EUR</char3>
+    <rate>16.044102</rate>
+  </item>
+
+  <item>
+    <date>2014-06-10</date>
+    <char3>EUR</char3>
+    <rate>16.062231</rate>
+  </item>
+
+  <item>
+    <date>2014-06-11</date>
+    <char3>EUR</char3>
+    <rate>15.756839</rate>
+  </item>
+
+  <item>
+    <date>2014-06-12</date>
+    <char3>EUR</char3>
+    <rate>15.788571999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-06-13</date>
+    <char3>EUR</char3>
+    <rate>15.866771000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-06-16</date>
+    <char3>EUR</char3>
+    <rate>15.89987</rate>
+  </item>
+
+  <item>
+    <date>2014-06-17</date>
+    <char3>EUR</char3>
+    <rate>15.914233</rate>
+  </item>
+
+  <item>
+    <date>2014-06-18</date>
+    <char3>EUR</char3>
+    <rate>16.047682</rate>
+  </item>
+
+  <item>
+    <date>2014-06-19</date>
+    <char3>EUR</char3>
+    <rate>16.071987999999997</rate>
+  </item>
+
+  <item>
+    <date>2014-06-20</date>
+    <char3>EUR</char3>
+    <rate>16.145983</rate>
+  </item>
+
+  <item>
+    <date>2014-06-23</date>
+    <char3>EUR</char3>
+    <rate>16.140196</rate>
+  </item>
+
+  <item>
+    <date>2014-06-24</date>
+    <char3>EUR</char3>
+    <rate>16.168449</rate>
+  </item>
+
+  <item>
+    <date>2014-06-25</date>
+    <char3>EUR</char3>
+    <rate>16.180797</rate>
+  </item>
+
+  <item>
+    <date>2014-06-26</date>
+    <char3>EUR</char3>
+    <rate>16.194746</rate>
+  </item>
+
+  <item>
+    <date>2014-06-27</date>
+    <char3>EUR</char3>
+    <rate>16.086845</rate>
+  </item>
+
+  <item>
+    <date>2014-07-01</date>
+    <char3>EUR</char3>
+    <rate>16.096633</rate>
+  </item>
+
+  <item>
+    <date>2014-07-02</date>
+    <char3>EUR</char3>
+    <rate>16.197561</rate>
+  </item>
+
+  <item>
+    <date>2014-07-03</date>
+    <char3>EUR</char3>
+    <rate>16.170218</rate>
+  </item>
+
+  <item>
+    <date>2014-07-04</date>
+    <char3>EUR</char3>
+    <rate>16.139255000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-07-07</date>
+    <char3>EUR</char3>
+    <rate>16.012784999999997</rate>
+  </item>
+
+  <item>
+    <date>2014-07-08</date>
+    <char3>EUR</char3>
+    <rate>15.919347</rate>
+  </item>
+
+  <item>
+    <date>2014-07-09</date>
+    <char3>EUR</char3>
+    <rate>15.842233</rate>
+  </item>
+
+  <item>
+    <date>2014-07-10</date>
+    <char3>EUR</char3>
+    <rate>15.909716000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-07-11</date>
+    <char3>EUR</char3>
+    <rate>15.908264999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-07-14</date>
+    <char3>EUR</char3>
+    <rate>15.901049</rate>
+  </item>
+
+  <item>
+    <date>2014-07-15</date>
+    <char3>EUR</char3>
+    <rate>15.953366</rate>
+  </item>
+
+  <item>
+    <date>2014-07-16</date>
+    <char3>EUR</char3>
+    <rate>15.951811</rate>
+  </item>
+
+  <item>
+    <date>2014-07-17</date>
+    <char3>EUR</char3>
+    <rate>15.859110000000001</rate>
+  </item>
+
+  <item>
+    <date>2014-07-18</date>
+    <char3>EUR</char3>
+    <rate>15.755416</rate>
+  </item>
+
+  <item>
+    <date>2014-07-21</date>
+    <char3>EUR</char3>
+    <rate>15.764187999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-07-22</date>
+    <char3>EUR</char3>
+    <rate>15.775545</rate>
+  </item>
+
+  <item>
+    <date>2014-07-23</date>
+    <char3>EUR</char3>
+    <rate>15.697782</rate>
+  </item>
+
+  <item>
+    <date>2014-07-24</date>
+    <char3>EUR</char3>
+    <rate>15.730979999999999</rate>
+  </item>
+
+  <item>
+    <date>2014-07-25</date>
+    <char3>EUR</char3>
+    <rate>15.833368</rate>
+  </item>
+
+  <item>
+    <date>2014-07-28</date>
+    <char3>EUR</char3>
+    <rate>15.937667</rate>
+  </item>
+
+  <item>
+    <date>2014-07-29</date>
+    <char3>EUR</char3>
+    <rate>16.103069</rate>
+  </item>
+
+  <item>
+    <date>2014-07-30</date>
+    <char3>EUR</char3>
+    <rate>16.119081</rate>
+  </item>
+
+  <item>
+    <date>2014-07-31</date>
+    <char3>EUR</char3>
+    <rate>16.211522</rate>
+  </item>
+
+  <item>
+    <date>2014-08-01</date>
+    <char3>EUR</char3>
+    <rate>16.005672</rate>
+  </item>
+
+  <item>
+    <date>2014-08-04</date>
+    <char3>EUR</char3>
+    <rate>16.319208</rate>
+  </item>
+
+  <item>
+    <date>2014-08-05</date>
+    <char3>EUR</char3>
+    <rate>16.505827</rate>
+  </item>
+
+  <item>
+    <date>2014-08-06</date>
+    <char3>EUR</char3>
+    <rate>16.533299</rate>
+  </item>
+
+  <item>
+    <date>2014-08-07</date>
+    <char3>EUR</char3>
+    <rate>16.62593</rate>
+  </item>
+
+  <item>
+    <date>2014-08-08</date>
+    <char3>EUR</char3>
+    <rate>16.852711</rate>
+  </item>
+
+  <item>
+    <date>2014-08-11</date>
+    <char3>EUR</char3>
+    <rate>17.171419</rate>
+  </item>
+
+  <item>
+    <date>2014-08-12</date>
+    <char3>EUR</char3>
+    <rate>17.588307999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-08-13</date>
+    <char3>EUR</char3>
+    <rate>17.497488</rate>
+  </item>
+
+  <item>
+    <date>2014-08-14</date>
+    <char3>EUR</char3>
+    <rate>17.490492</rate>
+  </item>
+
+  <item>
+    <date>2014-08-15</date>
+    <char3>EUR</char3>
+    <rate>17.566092</rate>
+  </item>
+
+  <item>
+    <date>2014-08-18</date>
+    <char3>EUR</char3>
+    <rate>17.502549</rate>
+  </item>
+
+  <item>
+    <date>2014-08-19</date>
+    <char3>EUR</char3>
+    <rate>17.334432</rate>
+  </item>
+
+  <item>
+    <date>2014-08-20</date>
+    <char3>EUR</char3>
+    <rate>17.658097</rate>
+  </item>
+
+  <item>
+    <date>2014-08-21</date>
+    <char3>EUR</char3>
+    <rate>17.41903</rate>
+  </item>
+
+  <item>
+    <date>2014-08-22</date>
+    <char3>EUR</char3>
+    <rate>17.725239</rate>
+  </item>
+
+  <item>
+    <date>2014-08-26</date>
+    <char3>EUR</char3>
+    <rate>18.030419</rate>
+  </item>
+
+  <item>
+    <date>2014-08-27</date>
+    <char3>EUR</char3>
+    <rate>18.324973</rate>
+  </item>
+
+  <item>
+    <date>2014-08-28</date>
+    <char3>EUR</char3>
+    <rate>17.706573000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-08-29</date>
+    <char3>EUR</char3>
+    <rate>17.929693</rate>
+  </item>
+
+  <item>
+    <date>2014-09-01</date>
+    <char3>EUR</char3>
+    <rate>17.294891</rate>
+  </item>
+
+  <item>
+    <date>2014-09-02</date>
+    <char3>EUR</char3>
+    <rate>17.084263</rate>
+  </item>
+
+  <item>
+    <date>2014-09-03</date>
+    <char3>EUR</char3>
+    <rate>16.434447</rate>
+  </item>
+
+  <item>
+    <date>2014-09-04</date>
+    <char3>EUR</char3>
+    <rate>16.47657</rate>
+  </item>
+
+  <item>
+    <date>2014-09-05</date>
+    <char3>EUR</char3>
+    <rate>16.688093</rate>
+  </item>
+
+  <item>
+    <date>2014-09-08</date>
+    <char3>EUR</char3>
+    <rate>16.602059</rate>
+  </item>
+
+  <item>
+    <date>2014-09-09</date>
+    <char3>EUR</char3>
+    <rate>16.735384</rate>
+  </item>
+
+  <item>
+    <date>2014-09-10</date>
+    <char3>EUR</char3>
+    <rate>16.710405</rate>
+  </item>
+
+  <item>
+    <date>2014-09-11</date>
+    <char3>EUR</char3>
+    <rate>16.777444</rate>
+  </item>
+
+  <item>
+    <date>2014-09-12</date>
+    <char3>EUR</char3>
+    <rate>16.741866</rate>
+  </item>
+
+  <item>
+    <date>2014-09-15</date>
+    <char3>EUR</char3>
+    <rate>16.685002</rate>
+  </item>
+
+  <item>
+    <date>2014-09-16</date>
+    <char3>EUR</char3>
+    <rate>16.769026</rate>
+  </item>
+
+  <item>
+    <date>2014-09-17</date>
+    <char3>EUR</char3>
+    <rate>16.94029</rate>
+  </item>
+
+  <item>
+    <date>2014-09-18</date>
+    <char3>EUR</char3>
+    <rate>17.393461</rate>
+  </item>
+
+  <item>
+    <date>2014-09-19</date>
+    <char3>EUR</char3>
+    <rate>17.292416</rate>
+  </item>
+
+  <item>
+    <date>2014-09-22</date>
+    <char3>EUR</char3>
+    <rate>17.336974</rate>
+  </item>
+
+  <item>
+    <date>2014-09-23</date>
+    <char3>EUR</char3>
+    <rate>17.374313</rate>
+  </item>
+
+  <item>
+    <date>2014-09-24</date>
+    <char3>EUR</char3>
+    <rate>16.687696000000003</rate>
+  </item>
+
+  <item>
+    <date>2014-09-25</date>
+    <char3>EUR</char3>
+    <rate>16.610404000000003</rate>
+  </item>
+
+  <item>
+    <date>2014-09-26</date>
+    <char3>EUR</char3>
+    <rate>16.409658</rate>
+  </item>
+
+  <item>
+    <date>2014-09-29</date>
+    <char3>EUR</char3>
+    <rate>16.43469</rate>
+  </item>
+
+  <item>
+    <date>2014-09-30</date>
+    <char3>EUR</char3>
+    <rate>16.446759999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-10-01</date>
+    <char3>EUR</char3>
+    <rate>16.301551</rate>
+  </item>
+
+  <item>
+    <date>2014-10-02</date>
+    <char3>EUR</char3>
+    <rate>16.320893</rate>
+  </item>
+
+  <item>
+    <date>2014-10-03</date>
+    <char3>EUR</char3>
+    <rate>16.34514</rate>
+  </item>
+
+  <item>
+    <date>2014-10-06</date>
+    <char3>EUR</char3>
+    <rate>16.33652</rate>
+  </item>
+
+  <item>
+    <date>2014-10-07</date>
+    <char3>EUR</char3>
+    <rate>16.29215</rate>
+  </item>
+
+  <item>
+    <date>2014-10-08</date>
+    <char3>EUR</char3>
+    <rate>16.326323</rate>
+  </item>
+
+  <item>
+    <date>2014-10-09</date>
+    <char3>EUR</char3>
+    <rate>16.351018</rate>
+  </item>
+
+  <item>
+    <date>2014-10-10</date>
+    <char3>EUR</char3>
+    <rate>16.528114000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-10-13</date>
+    <char3>EUR</char3>
+    <rate>16.369852</rate>
+  </item>
+
+  <item>
+    <date>2014-10-14</date>
+    <char3>EUR</char3>
+    <rate>16.421155000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-10-15</date>
+    <char3>EUR</char3>
+    <rate>16.379147</rate>
+  </item>
+
+  <item>
+    <date>2014-10-16</date>
+    <char3>EUR</char3>
+    <rate>16.4043</rate>
+  </item>
+
+  <item>
+    <date>2014-10-17</date>
+    <char3>EUR</char3>
+    <rate>16.51151</rate>
+  </item>
+
+  <item>
+    <date>2014-10-20</date>
+    <char3>EUR</char3>
+    <rate>16.60728</rate>
+  </item>
+
+  <item>
+    <date>2014-10-21</date>
+    <char3>EUR</char3>
+    <rate>16.541778</rate>
+  </item>
+
+  <item>
+    <date>2014-10-22</date>
+    <char3>EUR</char3>
+    <rate>16.526888</rate>
+  </item>
+
+  <item>
+    <date>2014-10-23</date>
+    <char3>EUR</char3>
+    <rate>16.438054</rate>
+  </item>
+
+  <item>
+    <date>2014-10-24</date>
+    <char3>EUR</char3>
+    <rate>16.406802</rate>
+  </item>
+
+  <item>
+    <date>2014-10-27</date>
+    <char3>EUR</char3>
+    <rate>16.393962</rate>
+  </item>
+
+  <item>
+    <date>2014-10-28</date>
+    <char3>EUR</char3>
+    <rate>16.420503</rate>
+  </item>
+
+  <item>
+    <date>2014-10-29</date>
+    <char3>EUR</char3>
+    <rate>16.511824</rate>
+  </item>
+
+  <item>
+    <date>2014-10-30</date>
+    <char3>EUR</char3>
+    <rate>16.497965999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-10-31</date>
+    <char3>EUR</char3>
+    <rate>16.315272</rate>
+  </item>
+
+  <item>
+    <date>2014-11-03</date>
+    <char3>EUR</char3>
+    <rate>16.219514</rate>
+  </item>
+
+  <item>
+    <date>2014-11-04</date>
+    <char3>EUR</char3>
+    <rate>16.183373</rate>
+  </item>
+
+  <item>
+    <date>2014-11-05</date>
+    <char3>EUR</char3>
+    <rate>16.890161</rate>
+  </item>
+
+  <item>
+    <date>2014-11-06</date>
+    <char3>EUR</char3>
+    <rate>17.416679</rate>
+  </item>
+
+  <item>
+    <date>2014-11-07</date>
+    <char3>EUR</char3>
+    <rate>18.112925</rate>
+  </item>
+
+  <item>
+    <date>2014-11-10</date>
+    <char3>EUR</char3>
+    <rate>18.346875999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-11-11</date>
+    <char3>EUR</char3>
+    <rate>19.692124</rate>
+  </item>
+
+  <item>
+    <date>2014-11-12</date>
+    <char3>EUR</char3>
+    <rate>19.567333</rate>
+  </item>
+
+  <item>
+    <date>2014-11-13</date>
+    <char3>EUR</char3>
+    <rate>19.398652</rate>
+  </item>
+
+  <item>
+    <date>2014-11-14</date>
+    <char3>EUR</char3>
+    <rate>19.197707</rate>
+  </item>
+
+  <item>
+    <date>2014-11-17</date>
+    <char3>EUR</char3>
+    <rate>19.071369999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-11-18</date>
+    <char3>EUR</char3>
+    <rate>19.069121</rate>
+  </item>
+
+  <item>
+    <date>2014-11-19</date>
+    <char3>EUR</char3>
+    <rate>19.021418</rate>
+  </item>
+
+  <item>
+    <date>2014-11-20</date>
+    <char3>EUR</char3>
+    <rate>18.985595</rate>
+  </item>
+
+  <item>
+    <date>2014-11-21</date>
+    <char3>EUR</char3>
+    <rate>18.929175</rate>
+  </item>
+
+  <item>
+    <date>2014-11-24</date>
+    <char3>EUR</char3>
+    <rate>18.708517999999998</rate>
+  </item>
+
+  <item>
+    <date>2014-11-25</date>
+    <char3>EUR</char3>
+    <rate>18.624844</rate>
+  </item>
+
+  <item>
+    <date>2014-11-26</date>
+    <char3>EUR</char3>
+    <rate>18.602532</rate>
+  </item>
+
+  <item>
+    <date>2014-11-27</date>
+    <char3>EUR</char3>
+    <rate>18.671189</rate>
+  </item>
+
+  <item>
+    <date>2014-11-28</date>
+    <char3>EUR</char3>
+    <rate>18.681648</rate>
+  </item>
+
+  <item>
+    <date>2014-12-01</date>
+    <char3>EUR</char3>
+    <rate>18.79492</rate>
+  </item>
+
+  <item>
+    <date>2014-12-02</date>
+    <char3>EUR</char3>
+    <rate>18.835725</rate>
+  </item>
+
+  <item>
+    <date>2014-12-03</date>
+    <char3>EUR</char3>
+    <rate>18.866618000000003</rate>
+  </item>
+
+  <item>
+    <date>2014-12-04</date>
+    <char3>EUR</char3>
+    <rate>18.862308</rate>
+  </item>
+
+  <item>
+    <date>2014-12-05</date>
+    <char3>EUR</char3>
+    <rate>18.978021000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-12-08</date>
+    <char3>EUR</char3>
+    <rate>19.192883</rate>
+  </item>
+
+  <item>
+    <date>2014-12-09</date>
+    <char3>EUR</char3>
+    <rate>19.09492</rate>
+  </item>
+
+  <item>
+    <date>2014-12-10</date>
+    <char3>EUR</char3>
+    <rate>19.353773</rate>
+  </item>
+
+  <item>
+    <date>2014-12-11</date>
+    <char3>EUR</char3>
+    <rate>19.421120000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-12-12</date>
+    <char3>EUR</char3>
+    <rate>19.525259000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-12-15</date>
+    <char3>EUR</char3>
+    <rate>19.621676</rate>
+  </item>
+
+  <item>
+    <date>2014-12-16</date>
+    <char3>EUR</char3>
+    <rate>19.600654</rate>
+  </item>
+
+  <item>
+    <date>2014-12-17</date>
+    <char3>EUR</char3>
+    <rate>19.782016000000002</rate>
+  </item>
+
+  <item>
+    <date>2014-12-18</date>
+    <char3>EUR</char3>
+    <rate>19.628625</rate>
+  </item>
+
+  <item>
+    <date>2014-12-19</date>
+    <char3>EUR</char3>
+    <rate>19.372671</rate>
+  </item>
+
+  <item>
+    <date>2014-12-22</date>
+    <char3>EUR</char3>
+    <rate>19.467613</rate>
+  </item>
+
+  <item>
+    <date>2014-12-23</date>
+    <char3>EUR</char3>
+    <rate>19.199694</rate>
+  </item>
+
+  <item>
+    <date>2014-12-24</date>
+    <char3>EUR</char3>
+    <rate>19.260195</rate>
+  </item>
+
+  <item>
+    <date>2014-12-25</date>
+    <char3>EUR</char3>
+    <rate>19.270426</rate>
+  </item>
+
+  <item>
+    <date>2014-12-26</date>
+    <char3>EUR</char3>
+    <rate>19.267976</rate>
+  </item>
+
+  <item>
+    <date>2014-12-29</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2014-12-30</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2014-12-31</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-01</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-02</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-03</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-04</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-05</date>
+    <char3>EUR</char3>
+    <rate>19.232908</rate>
+  </item>
+
+  <item>
+    <date>2015-01-06</date>
+    <char3>EUR</char3>
+    <rate>18.801353</rate>
+  </item>
+
+  <item>
+    <date>2015-01-08</date>
+    <char3>EUR</char3>
+    <rate>18.640487</rate>
+  </item>
+
+  <item>
+    <date>2015-01-09</date>
+    <char3>EUR</char3>
+    <rate>18.534114</rate>
+  </item>
+
+  <item>
+    <date>2015-01-12</date>
+    <char3>EUR</char3>
+    <rate>18.614884</rate>
+  </item>
+
+  <item>
+    <date>2015-01-13</date>
+    <char3>EUR</char3>
+    <rate>18.612436</rate>
+  </item>
+
+  <item>
+    <date>2015-01-14</date>
+    <char3>EUR</char3>
+    <rate>18.581675</rate>
+  </item>
+
+  <item>
+    <date>2015-01-15</date>
+    <char3>EUR</char3>
+    <rate>18.576352</rate>
+  </item>
+
+  <item>
+    <date>2015-01-16</date>
+    <char3>EUR</char3>
+    <rate>18.49626</rate>
+  </item>
+
+  <item>
+    <date>2015-01-17</date>
+    <char3>EUR</char3>
+    <rate>18.397607</rate>
+  </item>
+
+  <item>
+    <date>2015-01-19</date>
+    <char3>EUR</char3>
+    <rate>18.318006</rate>
+  </item>
+
+  <item>
+    <date>2015-01-20</date>
+    <char3>EUR</char3>
+    <rate>18.303647</rate>
+  </item>
+
+  <item>
+    <date>2015-01-21</date>
+    <char3>EUR</char3>
+    <rate>18.277168</rate>
+  </item>
+
+  <item>
+    <date>2015-01-22</date>
+    <char3>EUR</char3>
+    <rate>18.279427000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-01-23</date>
+    <char3>EUR</char3>
+    <rate>18.347203999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-01-26</date>
+    <char3>EUR</char3>
+    <rate>17.704044</rate>
+  </item>
+
+  <item>
+    <date>2015-01-27</date>
+    <char3>EUR</char3>
+    <rate>17.8775</rate>
+  </item>
+
+  <item>
+    <date>2015-01-28</date>
+    <char3>EUR</char3>
+    <rate>17.941995</rate>
+  </item>
+
+  <item>
+    <date>2015-01-29</date>
+    <char3>EUR</char3>
+    <rate>18.098599</rate>
+  </item>
+
+  <item>
+    <date>2015-01-30</date>
+    <char3>EUR</char3>
+    <rate>18.28257</rate>
+  </item>
+
+  <item>
+    <date>2015-02-02</date>
+    <char3>EUR</char3>
+    <rate>18.254179</rate>
+  </item>
+
+  <item>
+    <date>2015-02-03</date>
+    <char3>EUR</char3>
+    <rate>18.369079</rate>
+  </item>
+
+  <item>
+    <date>2015-02-04</date>
+    <char3>EUR</char3>
+    <rate>19.03083</rate>
+  </item>
+
+  <item>
+    <date>2015-02-05</date>
+    <char3>EUR</char3>
+    <rate>20.602529</rate>
+  </item>
+
+  <item>
+    <date>2015-02-06</date>
+    <char3>EUR</char3>
+    <rate>26.391992000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-02-09</date>
+    <char3>EUR</char3>
+    <rate>28.567359999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-02-10</date>
+    <char3>EUR</char3>
+    <rate>28.007658000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-02-11</date>
+    <char3>EUR</char3>
+    <rate>28.872948</rate>
+  </item>
+
+  <item>
+    <date>2015-02-12</date>
+    <char3>EUR</char3>
+    <rate>28.397168999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-02-13</date>
+    <char3>EUR</char3>
+    <rate>29.360502999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-02-16</date>
+    <char3>EUR</char3>
+    <rate>29.647383</rate>
+  </item>
+
+  <item>
+    <date>2015-02-17</date>
+    <char3>EUR</char3>
+    <rate>30.07002</rate>
+  </item>
+
+  <item>
+    <date>2015-02-18</date>
+    <char3>EUR</char3>
+    <rate>30.591828</rate>
+  </item>
+
+  <item>
+    <date>2015-02-19</date>
+    <char3>EUR</char3>
+    <rate>31.111509</rate>
+  </item>
+
+  <item>
+    <date>2015-02-20</date>
+    <char3>EUR</char3>
+    <rate>31.722467</rate>
+  </item>
+
+  <item>
+    <date>2015-02-23</date>
+    <char3>EUR</char3>
+    <rate>32.027645</rate>
+  </item>
+
+  <item>
+    <date>2015-02-24</date>
+    <char3>EUR</char3>
+    <rate>31.963418</rate>
+  </item>
+
+  <item>
+    <date>2015-02-25</date>
+    <char3>EUR</char3>
+    <rate>31.770545000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-02-26</date>
+    <char3>EUR</char3>
+    <rate>34.049544999999995</rate>
+  </item>
+
+  <item>
+    <date>2015-02-27</date>
+    <char3>EUR</char3>
+    <rate>31.419522999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-03-02</date>
+    <char3>EUR</char3>
+    <rate>30.188519999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-03-03</date>
+    <char3>EUR</char3>
+    <rate>27.866153</rate>
+  </item>
+
+  <item>
+    <date>2015-03-04</date>
+    <char3>EUR</char3>
+    <rate>26.547747</rate>
+  </item>
+
+  <item>
+    <date>2015-03-05</date>
+    <char3>EUR</char3>
+    <rate>25.685943</rate>
+  </item>
+
+  <item>
+    <date>2015-03-06</date>
+    <char3>EUR</char3>
+    <rate>25.344739</rate>
+  </item>
+
+  <item>
+    <date>2015-03-10</date>
+    <char3>EUR</char3>
+    <rate>23.604981</rate>
+  </item>
+
+  <item>
+    <date>2015-03-11</date>
+    <char3>EUR</char3>
+    <rate>23.143543</rate>
+  </item>
+
+  <item>
+    <date>2015-03-12</date>
+    <char3>EUR</char3>
+    <rate>22.799746</rate>
+  </item>
+
+  <item>
+    <date>2015-03-13</date>
+    <char3>EUR</char3>
+    <rate>22.941122999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-03-16</date>
+    <char3>EUR</char3>
+    <rate>23.015646999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-03-17</date>
+    <char3>EUR</char3>
+    <rate>23.486016</rate>
+  </item>
+
+  <item>
+    <date>2015-03-18</date>
+    <char3>EUR</char3>
+    <rate>24.776133</rate>
+  </item>
+
+  <item>
+    <date>2015-03-19</date>
+    <char3>EUR</char3>
+    <rate>24.778966</rate>
+  </item>
+
+  <item>
+    <date>2015-03-20</date>
+    <char3>EUR</char3>
+    <rate>24.760618</rate>
+  </item>
+
+  <item>
+    <date>2015-03-23</date>
+    <char3>EUR</char3>
+    <rate>24.946302999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-03-24</date>
+    <char3>EUR</char3>
+    <rate>25.411694999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-03-25</date>
+    <char3>EUR</char3>
+    <rate>25.794938000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-03-26</date>
+    <char3>EUR</char3>
+    <rate>25.815628</rate>
+  </item>
+
+  <item>
+    <date>2015-03-27</date>
+    <char3>EUR</char3>
+    <rate>25.800841000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-03-30</date>
+    <char3>EUR</char3>
+    <rate>25.449314</rate>
+  </item>
+
+  <item>
+    <date>2015-03-31</date>
+    <char3>EUR</char3>
+    <rate>25.449314</rate>
+  </item>
+
+  <item>
+    <date>2015-04-01</date>
+    <char3>EUR</char3>
+    <rate>25.231343000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-04-02</date>
+    <char3>EUR</char3>
+    <rate>25.254831</rate>
+  </item>
+
+  <item>
+    <date>2015-04-03</date>
+    <char3>EUR</char3>
+    <rate>25.46078</rate>
+  </item>
+
+  <item>
+    <date>2015-04-06</date>
+    <char3>EUR</char3>
+    <rate>25.239097</rate>
+  </item>
+
+  <item>
+    <date>2015-04-07</date>
+    <char3>EUR</char3>
+    <rate>25.393659</rate>
+  </item>
+
+  <item>
+    <date>2015-04-08</date>
+    <char3>EUR</char3>
+    <rate>25.496994</rate>
+  </item>
+
+  <item>
+    <date>2015-04-09</date>
+    <char3>EUR</char3>
+    <rate>25.536925999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-04-10</date>
+    <char3>EUR</char3>
+    <rate>25.249267</rate>
+  </item>
+
+  <item>
+    <date>2015-04-14</date>
+    <char3>EUR</char3>
+    <rate>24.186309</rate>
+  </item>
+
+  <item>
+    <date>2015-04-15</date>
+    <char3>EUR</char3>
+    <rate>24.219607999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-04-16</date>
+    <char3>EUR</char3>
+    <rate>23.044264</rate>
+  </item>
+
+  <item>
+    <date>2015-04-17</date>
+    <char3>EUR</char3>
+    <rate>22.970655999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-04-20</date>
+    <char3>EUR</char3>
+    <rate>22.771747</rate>
+  </item>
+
+  <item>
+    <date>2015-04-21</date>
+    <char3>EUR</char3>
+    <rate>23.863379</rate>
+  </item>
+
+  <item>
+    <date>2015-04-22</date>
+    <char3>EUR</char3>
+    <rate>23.835511999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-04-23</date>
+    <char3>EUR</char3>
+    <rate>24.217078</rate>
+  </item>
+
+  <item>
+    <date>2015-04-24</date>
+    <char3>EUR</char3>
+    <rate>24.270461</rate>
+  </item>
+
+  <item>
+    <date>2015-04-27</date>
+    <char3>EUR</char3>
+    <rate>24.301644</rate>
+  </item>
+
+  <item>
+    <date>2015-04-28</date>
+    <char3>EUR</char3>
+    <rate>24.780827</rate>
+  </item>
+
+  <item>
+    <date>2015-04-29</date>
+    <char3>EUR</char3>
+    <rate>24.326131</rate>
+  </item>
+
+  <item>
+    <date>2015-04-30</date>
+    <char3>EUR</char3>
+    <rate>23.155725000000004</rate>
+  </item>
+
+  <item>
+    <date>2015-05-05</date>
+    <char3>EUR</char3>
+    <rate>23.699980999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-05-06</date>
+    <char3>EUR</char3>
+    <rate>23.493622000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-05-07</date>
+    <char3>EUR</char3>
+    <rate>23.61164</rate>
+  </item>
+
+  <item>
+    <date>2015-05-08</date>
+    <char3>EUR</char3>
+    <rate>23.426741000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-05-12</date>
+    <char3>EUR</char3>
+    <rate>23.103883999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-05-13</date>
+    <char3>EUR</char3>
+    <rate>23.194553999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-05-14</date>
+    <char3>EUR</char3>
+    <rate>23.08248</rate>
+  </item>
+
+  <item>
+    <date>2015-05-15</date>
+    <char3>EUR</char3>
+    <rate>23.488121</rate>
+  </item>
+
+  <item>
+    <date>2015-05-18</date>
+    <char3>EUR</char3>
+    <rate>23.446969</rate>
+  </item>
+
+  <item>
+    <date>2015-05-19</date>
+    <char3>EUR</char3>
+    <rate>25.190944</rate>
+  </item>
+
+  <item>
+    <date>2015-05-20</date>
+    <char3>EUR</char3>
+    <rate>23.760384</rate>
+  </item>
+
+  <item>
+    <date>2015-05-21</date>
+    <char3>EUR</char3>
+    <rate>23.139518</rate>
+  </item>
+
+  <item>
+    <date>2015-05-22</date>
+    <char3>EUR</char3>
+    <rate>23.021738</rate>
+  </item>
+
+  <item>
+    <date>2015-05-25</date>
+    <char3>EUR</char3>
+    <rate>23.262262999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-05-26</date>
+    <char3>EUR</char3>
+    <rate>23.200547999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-05-27</date>
+    <char3>EUR</char3>
+    <rate>23.407286</rate>
+  </item>
+
+  <item>
+    <date>2015-05-28</date>
+    <char3>EUR</char3>
+    <rate>22.857148000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-05-29</date>
+    <char3>EUR</char3>
+    <rate>22.934148</rate>
+  </item>
+
+  <item>
+    <date>2015-06-02</date>
+    <char3>EUR</char3>
+    <rate>23.130122</rate>
+  </item>
+
+  <item>
+    <date>2015-06-03</date>
+    <char3>EUR</char3>
+    <rate>23.239005000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-06-04</date>
+    <char3>EUR</char3>
+    <rate>23.388037</rate>
+  </item>
+
+  <item>
+    <date>2015-06-05</date>
+    <char3>EUR</char3>
+    <rate>23.781219</rate>
+  </item>
+
+  <item>
+    <date>2015-06-08</date>
+    <char3>EUR</char3>
+    <rate>23.586749</rate>
+  </item>
+
+  <item>
+    <date>2015-06-09</date>
+    <char3>EUR</char3>
+    <rate>23.554548</rate>
+  </item>
+
+  <item>
+    <date>2015-06-10</date>
+    <char3>EUR</char3>
+    <rate>23.813344</rate>
+  </item>
+
+  <item>
+    <date>2015-06-11</date>
+    <char3>EUR</char3>
+    <rate>23.858841</rate>
+  </item>
+
+  <item>
+    <date>2015-06-12</date>
+    <char3>EUR</char3>
+    <rate>23.618082</rate>
+  </item>
+
+  <item>
+    <date>2015-06-15</date>
+    <char3>EUR</char3>
+    <rate>23.628006</rate>
+  </item>
+
+  <item>
+    <date>2015-06-16</date>
+    <char3>EUR</char3>
+    <rate>24.061275000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-06-17</date>
+    <char3>EUR</char3>
+    <rate>24.838689</rate>
+  </item>
+
+  <item>
+    <date>2015-06-18</date>
+    <char3>EUR</char3>
+    <rate>24.4193</rate>
+  </item>
+
+  <item>
+    <date>2015-06-19</date>
+    <char3>EUR</char3>
+    <rate>24.323766999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-06-22</date>
+    <char3>EUR</char3>
+    <rate>24.44587</rate>
+  </item>
+
+  <item>
+    <date>2015-06-23</date>
+    <char3>EUR</char3>
+    <rate>24.69659</rate>
+  </item>
+
+  <item>
+    <date>2015-06-24</date>
+    <char3>EUR</char3>
+    <rate>24.117417</rate>
+  </item>
+
+  <item>
+    <date>2015-06-25</date>
+    <char3>EUR</char3>
+    <rate>23.746914</rate>
+  </item>
+
+  <item>
+    <date>2015-06-26</date>
+    <char3>EUR</char3>
+    <rate>23.752315</rate>
+  </item>
+
+  <item>
+    <date>2015-06-30</date>
+    <char3>EUR</char3>
+    <rate>23.541404000000004</rate>
+  </item>
+
+  <item>
+    <date>2015-07-01</date>
+    <char3>EUR</char3>
+    <rate>23.50274</rate>
+  </item>
+
+  <item>
+    <date>2015-07-02</date>
+    <char3>EUR</char3>
+    <rate>23.317073999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-07-03</date>
+    <char3>EUR</char3>
+    <rate>23.251447</rate>
+  </item>
+
+  <item>
+    <date>2015-07-06</date>
+    <char3>EUR</char3>
+    <rate>23.321848</rate>
+  </item>
+
+  <item>
+    <date>2015-07-07</date>
+    <char3>EUR</char3>
+    <rate>23.409499</rate>
+  </item>
+
+  <item>
+    <date>2015-07-08</date>
+    <char3>EUR</char3>
+    <rate>23.720688</rate>
+  </item>
+
+  <item>
+    <date>2015-07-09</date>
+    <char3>EUR</char3>
+    <rate>24.221669000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-07-10</date>
+    <char3>EUR</char3>
+    <rate>24.15097</rate>
+  </item>
+
+  <item>
+    <date>2015-07-13</date>
+    <char3>EUR</char3>
+    <rate>24.513586</rate>
+  </item>
+
+  <item>
+    <date>2015-07-14</date>
+    <char3>EUR</char3>
+    <rate>24.267750999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-07-15</date>
+    <char3>EUR</char3>
+    <rate>24.263065</rate>
+  </item>
+
+  <item>
+    <date>2015-07-16</date>
+    <char3>EUR</char3>
+    <rate>24.337907</rate>
+  </item>
+
+  <item>
+    <date>2015-07-17</date>
+    <char3>EUR</char3>
+    <rate>23.892933</rate>
+  </item>
+
+  <item>
+    <date>2015-07-20</date>
+    <char3>EUR</char3>
+    <rate>23.972051</rate>
+  </item>
+
+  <item>
+    <date>2015-07-21</date>
+    <char3>EUR</char3>
+    <rate>23.909272</rate>
+  </item>
+
+  <item>
+    <date>2015-07-22</date>
+    <char3>EUR</char3>
+    <rate>23.930722</rate>
+  </item>
+
+  <item>
+    <date>2015-07-23</date>
+    <char3>EUR</char3>
+    <rate>23.997585</rate>
+  </item>
+
+  <item>
+    <date>2015-07-24</date>
+    <char3>EUR</char3>
+    <rate>24.215063</rate>
+  </item>
+
+  <item>
+    <date>2015-07-27</date>
+    <char3>EUR</char3>
+    <rate>24.146224000000004</rate>
+  </item>
+
+  <item>
+    <date>2015-07-28</date>
+    <char3>EUR</char3>
+    <rate>24.396466999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-07-29</date>
+    <char3>EUR</char3>
+    <rate>24.298649</rate>
+  </item>
+
+  <item>
+    <date>2015-07-30</date>
+    <char3>EUR</char3>
+    <rate>24.347134</rate>
+  </item>
+
+  <item>
+    <date>2015-07-31</date>
+    <char3>EUR</char3>
+    <rate>23.675700000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-08-03</date>
+    <char3>EUR</char3>
+    <rate>23.169615</rate>
+  </item>
+
+  <item>
+    <date>2015-08-04</date>
+    <char3>EUR</char3>
+    <rate>23.782817</rate>
+  </item>
+
+  <item>
+    <date>2015-08-05</date>
+    <char3>EUR</char3>
+    <rate>23.826918999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-08-06</date>
+    <char3>EUR</char3>
+    <rate>23.470131000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-08-07</date>
+    <char3>EUR</char3>
+    <rate>23.385438</rate>
+  </item>
+
+  <item>
+    <date>2015-08-10</date>
+    <char3>EUR</char3>
+    <rate>23.07444</rate>
+  </item>
+
+  <item>
+    <date>2015-08-11</date>
+    <char3>EUR</char3>
+    <rate>23.304194000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-08-12</date>
+    <char3>EUR</char3>
+    <rate>23.626248999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-08-13</date>
+    <char3>EUR</char3>
+    <rate>23.855405</rate>
+  </item>
+
+  <item>
+    <date>2015-08-14</date>
+    <char3>EUR</char3>
+    <rate>23.769091</rate>
+  </item>
+
+  <item>
+    <date>2015-08-17</date>
+    <char3>EUR</char3>
+    <rate>24.305488</rate>
+  </item>
+
+  <item>
+    <date>2015-08-18</date>
+    <char3>EUR</char3>
+    <rate>24.440877999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-08-19</date>
+    <char3>EUR</char3>
+    <rate>24.428628</rate>
+  </item>
+
+  <item>
+    <date>2015-08-20</date>
+    <char3>EUR</char3>
+    <rate>24.363262</rate>
+  </item>
+
+  <item>
+    <date>2015-08-21</date>
+    <char3>EUR</char3>
+    <rate>24.637009</rate>
+  </item>
+
+  <item>
+    <date>2015-08-25</date>
+    <char3>EUR</char3>
+    <rate>24.925983000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-08-26</date>
+    <char3>EUR</char3>
+    <rate>26.030497</rate>
+  </item>
+
+  <item>
+    <date>2015-08-27</date>
+    <char3>EUR</char3>
+    <rate>24.429585000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-08-28</date>
+    <char3>EUR</char3>
+    <rate>24.054176000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-08-31</date>
+    <char3>EUR</char3>
+    <rate>23.871754999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-09-01</date>
+    <char3>EUR</char3>
+    <rate>24.454777</rate>
+  </item>
+
+  <item>
+    <date>2015-09-02</date>
+    <char3>EUR</char3>
+    <rate>24.492815</rate>
+  </item>
+
+  <item>
+    <date>2015-09-03</date>
+    <char3>EUR</char3>
+    <rate>24.748240999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-09-04</date>
+    <char3>EUR</char3>
+    <rate>24.721287000000004</rate>
+  </item>
+
+  <item>
+    <date>2015-09-07</date>
+    <char3>EUR</char3>
+    <rate>24.439881</rate>
+  </item>
+
+  <item>
+    <date>2015-09-08</date>
+    <char3>EUR</char3>
+    <rate>24.652248</rate>
+  </item>
+
+  <item>
+    <date>2015-09-09</date>
+    <char3>EUR</char3>
+    <rate>25.021773</rate>
+  </item>
+
+  <item>
+    <date>2015-09-10</date>
+    <char3>EUR</char3>
+    <rate>24.471193</rate>
+  </item>
+
+  <item>
+    <date>2015-09-11</date>
+    <char3>EUR</char3>
+    <rate>24.315115000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-09-14</date>
+    <char3>EUR</char3>
+    <rate>24.450044</rate>
+  </item>
+
+  <item>
+    <date>2015-09-15</date>
+    <char3>EUR</char3>
+    <rate>24.817522</rate>
+  </item>
+
+  <item>
+    <date>2015-09-16</date>
+    <char3>EUR</char3>
+    <rate>24.901923</rate>
+  </item>
+
+  <item>
+    <date>2015-09-17</date>
+    <char3>EUR</char3>
+    <rate>24.502413999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-09-18</date>
+    <char3>EUR</char3>
+    <rate>24.431763</rate>
+  </item>
+
+  <item>
+    <date>2015-09-21</date>
+    <char3>EUR</char3>
+    <rate>24.710021</rate>
+  </item>
+
+  <item>
+    <date>2015-09-22</date>
+    <char3>EUR</char3>
+    <rate>24.587039</rate>
+  </item>
+
+  <item>
+    <date>2015-09-23</date>
+    <char3>EUR</char3>
+    <rate>24.249368</rate>
+  </item>
+
+  <item>
+    <date>2015-09-24</date>
+    <char3>EUR</char3>
+    <rate>24.056269</rate>
+  </item>
+
+  <item>
+    <date>2015-09-25</date>
+    <char3>EUR</char3>
+    <rate>24.12821</rate>
+  </item>
+
+  <item>
+    <date>2015-09-28</date>
+    <char3>EUR</char3>
+    <rate>24.103991999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-09-29</date>
+    <char3>EUR</char3>
+    <rate>24.114188</rate>
+  </item>
+
+  <item>
+    <date>2015-09-30</date>
+    <char3>EUR</char3>
+    <rate>24.11946</rate>
+  </item>
+
+  <item>
+    <date>2015-10-01</date>
+    <char3>EUR</char3>
+    <rate>23.857501000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-10-02</date>
+    <char3>EUR</char3>
+    <rate>23.592283000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-10-05</date>
+    <char3>EUR</char3>
+    <rate>23.600545999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-10-06</date>
+    <char3>EUR</char3>
+    <rate>23.837892999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-10-07</date>
+    <char3>EUR</char3>
+    <rate>23.866768999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-10-08</date>
+    <char3>EUR</char3>
+    <rate>23.96297</rate>
+  </item>
+
+  <item>
+    <date>2015-10-09</date>
+    <char3>EUR</char3>
+    <rate>23.970222</rate>
+  </item>
+
+  <item>
+    <date>2015-10-12</date>
+    <char3>EUR</char3>
+    <rate>24.423992</rate>
+  </item>
+
+  <item>
+    <date>2015-10-13</date>
+    <char3>EUR</char3>
+    <rate>24.813309</rate>
+  </item>
+
+  <item>
+    <date>2015-10-15</date>
+    <char3>EUR</char3>
+    <rate>24.946349</rate>
+  </item>
+
+  <item>
+    <date>2015-10-16</date>
+    <char3>EUR</char3>
+    <rate>24.811898</rate>
+  </item>
+
+  <item>
+    <date>2015-10-19</date>
+    <char3>EUR</char3>
+    <rate>24.194186</rate>
+  </item>
+
+  <item>
+    <date>2015-10-20</date>
+    <char3>EUR</char3>
+    <rate>24.499153999999997</rate>
+  </item>
+
+  <item>
+    <date>2015-10-21</date>
+    <char3>EUR</char3>
+    <rate>25.008007</rate>
+  </item>
+
+  <item>
+    <date>2015-10-22</date>
+    <char3>EUR</char3>
+    <rate>25.670574000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-10-23</date>
+    <char3>EUR</char3>
+    <rate>25.206026</rate>
+  </item>
+
+  <item>
+    <date>2015-10-26</date>
+    <char3>EUR</char3>
+    <rate>25.021772000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-10-27</date>
+    <char3>EUR</char3>
+    <rate>25.221682</rate>
+  </item>
+
+  <item>
+    <date>2015-10-28</date>
+    <char3>EUR</char3>
+    <rate>25.289050000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-10-29</date>
+    <char3>EUR</char3>
+    <rate>25.369675</rate>
+  </item>
+
+  <item>
+    <date>2015-10-30</date>
+    <char3>EUR</char3>
+    <rate>25.034056</rate>
+  </item>
+
+  <item>
+    <date>2015-11-02</date>
+    <char3>EUR</char3>
+    <rate>25.332189</rate>
+  </item>
+
+  <item>
+    <date>2015-11-03</date>
+    <char3>EUR</char3>
+    <rate>25.390387</rate>
+  </item>
+
+  <item>
+    <date>2015-11-04</date>
+    <char3>EUR</char3>
+    <rate>25.266104</rate>
+  </item>
+
+  <item>
+    <date>2015-11-05</date>
+    <char3>EUR</char3>
+    <rate>25.239537999999996</rate>
+  </item>
+
+  <item>
+    <date>2015-11-06</date>
+    <char3>EUR</char3>
+    <rate>24.949859</rate>
+  </item>
+
+  <item>
+    <date>2015-11-09</date>
+    <char3>EUR</char3>
+    <rate>24.605837</rate>
+  </item>
+
+  <item>
+    <date>2015-11-10</date>
+    <char3>EUR</char3>
+    <rate>24.520717</rate>
+  </item>
+
+  <item>
+    <date>2015-11-11</date>
+    <char3>EUR</char3>
+    <rate>24.379666</rate>
+  </item>
+
+  <item>
+    <date>2015-11-12</date>
+    <char3>EUR</char3>
+    <rate>24.386302</rate>
+  </item>
+
+  <item>
+    <date>2015-11-13</date>
+    <char3>EUR</char3>
+    <rate>24.581021</rate>
+  </item>
+
+  <item>
+    <date>2015-11-16</date>
+    <char3>EUR</char3>
+    <rate>24.821552999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-11-17</date>
+    <char3>EUR</char3>
+    <rate>24.884893</rate>
+  </item>
+
+  <item>
+    <date>2015-11-18</date>
+    <char3>EUR</char3>
+    <rate>25.363739999999996</rate>
+  </item>
+
+  <item>
+    <date>2015-11-19</date>
+    <char3>EUR</char3>
+    <rate>25.506230000000002</rate>
+  </item>
+
+  <item>
+    <date>2015-11-20</date>
+    <char3>EUR</char3>
+    <rate>25.476895</rate>
+  </item>
+
+  <item>
+    <date>2015-11-23</date>
+    <char3>EUR</char3>
+    <rate>25.634715</rate>
+  </item>
+
+  <item>
+    <date>2015-11-24</date>
+    <char3>EUR</char3>
+    <rate>25.582033000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-11-25</date>
+    <char3>EUR</char3>
+    <rate>25.508337</rate>
+  </item>
+
+  <item>
+    <date>2015-11-26</date>
+    <char3>EUR</char3>
+    <rate>25.164664</rate>
+  </item>
+
+  <item>
+    <date>2015-11-27</date>
+    <char3>EUR</char3>
+    <rate>25.041457</rate>
+  </item>
+
+  <item>
+    <date>2015-11-30</date>
+    <char3>EUR</char3>
+    <rate>25.269966</rate>
+  </item>
+
+  <item>
+    <date>2015-12-01</date>
+    <char3>EUR</char3>
+    <rate>25.33468</rate>
+  </item>
+
+  <item>
+    <date>2015-12-02</date>
+    <char3>EUR</char3>
+    <rate>25.272057</rate>
+  </item>
+
+  <item>
+    <date>2015-12-03</date>
+    <char3>EUR</char3>
+    <rate>25.094939</rate>
+  </item>
+
+  <item>
+    <date>2015-12-04</date>
+    <char3>EUR</char3>
+    <rate>24.638066</rate>
+  </item>
+
+  <item>
+    <date>2015-12-07</date>
+    <char3>EUR</char3>
+    <rate>25.781729999999996</rate>
+  </item>
+
+  <item>
+    <date>2015-12-08</date>
+    <char3>EUR</char3>
+    <rate>25.347859</rate>
+  </item>
+
+  <item>
+    <date>2015-12-09</date>
+    <char3>EUR</char3>
+    <rate>24.918091</rate>
+  </item>
+
+  <item>
+    <date>2015-12-10</date>
+    <char3>EUR</char3>
+    <rate>25.04933</rate>
+  </item>
+
+  <item>
+    <date>2015-12-11</date>
+    <char3>EUR</char3>
+    <rate>25.571951</rate>
+  </item>
+
+  <item>
+    <date>2015-12-14</date>
+    <char3>EUR</char3>
+    <rate>26.126803</rate>
+  </item>
+
+  <item>
+    <date>2015-12-15</date>
+    <char3>EUR</char3>
+    <rate>26.152302</rate>
+  </item>
+
+  <item>
+    <date>2015-12-16</date>
+    <char3>EUR</char3>
+    <rate>25.772984</rate>
+  </item>
+
+  <item>
+    <date>2015-12-17</date>
+    <char3>EUR</char3>
+    <rate>25.713624</rate>
+  </item>
+
+  <item>
+    <date>2015-12-18</date>
+    <char3>EUR</char3>
+    <rate>25.462988</rate>
+  </item>
+
+  <item>
+    <date>2015-12-21</date>
+    <char3>EUR</char3>
+    <rate>25.514893999999998</rate>
+  </item>
+
+  <item>
+    <date>2015-12-22</date>
+    <char3>EUR</char3>
+    <rate>25.564231</rate>
+  </item>
+
+  <item>
+    <date>2015-12-23</date>
+    <char3>EUR</char3>
+    <rate>25.35042</rate>
+  </item>
+
+  <item>
+    <date>2015-12-24</date>
+    <char3>EUR</char3>
+    <rate>25.103841000000003</rate>
+  </item>
+
+  <item>
+    <date>2015-12-25</date>
+    <char3>EUR</char3>
+    <rate>25.139218</rate>
+  </item>
+
+  <item>
+    <date>2015-12-28</date>
+    <char3>EUR</char3>
+    <rate>25.328606</rate>
+  </item>
+
+  <item>
+    <date>2015-12-29</date>
+    <char3>EUR</char3>
+    <rate>26.097762</rate>
+  </item>
+
+  <item>
+    <date>2015-12-30</date>
+    <char3>EUR</char3>
+    <rate>26.055598</rate>
+  </item>
+
+  <item>
+    <date>2015-12-31</date>
+    <char3>EUR</char3>
+    <rate>26.223129</rate>
+  </item>
+
+  <item>
+    <date>2016-01-06</date>
+    <char3>EUR</char3>
+    <rate>25.557954</rate>
+  </item>
+
+  <item>
+    <date>2016-01-11</date>
+    <char3>EUR</char3>
+    <rate>25.246597</rate>
+  </item>
+
+  <item>
+    <date>2016-01-12</date>
+    <char3>EUR</char3>
+    <rate>25.591552999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-01-13</date>
+    <char3>EUR</char3>
+    <rate>25.211859</rate>
+  </item>
+
+  <item>
+    <date>2016-01-14</date>
+    <char3>EUR</char3>
+    <rate>25.571144</rate>
+  </item>
+
+  <item>
+    <date>2016-01-15</date>
+    <char3>EUR</char3>
+    <rate>26.089577</rate>
+  </item>
+
+  <item>
+    <date>2016-01-16</date>
+    <char3>EUR</char3>
+    <rate>26.398127</rate>
+  </item>
+
+  <item>
+    <date>2016-01-18</date>
+    <char3>EUR</char3>
+    <rate>26.611563999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-01-19</date>
+    <char3>EUR</char3>
+    <rate>26.834749000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-01-20</date>
+    <char3>EUR</char3>
+    <rate>27.000766</rate>
+  </item>
+
+  <item>
+    <date>2016-01-21</date>
+    <char3>EUR</char3>
+    <rate>26.897800000000004</rate>
+  </item>
+
+  <item>
+    <date>2016-01-22</date>
+    <char3>EUR</char3>
+    <rate>26.711526</rate>
+  </item>
+
+  <item>
+    <date>2016-01-25</date>
+    <char3>EUR</char3>
+    <rate>26.795371</rate>
+  </item>
+
+  <item>
+    <date>2016-01-26</date>
+    <char3>EUR</char3>
+    <rate>26.853448</rate>
+  </item>
+
+  <item>
+    <date>2016-01-27</date>
+    <char3>EUR</char3>
+    <rate>26.928814000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-01-28</date>
+    <char3>EUR</char3>
+    <rate>27.078972</rate>
+  </item>
+
+  <item>
+    <date>2016-01-29</date>
+    <char3>EUR</char3>
+    <rate>27.422974</rate>
+  </item>
+
+  <item>
+    <date>2016-02-01</date>
+    <char3>EUR</char3>
+    <rate>27.906091999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-02-02</date>
+    <char3>EUR</char3>
+    <rate>27.698013999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-02-03</date>
+    <char3>EUR</char3>
+    <rate>28.250462000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-02-04</date>
+    <char3>EUR</char3>
+    <rate>28.096033000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-02-05</date>
+    <char3>EUR</char3>
+    <rate>29.015329</rate>
+  </item>
+
+  <item>
+    <date>2016-02-08</date>
+    <char3>EUR</char3>
+    <rate>29.027736</rate>
+  </item>
+
+  <item>
+    <date>2016-02-09</date>
+    <char3>EUR</char3>
+    <rate>28.726498000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-02-10</date>
+    <char3>EUR</char3>
+    <rate>29.15128</rate>
+  </item>
+
+  <item>
+    <date>2016-02-11</date>
+    <char3>EUR</char3>
+    <rate>29.201986</rate>
+  </item>
+
+  <item>
+    <date>2016-02-12</date>
+    <char3>EUR</char3>
+    <rate>29.597138</rate>
+  </item>
+
+  <item>
+    <date>2016-02-15</date>
+    <char3>EUR</char3>
+    <rate>29.481227</rate>
+  </item>
+
+  <item>
+    <date>2016-02-16</date>
+    <char3>EUR</char3>
+    <rate>29.982613</rate>
+  </item>
+
+  <item>
+    <date>2016-02-17</date>
+    <char3>EUR</char3>
+    <rate>30.170306</rate>
+  </item>
+
+  <item>
+    <date>2016-02-18</date>
+    <char3>EUR</char3>
+    <rate>29.759522</rate>
+  </item>
+
+  <item>
+    <date>2016-02-19</date>
+    <char3>EUR</char3>
+    <rate>29.330761000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-02-22</date>
+    <char3>EUR</char3>
+    <rate>29.799153999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-02-23</date>
+    <char3>EUR</char3>
+    <rate>29.786195</rate>
+  </item>
+
+  <item>
+    <date>2016-02-24</date>
+    <char3>EUR</char3>
+    <rate>29.962691</rate>
+  </item>
+
+  <item>
+    <date>2016-02-25</date>
+    <char3>EUR</char3>
+    <rate>29.888778000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-02-26</date>
+    <char3>EUR</char3>
+    <rate>30.047078000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-02-29</date>
+    <char3>EUR</char3>
+    <rate>29.776061</rate>
+  </item>
+
+  <item>
+    <date>2016-03-01</date>
+    <char3>EUR</char3>
+    <rate>29.500819999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-03-02</date>
+    <char3>EUR</char3>
+    <rate>29.447060999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-03-03</date>
+    <char3>EUR</char3>
+    <rate>29.105763000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-03-04</date>
+    <char3>EUR</char3>
+    <rate>28.575468</rate>
+  </item>
+
+  <item>
+    <date>2016-03-09</date>
+    <char3>EUR</char3>
+    <rate>29.067352</rate>
+  </item>
+
+  <item>
+    <date>2016-03-10</date>
+    <char3>EUR</char3>
+    <rate>28.730338000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-03-11</date>
+    <char3>EUR</char3>
+    <rate>27.706188</rate>
+  </item>
+
+  <item>
+    <date>2016-03-12</date>
+    <char3>EUR</char3>
+    <rate>28.66227</rate>
+  </item>
+
+  <item>
+    <date>2016-03-14</date>
+    <char3>EUR</char3>
+    <rate>28.856137</rate>
+  </item>
+
+  <item>
+    <date>2016-03-15</date>
+    <char3>EUR</char3>
+    <rate>29.484735999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-03-16</date>
+    <char3>EUR</char3>
+    <rate>29.867012</rate>
+  </item>
+
+  <item>
+    <date>2016-03-17</date>
+    <char3>EUR</char3>
+    <rate>29.700965999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-03-18</date>
+    <char3>EUR</char3>
+    <rate>30.200342</rate>
+  </item>
+
+  <item>
+    <date>2016-03-21</date>
+    <char3>EUR</char3>
+    <rate>29.599369000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-03-22</date>
+    <char3>EUR</char3>
+    <rate>29.981633000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-03-23</date>
+    <char3>EUR</char3>
+    <rate>29.266108</rate>
+  </item>
+
+  <item>
+    <date>2016-03-24</date>
+    <char3>EUR</char3>
+    <rate>29.061428999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-03-25</date>
+    <char3>EUR</char3>
+    <rate>29.281658000000004</rate>
+  </item>
+
+  <item>
+    <date>2016-03-28</date>
+    <char3>EUR</char3>
+    <rate>29.078847999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-03-29</date>
+    <char3>EUR</char3>
+    <rate>29.312873</rate>
+  </item>
+
+  <item>
+    <date>2016-03-30</date>
+    <char3>EUR</char3>
+    <rate>29.596009</rate>
+  </item>
+
+  <item>
+    <date>2016-03-31</date>
+    <char3>EUR</char3>
+    <rate>29.689327</rate>
+  </item>
+
+  <item>
+    <date>2016-04-01</date>
+    <char3>EUR</char3>
+    <rate>29.849436999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-04-04</date>
+    <char3>EUR</char3>
+    <rate>29.847209</rate>
+  </item>
+
+  <item>
+    <date>2016-04-05</date>
+    <char3>EUR</char3>
+    <rate>29.581891</rate>
+  </item>
+
+  <item>
+    <date>2016-04-06</date>
+    <char3>EUR</char3>
+    <rate>29.642008</rate>
+  </item>
+
+  <item>
+    <date>2016-04-07</date>
+    <char3>EUR</char3>
+    <rate>29.425906</rate>
+  </item>
+
+  <item>
+    <date>2016-04-08</date>
+    <char3>EUR</char3>
+    <rate>29.320585</rate>
+  </item>
+
+  <item>
+    <date>2016-04-11</date>
+    <char3>EUR</char3>
+    <rate>29.123195999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-04-12</date>
+    <char3>EUR</char3>
+    <rate>29.124912</rate>
+  </item>
+
+  <item>
+    <date>2016-04-13</date>
+    <char3>EUR</char3>
+    <rate>29.120366</rate>
+  </item>
+
+  <item>
+    <date>2016-04-14</date>
+    <char3>EUR</char3>
+    <rate>28.791232</rate>
+  </item>
+
+  <item>
+    <date>2016-04-15</date>
+    <char3>EUR</char3>
+    <rate>28.858725</rate>
+  </item>
+
+  <item>
+    <date>2016-04-18</date>
+    <char3>EUR</char3>
+    <rate>28.746037</rate>
+  </item>
+
+  <item>
+    <date>2016-04-19</date>
+    <char3>EUR</char3>
+    <rate>28.813074</rate>
+  </item>
+
+  <item>
+    <date>2016-04-20</date>
+    <char3>EUR</char3>
+    <rate>28.860537</rate>
+  </item>
+
+  <item>
+    <date>2016-04-21</date>
+    <char3>EUR</char3>
+    <rate>28.915592</rate>
+  </item>
+
+  <item>
+    <date>2016-04-22</date>
+    <char3>EUR</char3>
+    <rate>28.811785</rate>
+  </item>
+
+  <item>
+    <date>2016-04-25</date>
+    <char3>EUR</char3>
+    <rate>28.544548</rate>
+  </item>
+
+  <item>
+    <date>2016-04-26</date>
+    <char3>EUR</char3>
+    <rate>28.541761</rate>
+  </item>
+
+  <item>
+    <date>2016-04-27</date>
+    <char3>EUR</char3>
+    <rate>28.558157</rate>
+  </item>
+
+  <item>
+    <date>2016-04-28</date>
+    <char3>EUR</char3>
+    <rate>28.500621000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-04-29</date>
+    <char3>EUR</char3>
+    <rate>28.606859</rate>
+  </item>
+
+  <item>
+    <date>2016-05-04</date>
+    <char3>EUR</char3>
+    <rate>28.736594</rate>
+  </item>
+
+  <item>
+    <date>2016-05-05</date>
+    <char3>EUR</char3>
+    <rate>28.987171</rate>
+  </item>
+
+  <item>
+    <date>2016-05-06</date>
+    <char3>EUR</char3>
+    <rate>28.738227000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-05-10</date>
+    <char3>EUR</char3>
+    <rate>28.753384999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-05-11</date>
+    <char3>EUR</char3>
+    <rate>28.660605999999998</rate>
+  </item>
+
+  <item>
+    <date>2016-05-12</date>
+    <char3>EUR</char3>
+    <rate>28.894049</rate>
+  </item>
+
+  <item>
+    <date>2016-05-13</date>
+    <char3>EUR</char3>
+    <rate>28.828905</rate>
+  </item>
+
+  <item>
+    <date>2016-05-16</date>
+    <char3>EUR</char3>
+    <rate>28.883128000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-05-17</date>
+    <char3>EUR</char3>
+    <rate>28.756925000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-05-18</date>
+    <char3>EUR</char3>
+    <rate>28.604463999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-05-19</date>
+    <char3>EUR</char3>
+    <rate>28.487640000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-05-20</date>
+    <char3>EUR</char3>
+    <rate>28.283143</rate>
+  </item>
+
+  <item>
+    <date>2016-05-23</date>
+    <char3>EUR</char3>
+    <rate>28.27357</rate>
+  </item>
+
+  <item>
+    <date>2016-05-24</date>
+    <char3>EUR</char3>
+    <rate>28.176221</rate>
+  </item>
+
+  <item>
+    <date>2016-05-25</date>
+    <char3>EUR</char3>
+    <rate>28.069328</rate>
+  </item>
+
+  <item>
+    <date>2016-05-26</date>
+    <char3>EUR</char3>
+    <rate>27.990392999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-05-27</date>
+    <char3>EUR</char3>
+    <rate>28.031674</rate>
+  </item>
+
+  <item>
+    <date>2016-05-30</date>
+    <char3>EUR</char3>
+    <rate>28.071913</rate>
+  </item>
+
+  <item>
+    <date>2016-05-31</date>
+    <char3>EUR</char3>
+    <rate>28.03241</rate>
+  </item>
+
+  <item>
+    <date>2016-06-01</date>
+    <char3>EUR</char3>
+    <rate>28.042982000000002</rate>
+  </item>
+
+  <item>
+    <date>2016-06-02</date>
+    <char3>EUR</char3>
+    <rate>28.044047</rate>
+  </item>
+
+  <item>
+    <date>2016-06-03</date>
+    <char3>EUR</char3>
+    <rate>28.027289999999997</rate>
+  </item>
+
+  <item>
+    <date>2016-06-06</date>
+    <char3>EUR</char3>
+    <rate>27.887311</rate>
+  </item>
+
+  <item>
+    <date>2016-06-07</date>
+    <char3>EUR</char3>
+    <rate>28.356223</rate>
+  </item>
+
+  <item>
+    <date>2016-06-08</date>
+    <char3>EUR</char3>
+    <rate>28.326514000000003</rate>
+  </item>
+
+  <item>
+    <date>2016-06-09</date>
+    <char3>EUR</char3>
+    <rate>28.381421</rate>
+  </item>
+
+  <item>
+    <date>2016-06-10</date>
+    <char3>EUR</char3>
+    <rate>28.360037000000002</rate>
+  </item>
+  <item>
+    <date>2016-06-13</date>
+    <char3>EUR</char3>
+    <rate>28.277344</rate>
+  </item>
+  <item>
+    <date>2016-06-14</date>
+    <char3>EUR</char3>
+    <rate>28.13471</rate>
+  </item>
+  <item>
+    <date>2016-06-15</date>
+    <char3>EUR</char3>
+    <rate>27.967026</rate>
+  </item>
+  <item>
+    <date>2016-06-17</date>
+    <char3>EUR</char3>
+    <rate>27.828447</rate>
+  </item>
+  <item>
+    <date>2016-06-21</date>
+    <char3>EUR</char3>
+    <rate>28.03246</rate>
+  </item>
+  <item>
+    <date>2016-06-23</date>
+    <char3>EUR</char3>
+    <rate>28.092501000000002</rate>
+  </item>
+  <item>
+    <date>2016-06-24</date>
+    <char3>EUR</char3>
+    <rate>28.339168</rate>
+  </item>
+  <item>
+    <date>2016-06-29</date>
+    <char3>EUR</char3>
+    <rate>27.524899</rate>
+  </item>
+</chapter>

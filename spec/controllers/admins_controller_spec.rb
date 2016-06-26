@@ -128,12 +128,13 @@ describe Admin::ArticlesController, :type => :controller do
 	it 'update_access' do
 		extend MacrosActiveAdmin
 		auth_admin
+				article = FactoryGirl.create(:article)
 		category = FactoryGirl.create(:category)
 		subcategory = FactoryGirl.create(:subcategory)
 		region = FactoryGirl.create(:region)
-		article = FactoryGirl.create(:article)
-		put :update, id: article.id, article: {}
-		response.should redirect_to(admin_article_path(article.article_link))
+		put :update, id: article.id, article: {id: 1, category_id: category.id, subcategory_id: subcategory.id, article_link: "article_link", tittle: "tittle", 
+			region_id: region.id, body: "bodybodybodybodybodybodybodybodybodybodybodybodybodybody", main_article: 0, main_image: "qwe", enable_comments: 1}
+		response.should redirect_to(admin_article_path(assigns(:article)))
 	end
 
 	it 'destroy_access' do

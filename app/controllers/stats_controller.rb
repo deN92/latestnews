@@ -1,53 +1,33 @@
 class StatsController < ApplicationController
-	def exchange
-		xml = Nokogiri::XML(open("bank-ua.xml"))
-		@xml = xml.xpath('//item')
 
-		xm = Nokogiri::XML(open("exchange_history.xml"))
-		@xm = xm.xpath('//item')
+	def exchange
+		@xml = Nokogiri::XML(open("bank-ua.xml"))
+		@xml = @xml.xpath('//item')
+		@stats_exchange_usd = Hash.new
+		@stats_exchange_eur = Hash.new
+		select_eur_usd("exchange_history.xml", @stats_exchange_usd)
+		select_eur_usd("exchange_history_euro.xml", @stats_exchange_eur)
+		stat = Stat.new
+		stat.exchange
+	end
+
+	def select_eur_usd(file, stats_exchange_curr)
+		xml_history_rates = Nokogiri::XML(open(file))
+		xml_history_rates = xml_history_rates.xpath('//item')
 		begin
 			@data_from = Date.parse(params[:data_from])
 			@data_to = Date.parse(params[:data_to])
 		rescue
 			@data_from = 1.month.ago
-			@data_to = DateTime.now.to_date 
+			weekend = DateTime.now.strftime("%a")
+			@data_to = 1.days.from_now.to_date
+			@data_to = 3.days.from_now.to_date if weekend == "Fri"
+			@data_to = 2.days.from_now.to_date if weekend == "Sat"
 		end
-
-		@stats_exchange_usd = {}
-		@xm.each do |valute|
+		xml_history_rates.each do |valute|
 			data = Date.parse(valute.at('date').text)
 			if (@data_from <= data &&  data <= @data_to)
-				@stats_exchange_usd.merge!({data => valute.at('rate').text})
-			end
-		end
-
-		exc_date = String.new
-		bank_date = String.new
-		bank_date_xml = String.new
-		bank_char3_xml = String.new
-		bank_rate_xml = String.new
-
-		bank = Nokogiri::XML(open("bank-ua.xml"))
-		bank = bank.xpath('//item[char3="USD"]')
-		bank.each do |i|
-			bank_date = Date.parse(i.at('date').text)
-			bank_date_xml = "<date>#{bank_date}</date>"
-			bank_char3_xml = "<char3>#{i.at('char3').text}</char3>"
-			bank_rate_xml = "<rate>#{i.at('rate').text.to_f/i.at('size').text.to_f}</rate>"
-		end
-		exc = Nokogiri::XML(open("exchange_history.xml"))
-		exc = exc.xpath('//item[last()]')
-		exc.each do |i|
-			exc_date = Date.parse(i.at('date').text)
-		end
-
-		exc_today =  "  <item>\n    #{bank_date_xml}\n    #{bank_char3_xml}\n    #{bank_rate_xml}\n  </item>\n"
-		unless (bank_date == exc_date)
-			xmq = Nokogiri::XML(open("exchange_history.xml"))
-			doc = Nokogiri::XML(xmq.to_xml)
-			doc.at('chapter') << exc_today
-			File.open("exchange_history.xml","w") do |f|
-				f.puts("#{doc}")
+				stats_exchange_curr.merge!({data => valute.at('rate').text.to_f.round(2)})
 			end
 		end
 	end

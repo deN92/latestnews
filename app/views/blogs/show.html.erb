@@ -20,6 +20,9 @@
 				<%= link_to "Видалити статтю", blog_path(@blog), method: :delete, data: { confirm: 'Ви впевнені?' } %>
 			</div>
 		<%end%>
+		<div id = "blog_show_back">
+			<%= link_to "Назад", :back, id: "link_back" %>
+		</div>
 	</div>
 
 	<article id="blog_content">
@@ -27,5 +30,67 @@
 		<p id = "blog_date_time"><%= @blog.created_at.strftime("%d/%m | %k:%M") %></p>
 		<p id="post_theme"><%=@blog.post_theme %></p>
 		<div id="post_body"><%=@blog.post_body.html_safe %></div>
+		
+		<div id = "block_comments">
+			<h3>Коментарі: </h3>
+			<p id = "block_sort_comments">Сортувати за: 
+				<%= link_to "популярністю", :comments_sort => "count_votes_like DESC" %>
+				<span>|</span>
+				<%= link_to "часом додавання", :comments_sort => "created_at DESC" %>
+			</p>
+			<div id = "comments_show">
+				<% @blog.comments.order(params[:comments_sort]).each do |c| %>
+					<div class = "comment" >
+						<div class = "comment_info">
+							<span class = "comment_user"><%= c.user.email %></span>
+							<span class = "comment_time"><%= c.created_at.strftime("%k:%M | %d/%m") %></span>
+							<p class = "bl_vote" id="vote-count_bind-<%= c.id %>">
+								<button class="btn-like" data-vote_id="<%= c.id %>">
+									<i class="fa fa-thumbs-o-up"></i>
+									<span id="like_count-<%= c.id %>"><%= c.get_upvotes.size %></span>
+								</button>
+
+								<button class="btn-dislike" data-vote_id="<%= c.id %>">
+									<i class="fa fa-thumbs-o-down"></i>
+									<span id="dislike_count-<%= c.id %>"><%= c.get_downvotes.size %></span>
+								</button>			
+							</p>
+						</div>
+						<p class = "comment_body"><%= c.body %></p>
+					</div>
+				<% end %>
+			</div>
+
+			<%unless user_signed_in?%>
+		    <div id = "blockForNotReg">
+		      <p>
+		        Ви не авторизовані. 
+		        <br>Якщо ви хочете залишати коментарі, будь-ласка, 
+		        <span class="styleReg"><%= link_to 'авторизуйтесь', new_user_session_path%>.</span>
+		        <br>Якщо ви не маєте облікового запису, ви повинні 
+		        <span class="styleReg"><%= link_to 'зареєструватись', new_user_registration_path%>.</span>
+		      </p>
+		    </div>
+		  <%end%>
+		  <% if user_signed_in? %>
+		  	<% if current_user.is_ban == false%>
+					<div id = "comment_add">
+						<h4>Додати коментар: </h4>
+						
+						<%= form_for [@blog, @comment_new] do |f| %>
+							<p id = "create_comment_body"><%= f.text_area :body %></p>
+							<p id = "create_comment_bt"><%= f.button "Створити", id: "bt_comment"%></p>
+						<%end%>
+					</div>
+				<% else %>
+					<div class = "message_user_banned">
+						У вас не має змоги коментувати новини. <br>
+						Ви забанені адміністратором за порушення правил.
+					</div>
+				<%end%>
+			<%end%>
+		</div>
 	</article>
+
 </div>
+

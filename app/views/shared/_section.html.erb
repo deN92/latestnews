@@ -9,7 +9,7 @@
 						<%= link_to image_tag(a.main_image), category_article_path(category_link, a.article_link)%>
 					</p>
 					<p class="ptittle">
-						<%= link_to a.tittle, category_article_path(category_link, a.article_link) %>
+						<%= link_to a.tittle, category_article_path(category_link, a.article_link), style: "font:Bold 16px Arial" %>
 					</p>
 				</div>
 			<% end %>

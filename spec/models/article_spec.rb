@@ -2,8 +2,9 @@ require "rails_helper"
 
 describe Article do
 
-	it "should do something" do
-		(1+1).should == 2
+	it "age" do
+		date = Date.new(1992, 12, 12)
+		User.age(date).should == 23
 	end
 
 end

@@ -6,9 +6,9 @@ $(document).ready(function() {
 	tinymce.init({
 		selector: "textarea",
 		plugins: [
-				"advlist autolink autosave link image lists charmap print preview hr anchor pagebreak spellchecker",
-				"searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
-				"table contextmenu directionality emoticons template textcolor paste fullpage textcolor colorpicker textpattern"
+			"advlist autolink autosave link image lists charmap print preview hr anchor pagebreak spellchecker",
+			"searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
+			"table contextmenu directionality emoticons template textcolor paste fullpage textcolor colorpicker textpattern"
 		],
 
 		toolbar1: "fontselect fontsizeselect styleselect formatselect | forecolor backcolor | newdocument | removeformat",

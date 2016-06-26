@@ -7,7 +7,7 @@ class Article < ActiveRecord::Base
 	belongs_to :region
 	has_many   :comments
 
-	mount_uploader :main_image, MainImageUploader
+	# mount_uploader :main_image, MainImageUploader
 
 	validates :category_id, :subcategory_id, :tittle, :article_link, :body, :region_id, presence: true
 	validates :tittle, :article_link, uniqueness: true, presence: true, length: { in: 5..150}
@@ -32,8 +32,8 @@ class Article < ActiveRecord::Base
 		return articles_last
 	end
 
-	def self.articles(sc, region_id, art)
-		articles = sc.articles
+	def self.articles(sc, region_id, art, category_id)
+		articles = sc.articles.where(category_id: category_id)
 		articles = Article.select_region(articles, region_id) unless region_id.nil?
 		articles.each do |a|
 			art << a

@@ -1,4 +1,7 @@
 ActiveAdmin.register Category do
+
+	menu :label => "Category", :priority => 4, :link_to => 'admin/category'
+
 	permit_params :id, :category_name, :category_link, :priority, :menu_show
 
 	before_filter :only => [:edit, :update, :show, :destroy] do

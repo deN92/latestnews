@@ -10,4 +10,10 @@ module ApplicationHelper
   def devise_mapping
     @devise_mapping ||= Devise.mappings[:user]
   end
+
+	def url_to_img(s)
+		s.gsub! /\s(http:\/\/.*?\.(png|jpg))\s/,
+						'img scr="\1"'
+		s.html_safe
+	end
 end

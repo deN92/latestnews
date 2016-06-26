@@ -13,14 +13,14 @@ class SubcategoriesController < ApplicationController
 							@articles << s
 							@articles_comments << s
 						end
-						@articles = Article.search_articles_a(@articles, params[:search_article])
-						@articles_comments = Article.sort_comments(@articles_comments)
 						subcategories.last(1).each do |sl|
 							@articles_last << sl
 						end
 					end
-					@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(10)
 				end
+					@articles = Article.search_articles_a(@articles, params[:search_article])
+					@articles_comments = Article.sort_comments(@articles_comments)
+					@articles = Kaminari.paginate_array(@articles).page(params[:page]).per(15)
 			else render_404
 			end
 		end
@@ -37,7 +37,7 @@ class SubcategoriesController < ApplicationController
 					subcategories = Subcategory.subcategory_link(c, params[:id])
 					unless subcategories.first.nil?	
 						subcategories.each do |sc|
-							@articles = Article.articles(sc, params[:region_id], @articles)
+							@articles = Article.articles(sc, params[:region_id], @articles, c.id)
 							@articles_last = @articles
 							@articles_comments = Article.sort_comments(@articles)
 							@articles = Article.search_articles_a(@articles, params[:search_article])

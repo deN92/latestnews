@@ -8,6 +8,7 @@
 //= require articles
 //= require comments
 //= require stats
+//= require blogs
 
 
 

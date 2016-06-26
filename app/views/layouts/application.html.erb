@@ -12,11 +12,11 @@
 				<%= link_to	'<div id="blLogo"><img alt="Latestnews" src="/assets/application/logo.png"></div>'.html_safe, categories_path %>
 				<%= link_to '<p id="name">	<span id="txtwhite">Останні</span><span id="txtblack"> Новини</span><br>
 												<span id="subtext">Завжди правдиві новини</span></p>'.html_safe %>
-				
 				<div id= "valcurs">
 					<% appcont = ApplicationController.new %>
-					<% statscont = StatsController.new %>
+					<% statscont = Stat.new %>
 					<% statscont.exchange %>
+					<% StatsUsersSign.add_count_sign_in %>
 					<% begin %>
 						<% appcont.valcurs.each do |valute| %>
 							<% %w[size char3 rate].each do |i|%>
@@ -25,14 +25,19 @@
 						<%end%>
 					<%rescue%>
 					<%end%>
+					<div id = "valcurs_other"><%= link_to "Показати більше", stats_exchange_path%></div>
 				</div>
 				<div id="authentication">
 					<ul>
 						<% if user_signed_in? %>
 							<li id = "blCurrentUser"><%= link_to current_user.email, user_path(current_user.id) %>
 								<ul id = "menu_curr_user">
+									<% if current_user.is_admin %>
+										<li class = "item_menu"><%= link_to "Адмін-панель", admin_dashboard_path%></li>
+									<% end %>
 									<li class = "item_menu"><%= link_to "Змінити дані", edit_user_path(current_user.id) %></li>
 									<li class = "item_menu"><%= link_to "Безпека", edit_registration_path(:user) %></li>
+									
 									<li class = "item_menu"><%= link_to "Вихід", destroy_user_session_path, :method => :delete%></li>
 								</ul>
 							</li>

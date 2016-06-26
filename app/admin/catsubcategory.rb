@@ -1,5 +1,7 @@
 ActiveAdmin.register Catsubcategory do
 
+		menu :label => "Catsubcategory", :priority => 6, :link_to =>  'admin/catsubcategory'
+
 	permit_params :id, :category_id, :subcategory_id, :priority, :menu_show, category_ids: [], subcategory_ids: []
 
 	index do

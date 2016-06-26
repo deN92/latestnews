@@ -93,7 +93,9 @@
 		</tr>
 	</table>
 
-	<%= line_chart(@stats_exchange_usd, discrete: true) %>
+	<%= line_chart [
+		{name: "Доллар США", data: @stats_exchange_usd}, {name: "Євро", data: @stats_exchange_eur}] 
+	%>
 	</div>
 
 

@@ -61,9 +61,10 @@ body{
 							margin-top: 16px;
 							position: absolute;
 							margin-left: -5px;
-							padding: 3px 5px 3px 5px;
+							padding: 5px 0px 5px 5px;
 							li.item_menu{
-								padding: 7px 0px 7px 0px;
+								min-width: 90%;
+								float: left;
 								
 								a{
 									float: left;
@@ -207,8 +208,16 @@ body{
 		{
 			position: $absolute;
 			width: 160px;
-			top: 50px;
+			top: 40px;
 			left: 650px;
+
+			#valcurs_other{
+				text-align: center;
+				a{
+					color: #fff;
+					font: Bold Italic 15px Tahoma;
+				}
+			}
 
 			.size, .char3, .rate
 			{
@@ -381,6 +390,7 @@ body{
 			height: 100px;
 			background-image: url(application/footer.png);
 			background-repeat: repeat-x;
+
 			#footer_descr{
 				float: left;
 				margin: 45px 20px;

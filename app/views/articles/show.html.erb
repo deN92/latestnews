@@ -51,13 +51,20 @@
     </div>
   <%end%>
   <% if user_signed_in? %>
-		<div id = "comment_add">
-			<h4>Додати коментар: </h4>
-			<%= form_for [@article, @comment_new] do |f| %>
-				<%= f.hidden_field :article_id, value: "#{@article.id}" %>
-				<p id = "create_comment_body"><%= f.text_area :body %></p>
-				<p id = "create_comment_bt"><%= f.button "Створити", id: "bt_comment"%></p>
-			<%end%>
-		</div>
+  	<% if current_user.is_ban == false%>
+			<div id = "comment_add">
+				<h4>Додати коментар: </h4>
+				<%= form_for [@article, @comment_new] do |f| %>
+					<%= f.hidden_field :article_id, value: "#{@article.id}" %>
+					<p id = "create_comment_body"><%= f.text_area :body %></p>
+					<p id = "create_comment_bt"><%= f.button "Створити", id: "bt_comment"%></p>
+				<%end%>
+			</div>
+		<% else %>
+			<div class = "message_user_banned">
+				У вас не має змоги коментувати новини. <br>
+				Ви забанені адміністратором за порушення правил.
+			</div>
+		<%end%>
 	<%end%>
 </div>

@@ -5,8 +5,12 @@ class CommentsController < ApplicationController
 	def create
 		begin
 			Comment.create(comment_params)
+			# unless params[:blog_id].nil?
+			# 	blog = Blog.find(params[:blog_id])
+			# 	blog.update_attribute(:count_comments, blog.count_comments + 1)
+			# end
 			redirect_to :back
-		rescue => e
+		rescue
 			redirect_to :back
 		end
 	end
@@ -43,7 +47,7 @@ class CommentsController < ApplicationController
 
 	private
 		def comment_params
-			params.require(:comment).permit(:article_id, :body).merge(user_id: current_user.id)
+			params.require(:comment).permit(:article_id, :body).merge(user_id: current_user.id, blog_id: params[:blog_id])
 		end
 
 		def comment_find

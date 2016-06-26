@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
 
-
-
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
   devise_for :users
@@ -19,8 +17,10 @@ Rails.application.routes.draw do
   resources :users, except: "index" do
     resources :blogs
   end
-
-  resources :blogs
+  
+  resources :blogs do
+    resources :comments
+  end
   resources :categories, :path => '' do
     resources :subcategories, :path => ''
   end

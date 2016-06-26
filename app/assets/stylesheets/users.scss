@@ -10,12 +10,10 @@ main{
 		#user_profile_photo{
 			margin-left: 2%;
 			display: inline-block;
-			outline: 1px solid red;
 			width: 200px;
 			height: 200px;
 		}
 		#user_profile_info_descr{
-			outline: 1px solid green;
 			margin-left: 25px;
 			display: inline-block;
 			vertical-align: top;
@@ -48,7 +46,7 @@ main{
 		float: right;
 		margin-right: 1%;
 		width: 20%;
-		outline: 1px solid green;
+		// outline: 1px solid green;
 		.account_user_info{
 			height: 51px;
 			outline: 1px solid green;
